@@ -1,15 +1,14 @@
 # Group6_proj1
 
 # Proposal
-Question: How do running trends correlate with weather or calendar trends?
+Question: How does ceo pay compare to worker pay in different industries? Is there a correlation between ceo pay/industry category and layoffs recently?
 
-Data to find: running data from different fitness apps, weather data for different regions (depending on how the fitness apps sort their data). We want to look for run time/session, run distance/session, frequency, number of users running.
+Data to find: ceo pay, median/mean/raw worker pay, industry category, layoffs
 
 The questions you’ll ask of the data
-Are there trends that follow local weather? Are there trends with calendar date (New Year's Resolutions, summer body, etc)
+Trends in pay, industry, layoffs. Mapping and regression to look for correlations.
 
 Possible source for the data
-https://developers.strava.com/
-https://dev.fitbit.com/build/reference/web-api/
-https://developer.underarmour.com/
-https://www.weather.gov/documentation/services-web-api#/default/gridpoint_stations
+https://www.kaggle.com/datasets/salimwid/latest-top-3000-companies-ceo-salary-202223?resource=download
+https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
