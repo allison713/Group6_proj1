@@ -1,0 +1,2176 @@
+,ticker,company_name,median_worker_pay,pay_ratio,ceo_name,salary,industry
+0,ADV,Advantage Solutions,"$14,328 ",721:01:00,Tanya Domier,"$10,330,444 ",Communication%20Services
+1,AMC,AMC Entertainment,"$9,386 ","2,015:1",Adam Aron,"$18,909,546 ",Communication%20Services
+2,AMCX,AMC Networks,"$64,652 ",185:01:00,Matthew Blank,"$6,967,220 ",Communication%20Services
+3,ATEX,Anterix,"$300,000 ",24:01:00,Robert Schwartz,"$6,532,403 ",Communication%20Services
+4,ATNI,ATN International,"$54,116 ",62:01:00,Michael Prior,"$3,379,851 ",Communication%20Services
+5,ATUS,Altice USA,"$79,575 ",482:01:00,Dexter Goei,"$38,333,508 ",Communication%20Services
+6,ATVI,Activision Blizzard,"$117,207 ",7:01,Robert Kotick,"$826,549 ",Communication%20Services
+7,AUD,Audacy,"$56,639 ",33:01:00,David Field,"$2,511,305 ",Communication%20Services
+8,BAND,Bandwidth,"$93,073 ",36:01:00,David Morken,"$3,384,684 ",Communication%20Services
+9,CABO,Cable One,"$62,778 ",69:01:00,Julia Laulis,"$4,327,815 ",Communication%20Services
+10,CARG,Cargurus,"$99,390 ",193:01:00,Jason Trevisan,"$19,211,250 ",Communication%20Services
+11,CARS,Cars.com,"$77,171 ",91:01:00,T. Vetter,"$6,985,255 ",Communication%20Services
+12,CCO,Clear Channel Outdoor,"$50,547 ",123:01:00,Christopher Eccleshare,"$6,234,771 ",Communication%20Services
+13,CCOI,Cogent Communications,"$88,542 ",143:01:00,David Schaeffer,"$11,504,458 ",Communication%20Services
+14,CDLX,Cardlytics,"$215,408 ",31:01:00,Lynne Laube,"$6,625,395 ",Communication%20Services
+15,CHTR,Charter Communications,"$60,007 ",698:01:00,Thomas Rutledge,"$41,860,263 ",Communication%20Services
+16,CMCSA,Comcast,"$83,840 ",405:01:00,Brian Roberts,"$33,978,581 ",Communication%20Services
+17,CNK,Cinemark,"$5,584 ","1,353:1",Mark Zoradi,"$7,553,272 ",Communication%20Services
+18,CNSL,Consolidated Communications,"$82,844 ",56:01:00,C. Udell,"$4,671,543 ",Communication%20Services
+19,DHX,DHI Group,"$114,090 ",24:01:00,Art Zeile,"$2,702,822 ",Communication%20Services
+20,DIS,The Walt Disney Company,"$50,430 ",644:01:00,Robert Chapek,"$32,464,293 ",Communication%20Services
+21,DISCA,Warner Bros. Discovery,"$82,964 ","2,972:1",David Zaslav,"$246,573,481 ",Communication%20Services
+22,DISH,DISH Network,"$58,161 ",50:01:00,W. Carlson,"$2,895,882 ",Communication%20Services
+23,EA,Electronic Arts,"$115,569 ",172:01:00,Andrew Wilson,"$19,858,539 ",Communication%20Services
+24,EB,Eventbrite,"$122,072 ",53:01:00,Julia Hartz,"$6,500,718 ",Communication%20Services
+25,EVC,Entravision Communications,"$38,967 ",165:01:00,Walter Ulloa,"$6,442,220 ",Communication%20Services
+26,EVER,EverQuote,"$94,637 ",15:01,Jayme Mendal,"$1,418,565 ",Communication%20Services
+27,FOXA,Fox,"$91,803 ",237:01:00,Lachlan Murdoch,"$21,748,681 ",Communication%20Services
+28,FWONA,Liberty Media,"$162,742 ",133:01:00,Gregory Maffei,"$21,575,769 ",Communication%20Services
+29,FYBR,Frontier Communications Parent,"$80,800 ",262:01:00,Nick Jeffery,"$17,209,584 ",Communication%20Services
+30,GCI,Gannett,"$48,419 ",160:01:00,Michael Reed,"$7,741,052 ",Communication%20Services
+31,GOGO,Gogo,"$155,005 ",22:01,Oakleigh Thorne,"$3,345,530 ",Communication%20Services
+32,GOOGL,Alphabet,"$295,884 ",21:01,Sundar Pichai,"$6,322,599 ",Communication%20Services
+33,GSAT,Globalstar,"$84,524 ",10:01,David Kagan,"$871,997 ",Communication%20Services
+34,GTN,Gray Television,"$46,627 ",237:01:00,Hilton Howell Jr.,"$11,515,178 ",Communication%20Services
+35,IAC,IAC,"$62,542 ",86:01:00,Joseph Levin,"$5,365,063 ",Communication%20Services
+36,IDT,IDT,"$38,075 ",27:01:00,Shmuel Jonas,"$1,027,500 ",Communication%20Services
+37,IHRT,iHeartMedia,"$63,686 ",138:01:00,Robert Pittman,"$8,768,653 ",Communication%20Services
+38,IMAX,IMAX,"$85,107 ",107:01:00,Richard Gelfond,"$9,081,442 ",Communication%20Services
+39,IPG,The Interpublic Group of Companies,"$59,814 ",290:01:00,Philippe Krakowsky,"$17,371,647 ",Communication%20Services
+40,IRDM,Iridium Communications,"$151,506 ",36:01:00,Matthew Desch,"$5,402,931 ",Communication%20Services
+41,LBRDK,Liberty Broadband,"$84,277 ",214:01:00,Gregory Maffei,"$18,018,126 ",Communication%20Services
+42,LGF.A,Lions Gate Entertainment,"$96,739 ",58:01:00,Jon Feltheimer,"$5,585,412 ",Communication%20Services
+43,LILAK,Liberty Latin America,"$35,621 ","1,055:1",Balan Nair,"$37,576,803 ",Communication%20Services
+44,LUMN,Lumen Technologies,"$75,984 ",298:01:00,Jeffrey Storey,"$22,654,781 ",Communication%20Services
+45,LYV,Live Nation Entertainment,"$15,740 ",879:01:00,Michael Rapino,"$13,842,464 ",Communication%20Services
+46,MAX,MediaAlpha,"$301,732 ",3:01,Steven Yi,"$1,018,780 ",Communication%20Services
+47,MCS,The Marcus,"$8,597 ",446:01:00,Gregory Marcus,"$3,834,147 ",Communication%20Services
+48,META,Meta Platforms,"$292,785 ",92:01:00,Mark Zuckerberg,"$26,823,061 ",Communication%20Services
+49,MGNI,Magnite,"$126,485 ",145:01:00,Michael Barrett,"$18,291,589 ",Communication%20Services
+50,MSGE,Madison Square Garden Entertainment,"$25,399 ",758:01:00,James Dolan,"$19,243,679 ",Communication%20Services
+51,MSGS,Madison Square Garden Sports,"$59,310 ",140:01:00,Andrew Lustgarten,"$8,280,968 ",Communication%20Services
+52,MTCH,Match Group,"$106,881 ",238:01:00,Sharmistha Dubey,"$25,397,675 ",Communication%20Services
+53,NFLX,Netflix,"$201,743 ",202:01:00,Reed Hastings,"$40,823,725 ",Communication%20Services
+54,NWSA,News,"$76,185 ",258:01:00,Robert Thomson,"$19,662,203 ",Communication%20Services
+55,NXST,Nexstar Media Group,"$64,152 ",330:01:00,Perry Sook,"$21,145,853 ",Communication%20Services
+56,NYT,The New York Times Company,"$143,071 ",41:01:00,Meredith Levien,"$5,755,526 ",Communication%20Services
+57,OMC,Omnicom Group,"$50,612 ",395:01:00,John Wren,"$19,981,715 ",Communication%20Services
+58,OOMA,Ooma,"$91,328 ",52:01:00,Eric Stang,"$4,736,784 ",Communication%20Services
+59,PARA,Paramount Global,"$94,580 ",212:01:00,Robert Bakish,"$20,035,212 ",Communication%20Services
+60,PINS,Pinterest,"$284,887 ",1:01,Benjamin Silbermann,"$199,100 ",Communication%20Services
+61,PLTK,Playtika Holding,"$69,325 ",911:01:00,Robert Antokol,"$63,123,469 ",Communication%20Services
+62,PUBM,PubMatic,"$72,954 ",118:01:00,Rajeev Goel,"$8,609,029 ",Communication%20Services
+63,QNST,QuinStreet,"$73,983 ",58:01:00,Douglas Valenti,"$4,319,500 ",Communication%20Services
+64,ROKU,Roku,"$262,665 ",69:01:00,Anthony Wood,"$18,133,692 ",Communication%20Services
+65,SATS,EchoStar,"$112,859 ",16:01,Michael Dugan,"$1,775,101 ",Communication%20Services
+66,SBGI,Sinclair Broadcast Group,"$53,677 ",289:01:00,Christopher Ripley,"$15,532,018 ",Communication%20Services
+67,SCHL,Scholastic,"$39,417 ",136:01:00,Peter Warwick,"$5,178,808 ",Communication%20Services
+68,SHEN,Shenandoah Telecommunications Company,"$70,275 ",34:01:00,Christopher French,"$2,420,824 ",Communication%20Services
+69,SIRI,Sirius XM,"$139,882 ",233:01:00,Jennifer Witz,"$32,641,874 ",Communication%20Services
+70,SSP,The E.W. Scripps,"$59,299 ",124:01:00,Adam Symson,"$7,353,669 ",Communication%20Services
+71,SSTK,Shutterstock,"$140,603 ",41:01:00,Stan Pavlovsky,"$5,717,651 ",Communication%20Services
+72,T,AT&T,"$107,570 ",231:01:00,John Stankey,"$24,820,879 ",Communication%20Services
+73,TDS,Telephone and Data Systems,"$70,453 ",137:01:00,LeRoy Carlson Jr.,"$9,616,139 ",Communication%20Services
+74,TGNA,TEGNA,"$62,496 ",111:01:00,David Lougee,"$6,958,477 ",Communication%20Services
+75,THRY,Thryv,"$92,155 ",35:01:00,Joseph Walsh,"$3,268,711 ",Communication%20Services
+76,TMUS,T-Mobile US,"$72,572 ",312:01:00,G. Sievert,"$22,610,659 ",Communication%20Services
+77,TRIP,TripAdvisor,"$101,065 ",76:01:00,Stephen Kaufer,"$7,676,612 ",Communication%20Services
+78,TRUE,TrueCar,"$163,598 ",22:01,Michael Darrow,"$3,608,731 ",Communication%20Services
+79,TTD,The Trade Desk,"$194,939 ","4,283:1",Jeff Green,"$834,959,367 ",Communication%20Services
+80,TTGT,TechTarget,"$76,426 ",138:01:00,Michael Cotoia,"$10,534,913 ",Communication%20Services
+81,TTWO,Take-Two Interactive Software,"$70,096 ",2:01,Strauss Zelnick,"$142,996 ",Communication%20Services
+82,USM,United States Cellular,"$81,760 ",79:01:00,Laurent Therivel,"$6,438,260 ",Communication%20Services
+83,VZ,Verizon Communications,"$122,492 ",166:01:00,Hans Vestberg,"$20,342,871 ",Communication%20Services
+84,WLY,John Wiley & Sons,"$54,568 ",91:01:00,Brian Napack,"$4,948,300 ",Communication%20Services
+85,WOW,WideOpenWest,"$64,290 ",92:01:00,Teresa Elder,"$5,929,085 ",Communication%20Services
+86,WWE,World Wrestling Entertainment,"$118,276 ",43:01:00,Vincent McMahon,"$5,051,547 ",Communication%20Services
+87,YELP,Yelp,"$101,349 ",99:01:00,Jeremy Stoppelman,"$10,044,676 ",Communication%20Services
+88,ZD,Ziff Davis,"$70,299 ",233:01:00,Vivek Shah,"$16,394,111 ",Communication%20Services
+89,AAN,The Aaron's Company,"$33,632 ",178:01:00,Douglas Lindsay,"$5,998,425 ",Consumer%20Discretionary
+90,AAP,Advance Auto Parts,"$24,960 ",403:01:00,Thomas Greco,"$10,052,271 ",Consumer%20Discretionary
+91,ABG,Asbury Automotive Group,"$66,857 ",111:01:00,David Hult,"$7,452,895 ",Consumer%20Discretionary
+92,ABNB,Airbnb,"$202,541 ",1:01,Brian Chesky,"$132,152 ",Consumer%20Discretionary
+93,ADNT,Adient plc,"$18,799 ",758:01:00,Douglas Del Grosso,"$14,242,424 ",Consumer%20Discretionary
+94,ADT,ADT,"$67,604 ",111:01:00,James DeVries,"$7,479,792 ",Consumer%20Discretionary
+95,AEO,American Eagle Outfitters,"$8,439 ","1,763:1",Jay Schottenstein,"$14,875,447 ",Consumer%20Discretionary
+96,AMZN,Amazon.com,"$32,855 ","6,474:1",Andrew Jassy,"$212,701,169 ",Consumer%20Discretionary
+97,AN,AutoNation,"$64,057 ",150:01:00,Michael Manley,"$8,513,663 ",Consumer%20Discretionary
+98,ANF,Abercrombie & Fitch,"$3,915 ","3,282:1",Fran Horowitz,"$12,851,399 ",Consumer%20Discretionary
+99,APEI,American Public Education,"$29,408 ",102:01:00,Angela Selden,"$2,994,052 ",Consumer%20Discretionary
+100,APTV,Aptiv Plc,"$7,402 ","1,992:1",Kevin Clark,"$14,744,780 ",Consumer%20Discretionary
+101,ARKO,ARKO,"$24,241 ",263:01:00,Arie Kotler,"$6,375,923 ",Consumer%20Discretionary
+102,ARMK,Aramark,"$15,154 ",880:01:00,John Zillmer,"$13,324,828 ",Consumer%20Discretionary
+103,ASO,Academy Sports and Outdoors,"$19,284 ",596:01:00,Ken Hicks,"$11,484,293 ",Consumer%20Discretionary
+104,ATGE,Adtalem Global Education,"$42,016 ",176:01:00,Stephen Beard,"$9,204,332 ",Consumer%20Discretionary
+105,AXL,American Axle & Manufacturing,"$38,032 ",294:01:00,David Dauch,"$11,176,460 ",Consumer%20Discretionary
+106,AZO,AutoZone,"$31,751 ",451:01:00,William Rhodes III,"$14,330,010 ",Consumer%20Discretionary
+107,BBBY,Bed Bath & Beyond,"$18,652 ",524:01:00,Mark Tritton,"$9,775,622 ",Consumer%20Discretionary
+108,BBWI,Bath & Body Works,"$10,632 ","1,662:1",Andrew Meslow,"$17,668,627 ",Consumer%20Discretionary
+109,BBY,Best Buy,"$29,999 ",521:01:00,Corie Barry,"$15,631,157 ",Consumer%20Discretionary
+110,BC,Brunswick,"$51,391 ",188:01:00,David Foulkes,"$9,637,406 ",Consumer%20Discretionary
+111,BFAM,Bright Horizons Family Solutions,"$27,959 ",152:01:00,Stephen Kramer,"$4,237,306 ",Consumer%20Discretionary
+112,BH,Biglari,"$10,134 ",89:01:00,Sardar Biglari,"$900,000 ",Consumer%20Discretionary
+113,BIG,Big Lots,"$9,085 ",995:01:00,Bruce Thorn,"$9,042,187 ",Consumer%20Discretionary
+114,BJRI,BJ's Restaurants,"$22,219 ",113:01:00,Gregory Levin,"$2,519,663 ",Consumer%20Discretionary
+115,BKE,The Buckle,"$7,200 ","1,666:1",Dennis Nelson,"$11,994,209 ",Consumer%20Discretionary
+116,BKNG,Booking,"$58,005 ",931:01:00,Glenn Fogel,"$53,982,195 ",Consumer%20Discretionary
+117,BLD,TopBuild,"$54,929 ",86:01:00,Robert Buck,"$4,729,324 ",Consumer%20Discretionary
+118,BLMN,Bloomin' Brands,"$16,334 ",460:01:00,David Deno,"$7,518,278 ",Consumer%20Discretionary
+119,BOOT,Boot Barn,"$18,152 ",291:01:00,James Conroy,"$5,279,816 ",Consumer%20Discretionary
+120,BURL,Burlington Stores,"$12,690 ","1,093:1",Michael O'Sullivan,"$13,867,435 ",Consumer%20Discretionary
+121,BWA,BorgWarner,"$31,740 ",554:01:00,Frederic Lissalde,"$17,592,090 ",Consumer%20Discretionary
+122,BYD,Boyd Gaming,"$31,361 ",470:01:00,Keith Smith,"$14,740,782 ",Consumer%20Discretionary
+123,BZH,Beazer Homes USA,"$110,862 ",64:01:00,Allan Merrill,"$7,038,727 ",Consumer%20Discretionary
+124,CAKE,The Cheesecake Factory Incorporated,"$28,866 ",268:01:00,David Overton,"$7,375,204 ",Consumer%20Discretionary
+125,CAL,Caleres,"$24,431 ",417:01:00,Diane Sullivan,"$10,196,791 ",Consumer%20Discretionary
+126,CATO,The Cato,"$13,861 ",394:01:00,John D. Cato,"$5,466,540 ",Consumer%20Discretionary
+127,CBRL,Cracker Barrel Old Country Store,"$19,633 ",355:01:00,Sandra Cochran,"$6,964,275 ",Consumer%20Discretionary
+128,CCL,Carnival,"$8,658 ","1,740:1",Arnold Donald,"$15,063,788 ",Consumer%20Discretionary
+129,CCS,Century Communities,"$110,966 ",61:01:00,Dale Francescon,"$6,753,672 ",Consumer%20Discretionary
+130,CHDN,Churchill Downs Incorporated,"$27,745 ",496:01:00,William Carstanjen,"$13,755,283 ",Consumer%20Discretionary
+131,CHGG,Chegg,"$62,035 ",339:01:00,Daniel Rosensweig,"$21,005,605 ",Consumer%20Discretionary
+132,CHH,Choice Hotels International,"$134,099 ",83:01:00,Patrick Pacious,"$11,153,040 ",Consumer%20Discretionary
+133,CHS,Chico's FAS,"$3,932 ","1,470:1",Molly Langenstein,"$5,780,586 ",Consumer%20Discretionary
+134,CHUY,Chuy's,"$20,931 ",91:01:00,Steve Hislop,"$1,911,341 ",Consumer%20Discretionary
+135,CLAR,Clarus,"$54,074 ",143:01:00,Warren Kanders,"$7,721,987 ",Consumer%20Discretionary
+136,CMG,Chipotle Mexican Grill,"$15,811 ","1,131:1",Brian Niccol,"$17,880,580 ",Consumer%20Discretionary
+137,CNTY,Century Casinos,"$49,694 ",29:01:00,Peter Hoetzinger,"$1,401,028 ",Consumer%20Discretionary
+138,COLM,Columbia Sportswear Company,"$31,397 ",152:01:00,Timothy Boyle,"$4,751,179 ",Consumer%20Discretionary
+139,CONN,Conn's,"$30,255 ",399:01:00,Chandra Holt,"$11,541,818 ",Consumer%20Discretionary
+140,CPRI,Capri Limited,"$27,198 ",542:01:00,John Idol,"$14,737,831 ",Consumer%20Discretionary
+141,CRI,Carter's,"$8,587 ","1,288:1",Michael Casey,"$11,056,385 ",Consumer%20Discretionary
+142,CROX,Crocs,"$27,877 ",566:01:00,Andrew Rees,"$15,785,920 ",Consumer%20Discretionary
+143,CSV,Carriage Services,"$21,750 ",246:01:00,Melvin Payne,"$5,346,781 ",Consumer%20Discretionary
+144,CTRN,Citi Trends,"$23,400 ",127:01:00,David Makuen,"$2,979,581 ",Consumer%20Discretionary
+145,CVCO,Cavco Industries,"$46,764 ",101:01:00,William Boor,"$4,717,716 ",Consumer%20Discretionary
+146,CVNA,Carvana,"$36,975 ",137:01:00,Ernie Garcia III,"$5,050,345 ",Consumer%20Discretionary
+147,CWH,Camping World,"$43,746 ",457:01:00,Marcus Lemonis,"$20,011,035 ",Consumer%20Discretionary
+148,CZR,Caesars Entertainment,"$35,618 ",634:01:00,Thomas Reeg,"$22,576,517 ",Consumer%20Discretionary
+149,DAN,Dana Incorporated,"$47,624 ",223:01:00,James Kamsickas,"$10,616,003 ",Consumer%20Discretionary
+150,DASH,DoorDash,"$87,662 ",3:01,Tony Xu,"$300,297 ",Consumer%20Discretionary
+151,DBI,Designer Brands,"$12,543 ",776:01:00,Roger Rawlins,"$9,735,430 ",Consumer%20Discretionary
+152,DDS,Dillard's,"$30,121 ",420:01:00,William II,"$12,655,214 ",Consumer%20Discretionary
+153,DECK,Deckers Outdoor,"$43,501 ",250:01:00,David Powers,"$10,854,934 ",Consumer%20Discretionary
+154,DENN,Dennys,"$34,752 ",184:01:00,John Miller,"$6,400,488 ",Consumer%20Discretionary
+155,DFH,Dream Finders Homes,"$77,286 ",184:01:00,Patrick Zalupski,"$14,391,664 ",Consumer%20Discretionary
+156,DG,Dollar General,"$17,773 ",935:01:00,Todd Vasos,"$16,618,873 ",Consumer%20Discretionary
+157,DHI,D.R. Horton,"$116,088 ",259:01:00,David Auld,"$29,996,862 ",Consumer%20Discretionary
+158,DIN,Dine Brands Global,"$17,180 ",634:01:00,John Peyton,"$10,838,013 ",Consumer%20Discretionary
+159,DKS,Dick's Sporting Goods,"$10,495 ",911:01:00,Lauren Hobart,"$9,566,005 ",Consumer%20Discretionary
+160,DLTR,Dollar Tree,"$13,490 ",760:01:00,Michael Witynski,"$10,249,698 ",Consumer%20Discretionary
+161,DNUT,Krispy Kreme,"$27,278 ",867:01:00,Michael Tattersfield,"$23,655,212 ",Consumer%20Discretionary
+162,DORM,Dorman Products,"$48,388 ",70:01:00,Kevin Olsen,"$3,377,508 ",Consumer%20Discretionary
+163,DPZ,Domino's Pizza,"$17,782 ",401:01:00,Richard Allison,"$7,138,003 ",Consumer%20Discretionary
+164,DRI,Darden Restaurants,"$21,931 ",542:01:00,Eugene Lee Jr.,"$11,891,842 ",Consumer%20Discretionary
+165,DXLG,Destination XL Group,"$35,240 ",103:01:00,Harvey Kanter,"$3,616,278 ",Consumer%20Discretionary
+166,EAT,Brinker International,"$21,869 ",132:01:00,Kevin Hochman,"$1,826,257 ",Consumer%20Discretionary
+167,EBAY,eBay,"$135,528 ",160:01:00,Jamie Iannone,"$21,685,102 ",Consumer%20Discretionary
+168,ELY,Topgolf Callaway Brands,"$45,136 ",601:01:00,Oliver Brewer,"$27,135,201 ",Consumer%20Discretionary
+169,ETD,Ethan Allen Interiors,"$34,212 ",119:01:00,M. Kathwari,"$4,075,599 ",Consumer%20Discretionary
+170,ETSY,Etsy,"$231,338 ",175:01:00,Josh Silverman,"$40,584,292 ",Consumer%20Discretionary
+171,EVRI,Everi,"$85,065 ",38:01:00,Michael Rumbolz,"$3,262,952 ",Consumer%20Discretionary
+172,EXPE,Expedia Group,"$102,270 ","2,897:1",Peter Kern,"$296,247,749 ",Consumer%20Discretionary
+173,EXPR,Express,"$8,033 ",827:01:00,Timothy Baxter,"$6,643,720 ",Consumer%20Discretionary
+174,EYE,National Vision,"$22,798 ",251:01:00,L. Fahs,"$5,728,490 ",Consumer%20Discretionary
+175,F,Ford Motor Company,"$64,003 ",356:01:00,James Farley Jr.,"$22,813,174 ",Consumer%20Discretionary
+176,FIVE,Five Below,"$11,454 ",790:01:00,Joel Anderson,"$9,047,922 ",Consumer%20Discretionary
+177,FL,Foot Locker,"$12,135 ","1,191:1",Richard Johnson,"$14,458,325 ",Consumer%20Discretionary
+178,FLL,Full House Resorts,"$24,567 ",105:01:00,Daniel Lee,"$2,571,232 ",Consumer%20Discretionary
+179,FLWS,1-800-FLOWERS.COM,"$36,640 ",132:01:00,Christopher McCann,"$4,818,185 ",Consumer%20Discretionary
+180,FND,Floor & Decor,"$23,768 ",216:01:00,Thomas Taylor Jr.,"$5,143,661 ",Consumer%20Discretionary
+181,FOXF,Fox Factory Holding,"$50,792 ",150:01:00,Michael Dennison,"$7,817,826 ",Consumer%20Discretionary
+182,FRG,Franchise Group,"$13,436 ",693:01:00,Brian Kahn,"$9,310,064 ",Consumer%20Discretionary
+183,FSR,Fisker,"$71,923 ",1:01,Henrik Fisker,"$68,621 ",Consumer%20Discretionary
+184,FTDR,Frontdoor,"$58,653 ",105:01:00,Rexford Tibbens,"$6,150,602 ",Consumer%20Discretionary
+185,GCO,Genesco,"$3,820 ","2,295:1",Mimi Vaughn,"$8,766,458 ",Consumer%20Discretionary
+186,GDEN,Golden Entertainment,"$34,415 ",255:01:00,Blake Sartini,"$8,781,384 ",Consumer%20Discretionary
+187,GES,Guess,"$23,921 ",658:01:00,Carlos Alberini,"$15,729,716 ",Consumer%20Discretionary
+188,GHC,Graham Company,"$39,833 ",57:01:00,Timothy O'Shaughnessy,"$2,272,461 ",Consumer%20Discretionary
+189,GIII,G-III Apparel Group,"$30,692 ",813:01:00,Morris Goldfarb,"$24,942,778 ",Consumer%20Discretionary
+190,GM,General Motors Company,"$69,433 ",420:01:00,Mary Barra,"$29,136,780 ",Consumer%20Discretionary
+191,GME,GameStop,"$12,417 ","1,355:1",Matthew Furlong,"$16,812,934 ",Consumer%20Discretionary
+192,GNTX,Gentex,"$56,636 ",64:01:00,Steven Downing,"$3,642,695 ",Consumer%20Discretionary
+193,GOLF,Acushnet,"$15,555 ",520:01:00,David Maher,"$8,092,225 ",Consumer%20Discretionary
+194,GPC,Genuine Parts Company,"$41,606 ",284:01:00,Paul Donahue,"$11,810,704 ",Consumer%20Discretionary
+195,GPI,Group 1 Automotive,"$54,880 ",156:01:00,Earl Hesterberg,"$8,577,257 ",Consumer%20Discretionary
+196,GPRO,GoPro,"$155,947 ",33:01:00,Nicholas Woodman,"$5,110,365 ",Consumer%20Discretionary
+197,GPS,The Gap,"$7,348 ","2,485:1",Sonia Syngal,"$18,260,915 ",Consumer%20Discretionary
+198,GRBK,Green Brick Partners,"$80,699 ",63:01:00,James Brickman,"$5,087,182 ",Consumer%20Discretionary
+199,GRMN,Garmin,"$38,118 ",111:01:00,Clifton Pemble,"$4,238,341 ",Consumer%20Discretionary
+200,GRPN,Groupon,"$53,570 ",188:01:00,Kedar Deshpande,"$9,419,692 ",Consumer%20Discretionary
+201,GRWG,GrowGeneration,"$34,103 ",60:01:00,Darren Lampert,"$2,040,132 ",Consumer%20Discretionary
+202,GT,The Goodyear Tire & Rubber Company,"$43,746 ",490:01:00,Richard Kramer,"$21,415,578 ",Consumer%20Discretionary
+203,H,Hyatt Hotels,"$36,186 ",665:01:00,Mark Hoplamazian,"$24,070,053 ",Consumer%20Discretionary
+204,HAS,Hasbro,"$82,787 ",38:01:00,Richard Stoddart,"$3,130,233 ",Consumer%20Discretionary
+205,HBI,Hanesbrands,"$7,055 ","1,564:1",Stephen Bratspies,"$11,031,249 ",Consumer%20Discretionary
+206,HD,The Home Depot,"$28,697 ",455:01:00,Craig Menear,"$13,059,751 ",Consumer%20Discretionary
+207,HELE,Helen of Troy Limited,"$81,788 ",119:01:00,Julien Mininberg,"$9,746,177 ",Consumer%20Discretionary
+208,HGV,Hilton Grand Vacations,"$42,745 ",408:01:00,Mark Wang,"$17,455,265 ",Consumer%20Discretionary
+209,HIBB,Hibbett,"$5,401 ",502:01:00,Michael Longo,"$2,712,976 ",Consumer%20Discretionary
+210,HLT,Hilton Worldwide,"$36,915 ",631:01:00,Christopher Nassetta,"$23,285,248 ",Consumer%20Discretionary
+211,HOG,Harley-Davidson,"$86,402 ",210:01:00,Jochen Zeitz,"$18,105,568 ",Consumer%20Discretionary
+212,HOV,Hovnanian Enterprises,"$110,849 ",113:01:00,Ara Hovnanian,"$12,478,182 ",Consumer%20Discretionary
+213,HRB,H&R Block,"$25,695 ",429:01:00,Jeffrey Jones II,"$11,040,183 ",Consumer%20Discretionary
+214,HVT,Haverty Furniture Companies,"$56,028 ",56:01:00,Clarence Smith,"$3,161,832 ",Consumer%20Discretionary
+215,HZO,MarineMax,"$55,916 ",98:01:00,W. McGill,"$5,457,691 ",Consumer%20Discretionary
+216,IBP,Installed Building Products,"$53,221 ",82:01:00,Jeffrey Edwards,"$4,351,277 ",Consumer%20Discretionary
+217,IRBT,iRobot,"$122,236 ",51:01:00,Colin Angle,"$6,273,391 ",Consumer%20Discretionary
+218,JACK,Jack in the Box,"$19,128 ",246:01:00,Darin Harris,"$4,709,511 ",Consumer%20Discretionary
+219,JOAN,JOANN,"$9,020 ",270:01:00,Wade Miquelon,"$2,431,858 ",Consumer%20Discretionary
+220,JOUT,Johnson Outdoors,"$88,056 ",37:01:00,Helen Johnson-Leipold,"$3,231,701 ",Consumer%20Discretionary
+221,JWN,Nordstrom,"$26,479 ",217:01:00,Erik Nordstrom,"$6,445,146 ",Consumer%20Discretionary
+222,KBH,KB Home,"$127,680 ",113:01:00,Jeffrey Mezger,"$14,366,518 ",Consumer%20Discretionary
+223,KMX,CarMax,"$51,674 ",265:01:00,William Nash,"$13,689,123 ",Consumer%20Discretionary
+224,KSS,Kohls,"$11,921 ","1,084:1",Michelle Gass,"$12,924,834 ",Consumer%20Discretionary
+225,KTB,Kontoor Brands,"$5,102 ","1,956:1",Scott Baxter,"$9,979,870 ",Consumer%20Discretionary
+226,LAD,Lithia Motors,"$56,825 ",185:01:00,Bryan DeBoer,"$10,532,359 ",Consumer%20Discretionary
+227,LAUR,Laureate Education,"$5,524 ","1,325:1",Eilif Serck-Hanssen,"$7,318,937 ",Consumer%20Discretionary
+228,LCII,LCI Industries,"$53,338 ",206:01:00,Jason Lippert,"$10,993,750 ",Consumer%20Discretionary
+229,LCUT,Lifetime Brands,"$34,385 ",133:01:00,Robert Kay,"$4,559,720 ",Consumer%20Discretionary
+230,LE,Lands' End,"$26,817 ",203:01:00,Jerome Griffith,"$5,443,598 ",Consumer%20Discretionary
+231,LEA,Lear,"$8,106 ","1,642:1",Raymond Scott,"$13,306,375 ",Consumer%20Discretionary
+232,LEG,"Leggett & Platt, Incorporated","$48,862 ",189:01:00,Karl Glassman,"$9,210,966 ",Consumer%20Discretionary
+233,LEN,Lennar,"$101,561 ",335:01:00,Richard Beckwitt and Jonathan Jaffe,"$34,045,217 ",Consumer%20Discretionary
+234,LESL,Leslie's,"$33,514 ",236:01:00,Michael Egeck,"$7,911,515 ",Consumer%20Discretionary
+235,LGIH,LGI Homes,"$123,976 ",53:01:00,Eric Lipar,"$6,526,801 ",Consumer%20Discretionary
+236,LIND,Lindblad Expeditions,"$71,921 ",96:01:00,Dolf Berle,"$6,936,263 ",Consumer%20Discretionary
+237,LKQ,LKQ,"$38,982 ",242:01:00,Dominick Zarcone,"$9,445,636 ",Consumer%20Discretionary
+238,LL,LL Flooring,"$55,600 ",39:01:00,Charles Tyson,"$2,174,088 ",Consumer%20Discretionary
+239,LNW,Light & Wonder,"$56,305 ",239:01:00,Barry Cottle,"$13,485,500 ",Consumer%20Discretionary
+240,LOCO,El Pollo Loco,"$15,027 ",100:01:00,Laurance Roberts,"$1,499,832 ",Consumer%20Discretionary
+241,LOPE,Grand Canyon Education,"$54,529 ",34:01:00,Brian Mueller,"$1,843,058 ",Consumer%20Discretionary
+242,LOVE,The Lovesac,"$16,275 ",101:01:00,Shawn Nelson,"$1,640,096 ",Consumer%20Discretionary
+243,LOW,Lowes Companies,"$22,697 ",787:01:00,Marvin Ellison,"$17,871,715 ",Consumer%20Discretionary
+244,LQDT,Liquidity Services,"$68,534 ",41:01:00,William Angrick III,"$2,781,410 ",Consumer%20Discretionary
+245,LRN,Stride,"$61,798 ",124:01:00,James Rhyu,"$7,691,994 ",Consumer%20Discretionary
+246,LULU,lululemon athletica,"$17,061 ",778:01:00,Calvin McDonald,"$13,265,455 ",Consumer%20Discretionary
+247,LVS,Las Vegas Sands,"$35,879 ",866:01:00,Robert G. Goldstein,"$31,204,900 ",Consumer%20Discretionary
+248,LZB,La-Z-Boy Incorporated,"$40,021 ",145:01:00,Melinda Whittington,"$5,798,794 ",Consumer%20Discretionary
+249,M,Macy's,"$28,037 ",438:01:00,Jeffrey Gennette,"$12,290,931 ",Consumer%20Discretionary
+250,MAR,Marriott International,"$36,505 ",506:01:00,Anthony Capuano,"$18,391,882 ",Consumer%20Discretionary
+251,MAT,Mattel,"$5,963 ","2,705:1",Ynon Kreiz,"$16,128,895 ",Consumer%20Discretionary
+252,MBUU,Malibu Boats,"$44,867 ",108:01:00,Jack Springer,"$4,838,018 ",Consumer%20Discretionary
+253,MCD,McDonald's,"$8,897 ","2,251:1",Christopher Kempczinski,"$20,028,132 ",Consumer%20Discretionary
+254,MCFT,Mastercraft Boat,"$51,000 ",49:01:00,Frederick Brightbill,"$2,491,868 ",Consumer%20Discretionary
+255,MCRI,Monarch Casino & Resort,"$38,434 ",76:01:00,John Farahi,"$5,442,917 ",Consumer%20Discretionary
+256,MGM,MGM Resorts International,"$34,988 ",379:01:00,William Hornbuckle,"$13,274,524 ",Consumer%20Discretionary
+257,MHK,Mohawk Industries,"$36,391 ",143:01:00,Jeffrey Lorberbaum,"$5,190,696 ",Consumer%20Discretionary
+258,MHO,M/I Homes,"$83,784 ",89:01:00,Robert Schottenstein,"$7,427,795 ",Consumer%20Discretionary
+259,MNRO,Monro,"$42,410 ",107:01:00,Michael Broderick,"$4,366,643 ",Consumer%20Discretionary
+260,MOD,Modine Manufacturing Company,"$29,744 ",68:01:00,Neil Brinker,"$2,013,440 ",Consumer%20Discretionary
+261,MOV,Movado Group,"$35,155 ",205:01:00,Efraim Grinberg,"$7,212,004 ",Consumer%20Discretionary
+262,MPAA,Motorcar Parts of America,"$10,003 ",433:01:00,Selwyn Joffe,"$4,334,648 ",Consumer%20Discretionary
+263,MPX,Marine Products,"$32,070 ",39:01:00,Richard Hubbell,"$1,254,878 ",Consumer%20Discretionary
+264,MTH,Meritage Homes,"$120,350 ",66:01:00,Phillippe Lord,"$7,915,603 ",Consumer%20Discretionary
+265,MTN,Vail Resorts,"$19,924 ",279:01:00,Kirsten Lynch,"$6,609,628 ",Consumer%20Discretionary
+266,MUSA,Murphy USA,"$19,058 ",453:01:00,R. Clyde,"$8,638,157 ",Consumer%20Discretionary
+267,NCLH,Norwegian Cruise Line,"$19,319 ","1,018:1",Frank Rio,"$19,668,768 ",Consumer%20Discretionary
+268,NDLS,Noodles &,"$11,837 ",203:01:00,Dave Boennighausen,"$2,408,743 ",Consumer%20Discretionary
+269,NKE,NIKE,"$37,410 ",771:01:00,John Donahoe II,"$28,838,060 ",Consumer%20Discretionary
+270,NVR,NVR,"$71,417 ",58:01:00,Paul Saville,"$4,162,400 ",Consumer%20Discretionary
+271,NWL,Newell Brands,"$33,913 ",337:01:00,Ravichandra Saligram,"$11,438,798 ",Consumer%20Discretionary
+272,ODP,The ODP,"$47,937 ",229:01:00,Gerry Smith,"$10,981,650 ",Consumer%20Discretionary
+273,OLLI,Ollie's Bargain Outlet,"$19,315 ",220:01:00,John Swygert,"$4,253,126 ",Consumer%20Discretionary
+274,ORLY,O'Reilly Automotive,"$28,113 ",454:01:00,Gregory Johnson,"$12,764,270 ",Consumer%20Discretionary
+275,OSTK,Overstock.com,"$71,898 ",40:01:00,Jonathan Johnson III,"$2,855,412 ",Consumer%20Discretionary
+276,OXM,Oxford Industries,"$23,527 ",203:01:00,Thomas Chubb III,"$4,765,870 ",Consumer%20Discretionary
+277,PAG,Penske Automotive Group,"$52,712 ",132:01:00,Roger Penske,"$6,981,685 ",Consumer%20Discretionary
+278,PATK,Patrick Industries,"$46,783 ",172:01:00,Andy Nemeth,"$8,023,798 ",Consumer%20Discretionary
+279,PENN,PENN Entertainment,"$33,930 ","1,942:1",Jay Snowden,"$65,887,214 ",Consumer%20Discretionary
+280,PETS,PetMed Express,"$41,750 ",69:01:00,Mathew Hulett,"$12,602,605 ",Consumer%20Discretionary
+281,PHM,PulteGroup,"$136,630 ",118:01:00,Ryan Marshall,"$16,149,555 ",Consumer%20Discretionary
+282,PII,Polaris,"$63,188 ",154:01:00,Michael Speetzen,"$9,758,906 ",Consumer%20Discretionary
+283,PLAY,Dave & Buster's Entertainment,"$17,206 ",297:01:00,Kevin Sheehan,"$3,481,565 ",Consumer%20Discretionary
+284,PLCE,The Children's Place,"$10,591 ","1,117:1",Jane Elfers,"$11,831,132 ",Consumer%20Discretionary
+285,PLNT,Planet Fitness,"$29,640 ",313:01:00,Christopher Rondeau,"$9,272,049 ",Consumer%20Discretionary
+286,POOL,Pool,"$61,709 ",90:01:00,Peter Arvan,"$5,575,384 ",Consumer%20Discretionary
+287,PRDO,Perdoceo Education,"$40,454 ",124:01:00,Todd Nelson,"$4,998,632 ",Consumer%20Discretionary
+288,PRTS,CarParts.com,"$17,190 ",244:01:00,Lev Peker,"$4,186,297 ",Consumer%20Discretionary
+289,PRTY,Party City Holdco,"$10,176 ",261:01:00,Bradley Weston,"$2,658,334 ",Consumer%20Discretionary
+290,PTON,Peloton Interactive,"$73,117 ","2,299:1",Barry McCarthy,"$168,073,420 ",Consumer%20Discretionary
+291,PVH,PVH,"$17,839 ",826:01:00,Stefan Larsson,"$14,714,208 ",Consumer%20Discretionary
+292,PZZA,Papa John's International,"$9,027 ",802:01:00,Robert Lynch,"$7,239,979 ",Consumer%20Discretionary
+293,QRTEA,Qurate Retail,"$29,674 ",686:01:00,David Rawlinson II,"$16,225,908 ",Consumer%20Discretionary
+294,QS,QuantumScape,"$145,391 ",475:01:00,Jagdeep Singh,"$69,102,285 ",Consumer%20Discretionary
+295,QUOT,Quotient Technology,"$86,376 ",39:01:00,Steven Boal,"$3,380,995 ",Consumer%20Discretionary
+296,RCII,Rent-A-Center,"$32,729 ",358:01:00,Mitchell Fadel,"$11,732,761 ",Consumer%20Discretionary
+297,RCL,Royal Caribbean Group,"$14,706 ","1,075:1",Richard Fain,"$15,812,027 ",Consumer%20Discretionary
+298,REAL,The RealReal,"$46,767 ",107:01:00,Julie Wainwright,"$4,985,262 ",Consumer%20Discretionary
+299,RGR,"Sturm, Ruger & Company","$54,777 ",70:01:00,Christopher Killoy,"$3,815,695 ",Consumer%20Discretionary
+300,RH,RH,"$35,759 ",127:01:00,Gary Friedman,"$4,532,285 ",Consumer%20Discretionary
+301,RICK,RCI Hospitality,"$31,039 ",50:01:00,Eric Langan,"$1,545,218 ",Consumer%20Discretionary
+302,RL,Ralph Lauren,"$26,670 ",696:01:00,Patrice Louvet,"$18,553,058 ",Consumer%20Discretionary
+303,ROST,Ross Stores,"$10,806 ","1,480:1",Barbara Rentler,"$15,989,635 ",Consumer%20Discretionary
+304,RRR,Red Rock Resorts,"$36,261 ",87:01:00,Frank Fertitta III,"$3,150,788 ",Consumer%20Discretionary
+305,RUTH,Ruth's Hospitality Group,"$38,286 ",139:01:00,Cheryl Henry,"$5,337,817 ",Consumer%20Discretionary
+306,SAH,Sonic Automotive,"$61,413 ",106:01:00,David Smith,"$6,511,243 ",Consumer%20Discretionary
+307,SBH,Sally Beauty,"$14,856 ",563:01:00,Denise Paulonis,"$8,363,154 ",Consumer%20Discretionary
+308,SBUX,Starbucks,"$12,935 ","1,579:1",Kevin Johnson,"$20,425,162 ",Consumer%20Discretionary
+309,SCI,Service International,"$37,979 ",308:01:00,Thomas Ryan,"$11,708,035 ",Consumer%20Discretionary
+310,SCVL,Shoe Carnival,"$17,221 ",142:01:00,Mark Worden,"$2,181,767 ",Consumer%20Discretionary
+311,SEAS,SeaWorld Entertainment,"$8,807 ",228:01:00,Marc Swanson,"$2,009,400 ",Consumer%20Discretionary
+312,SFIX,Stitch Fix,"$39,000 ",80:01:00,Elizabeth Spaulding,"$3,134,920 ",Consumer%20Discretionary
+313,SGC,Superior Group of Companies,"$9,391 ",626:01:00,Michael Benstock,"$5,874,538 ",Consumer%20Discretionary
+314,SHAK,Shake Shack,"$18,432 ",297:01:00,Randy Garutti,"$5,466,562 ",Consumer%20Discretionary
+315,SHOO,Steven Madden,"$25,726 ",294:01:00,Edward Rosenfeld,"$7,566,831 ",Consumer%20Discretionary
+316,SIG,Signet Jewelers Limited,"$25,701 ",505:01:00,Virginia Drosos,"$12,953,460 ",Consumer%20Discretionary
+317,SIX,Six Flags Entertainment,"$14,277 ",668:01:00,Selim Bassoul,"$11,932,585 ",Consumer%20Discretionary
+318,SKX,Skechers U.S.A.,"$10,586 ","2,265:1",Robert Greenberg,"$23,977,314 ",Consumer%20Discretionary
+319,SKY,Skyline Champion,"$42,124 ",137:01:00,Mark Yost,"$5,765,742 ",Consumer%20Discretionary
+320,SMP,Standard Motor Products,"$27,045 ",64:01:00,Eric Sills,"$1,743,163 ",Consumer%20Discretionary
+321,SNBR,Sleep Number,"$56,397 ",170:01:00,Shelly Ibach,"$9,599,571 ",Consumer%20Discretionary
+322,SONO,Sonos,"$172,126 ",32:01:00,Patrick Spence,"$5,482,555 ",Consumer%20Discretionary
+323,SRI,Stoneridge,"$14,008 ",257:01:00,Jonathan DeGaynor,"$3,605,813 ",Consumer%20Discretionary
+324,STRA,Strategic Education,"$59,737 ",104:01:00,Karl McDonnell,"$6,197,825 ",Consumer%20Discretionary
+325,SWBI,Smith & Wesson Brands,"$60,055 ",47:01:00,Mark Smith,"$2,821,898 ",Consumer%20Discretionary
+326,TGT,Target,"$25,501 ",775:01:00,Brian Cornell,"$19,758,766 ",Consumer%20Discretionary
+327,THO,Thor Industries,"$54,701 ",290:01:00,Robert Martin,"$15,866,718 ",Consumer%20Discretionary
+328,THRM,Gentherm Incorporated,"$14,482 ",412:01:00,Phillip Eyler,"$5,972,977 ",Consumer%20Discretionary
+329,TJX,The TJX Companies,"$14,139 ","2,249:1",Ernie Herrman,"$31,802,000 ",Consumer%20Discretionary
+330,TLYS,Tilly's,"$5,165 ",639:01:00,Edmond Thomas,"$3,300,130 ",Consumer%20Discretionary
+331,TMHC,Taylor Morrison Home,"$107,478 ",112:01:00,Sheryl Palmer,"$12,063,477 ",Consumer%20Discretionary
+332,TNL,Travel + Leisure,"$43,088 ",247:01:00,Michael Brown,"$10,620,565 ",Consumer%20Discretionary
+333,TOL,Toll Brothers,"$87,815 ",139:01:00,Douglas Yearley  Jr.,"$12,195,409 ",Consumer%20Discretionary
+334,TPH,Tri Pointe Homes,"$123,121 ",61:01:00,Douglas Bauer,"$7,496,282 ",Consumer%20Discretionary
+335,TPR,Tapestry,"$29,147 ",471:01:00,Joanne Crevoiserat,"$13,739,426 ",Consumer%20Discretionary
+336,TPX,Tempur Sealy International,"$53,370 ",230:01:00,Scott Thompson,"$19,854,617 ",Consumer%20Discretionary
+337,TSCO,Tractor Supply Company,"$29,046 ",383:01:00,Harry Lawton III,"$11,117,251 ",Consumer%20Discretionary
+338,TTSH,Tile Shop,"$51,408 ",24:01:00,Cabell Lolmaugh,"$1,223,452 ",Consumer%20Discretionary
+339,TUP,Tupperware Brands,"$32,032 ",170:01:00,Miguel Fernandez,"$5,433,669 ",Consumer%20Discretionary
+340,TWOU,2U,"$51,451 ",338:01:00,Christopher Paucek,"$17,406,594 ",Consumer%20Discretionary
+341,TXRH,Texas Roadhouse,"$16,234 ",232:01:00,Gerald Morgan,"$3,769,765 ",Consumer%20Discretionary
+342,UAA,Under Armour,"$10,466 ","1,485:1",Patrik Frisk,"$15,544,913 ",Consumer%20Discretionary
+343,UEIC,Universal Electronics,"$9,908 ",298:01:00,Paul Arling,"$2,956,910 ",Consumer%20Discretionary
+344,UFI,Unifi,"$44,169 ",37:01:00,Edmund Ingle,"$1,617,866 ",Consumer%20Discretionary
+345,ULTA,Ulta Beauty,"$13,403 ",659:01:00,David Kimbell,"$8,539,767 ",Consumer%20Discretionary
+346,URBN,Urban Outfitters,"$14,907 ",70:01:00,Richard Hayne,"$1,040,539 ",Consumer%20Discretionary
+347,UTI,Universal Technical Institute,"$70,833 ",28:01:00,Jerome Grant,"$2,215,714 ",Consumer%20Discretionary
+348,VAC,Marriott Vacations Worldwide,"$36,899 ",358:01:00,Stephen Weisz,"$13,223,937 ",Consumer%20Discretionary
+349,VC,Visteon,"$18,403 ",506:01:00,Sachin Lawande,"$9,307,212 ",Consumer%20Discretionary
+350,VFC,VF,"$26,784 ",576:01:00,Steven Rendle,"$15,423,154 ",Consumer%20Discretionary
+351,VSCO,Victoria's Secret,"$10,856 ","1,189:1",Martin Waters,"$12,905,231 ",Consumer%20Discretionary
+352,VSTO,Vista Outdoor,"$66,639 ",187:01:00,Christopher Metz,"$12,460,138 ",Consumer%20Discretionary
+353,VUZI,Vuzix,"$94,177 ",456:01:00,Paul Travers,"$42,966,518 ",Consumer%20Discretionary
+354,VVNT,Vivint Smart Home,"$48,024 ",700:01:00,David Bywater,"$33,617,639 ",Consumer%20Discretionary
+355,W,Wayfair,"$42,886 ",5:01,Niraj Shah,"$227,271 ",Consumer%20Discretionary
+356,WEN,The Wendy's Company,"$13,757 ",703:01:00,Todd Penegor,"$9,669,733 ",Consumer%20Discretionary
+357,WGO,Winnebago Industries,"$76,084 ",88:01:00,Michael Happe,"$6,676,569 ",Consumer%20Discretionary
+358,WH,Wyndham Hotels & Resorts,"$36,102 ",505:01:00,Geoffrey Ballotti,"$18,209,539 ",Consumer%20Discretionary
+359,WHR,Whirlpool,"$27,128 ",692:01:00,Marc Bitzer,"$18,751,901 ",Consumer%20Discretionary
+360,WINA,Winmark,"$84,473 ",22:01,Brett Heffes,"$1,826,625 ",Consumer%20Discretionary
+361,WING,Wingstop,"$30,268 ",167:01:00,Charles Morrison,"$5,042,788 ",Consumer%20Discretionary
+362,WISH,ContextLogic,"$145,046 ",3:01,Piotr Szulczewski,"$450,000 ",Consumer%20Discretionary
+363,WKHS,Workhorse Group,"$96,759 ",123:01:00,Richard Dauch,"$11,962,651 ",Consumer%20Discretionary
+364,WOOF,Petco Health & Wellness Company,"$27,079 ",149:01:00,Ron Coughlin,"$4,025,740 ",Consumer%20Discretionary
+365,WSM,Williams-Sonoma,"$24,866 ",858:01:00,Laura Alber,"$21,324,327 ",Consumer%20Discretionary
+366,WW,WW International,"$8,741 ",588:01:00,Mindy Grossman,"$5,137,456 ",Consumer%20Discretionary
+367,WWW,Wolverine World Wide,"$69,949 ",206:01:00,Blake Krueger,"$14,405,857 ",Consumer%20Discretionary
+368,WYNN,"Wynn Resorts, Limited","$44,048 ",294:01:00,Matthew Maddox,"$12,928,747 ",Consumer%20Discretionary
+369,XPEL,XPEL,"$39,613 ",33:01:00,Ryan Pape,"$1,302,500 ",Consumer%20Discretionary
+370,YETI,YETI,"$115,152 ",67:01:00,Matthew Reintjes,"$7,678,474 ",Consumer%20Discretionary
+371,YUM,Yum! Brands,"$13,082 ","2,108:1",David Gibbs,"$27,578,659 ",Consumer%20Discretionary
+372,ZUMZ,Zumiez,"$9,515 ",260:01:00,Richard Brooks Jr.,"$2,474,467 ",Consumer%20Discretionary
+373,ACI,Albertsons Companies,"$31,781 ",272:01:00,Vivek Sankaran,"$8,639,520 ",Consumer%20Staples
+374,ADM,Archer-Daniels-Midland Company,"$81,320 ",290:01:00,Juan Luciano,"$23,508,841 ",Consumer%20Staples
+375,ALCO,Alico,"$38,215 ",21:01,John Kiernan,"$796,127 ",Consumer%20Staples
+376,ANDE,The Andersons,"$81,053 ",71:01:00,Patrick Bowe,"$5,766,899 ",Consumer%20Staples
+377,BF.B,Brown-Forman,"$61,040 ",137:01:00,Lawson Whiting,"$8,364,936 ",Consumer%20Staples
+378,BG,Bunge Limited,"$56,216 ",287:01:00,Gregory Heckman,"$16,148,227 ",Consumer%20Staples
+379,BGS,B&G Foods,"$43,852 ",160:01:00,Kenneth Keller Jr.,"$6,040,794 ",Consumer%20Staples
+380,BJ,BJ's Wholesale Club,"$19,021 ",859:01:00,Robert Eddy,"$16,340,546 ",Consumer%20Staples
+381,BRBR,BellRing Brands,"$118,926 ",42:01:00,Darcy Davenport,"$5,046,013 ",Consumer%20Staples
+382,BYND,Beyond Meat,"$72,369 ",91:01:00,Ethan Brown,"$6,572,625 ",Consumer%20Staples
+383,CAG,Conagra Brands,"$57,855 ",206:01:00,Sean Connolly,"$11,947,054 ",Consumer%20Staples
+384,CALM,Cal-Maine Foods,"$40,464 ",32:01:00,Adolphus Baker,"$1,292,812 ",Consumer%20Staples
+385,CASY,Casey's General Stores,"$20,346 ",445:01:00,Darren Rebelez,"$9,061,083 ",Consumer%20Staples
+386,CELH,Celsius,"$81,174 ",150:01:00,John Fieldly,"$12,214,089 ",Consumer%20Staples
+387,CENT,Central Garden & Pet Company,"$49,377 ",155:01:00,Timothy Cofer,"$6,625,249 ",Consumer%20Staples
+388,CHD,Church & Dwight,"$73,466 ",121:01:00,Matthew Farrell,"$8,889,526 ",Consumer%20Staples
+389,CHEF,The Chefs' Warehouse,"$44,780 ",143:01:00,Christopher Pappas,"$6,437,105 ",Consumer%20Staples
+390,CL,Colgate-Palmolive Company,"$40,469 ",382:01:00,Noel Wallace,"$15,458,151 ",Consumer%20Staples
+391,CLX,The Clorox Company,"$63,866 ",134:01:00,Linda Rendle,"$8,534,808 ",Consumer%20Staples
+392,COKE,Coca-Cola Consolidated,"$57,152 ",237:01:00,J. Harrison,"$13,545,136 ",Consumer%20Staples
+393,COST,Costco Wholesale,"$45,450 ",218:01:00,W. Jelinek,"$9,905,070 ",Consumer%20Staples
+394,COTY,Coty,"$38,853 ",92:01:00,Sue Nabi,"$3,557,754 ",Consumer%20Staples
+395,CPB,Campbell Soup Company,"$64,277 ",160:01:00,Mark Clouse,"$10,277,065 ",Consumer%20Staples
+396,CVGW,Calavo Growers,"$4,948 ",274:01:00,Steven Hollister,"$323,882 ",Consumer%20Staples
+397,DAR,Darling Ingredients,"$61,557 ",129:01:00,Randall Stuewe,"$7,956,652 ",Consumer%20Staples
+398,EL,The Estee Lauder Companies,"$29,236 ",872:01:00,Fabrizio Freda,"$25,480,056 ",Consumer%20Staples
+399,ELF,e.l.f. Beauty,"$123,656 ",42:01:00,Tarang Amin,"$5,234,197 ",Consumer%20Staples
+400,ENR,Energizer,"$55,599 ",163:01:00,Mark LaVigne,"$9,048,440 ",Consumer%20Staples
+401,EPC,Edgewell Personal Care,"$47,219 ",197:01:00,Rod Little,"$9,320,280 ",Consumer%20Staples
+402,FDP,Fresh Del Monte Produce,"$5,727 ",955:01:00,Mohammad Abu-Ghazaleh,"$5,470,325 ",Consumer%20Staples
+403,FIZZ,National Beverage,"$60,622 ",184:01:00,Nick Caporella,"$11,148,959 ",Consumer%20Staples
+404,FLO,Flowers Foods,"$68,873 ",87:01:00,Ryals McMullian,"$5,979,905 ",Consumer%20Staples
+405,FRPT,Freshpet,"$66,018 ",67:01:00,William Cyr,"$765,040 ",Consumer%20Staples
+406,GIS,General Mills,"$62,454 ",196:01:00,Jeffrey Harmening,"$12,266,195 ",Consumer%20Staples
+407,GO,Grocery Outlet Holding,"$50,531 ",79:01:00,Eric Lindberg Jr.,"$4,008,964 ",Consumer%20Staples
+408,HAIN,The Hain Celestial Group,"$53,987 ",136:01:00,Mark Schiller,"$7,326,221 ",Consumer%20Staples
+409,HLF,Herbalife Nutrition,"$37,222 ",188:01:00,John Agwunobi,"$6,996,699 ",Consumer%20Staples
+410,HRL,Hormel Foods,"$50,369 ",188:01:00,James Snee,"$9,478,102 ",Consumer%20Staples
+411,HSY,The Hershey Company,"$36,149 ",447:01:00,Michele Buck,"$16,144,570 ",Consumer%20Staples
+412,IMKTA,"Ingles Markets, Incorporated","$19,793 ",100:01:00,James Lanning,"$1,974,670 ",Consumer%20Staples
+413,INGR,Ingredion Incorporated,"$22,969 ",449:01:00,James Zallie,"$10,320,138 ",Consumer%20Staples
+414,IPAR,Inter Parfums,"$69,673 ",37:01:00,Jean Madar,"$1,230,000 ",Consumer%20Staples
+415,JBSS,John B. Sanfilippo & Son,"$61,744 ",29:01:00,Jeffrey Sanfilippo,"$1,776,327 ",Consumer%20Staples
+416,JJSF,J&J Snack Foods,"$39,852 ",37:01:00,Daniel Fachner,"$1,493,218 ",Consumer%20Staples
+417,K,Kellogg Company,"$44,125 ",242:01:00,Steven Cahillane,"$10,678,337 ",Consumer%20Staples
+418,KDP,Keurig Dr Pepper,"$55,207 ",141:01:00,Robert Gamgort,"$7,772,521 ",Consumer%20Staples
+419,KHC,The Kraft Heinz Company,"$45,260 ",190:01:00,Miguel Patricio,"$8,605,599 ",Consumer%20Staples
+420,KMB,Kimberly-Clark,"$42,749 ",281:01:00,Michael Hsu,"$12,009,162 ",Consumer%20Staples
+421,KO,The Coca-Cola Company,"$13,894 ","1,791:1",James Quincey,"$24,883,878 ",Consumer%20Staples
+422,KR,The Kroger,"$26,763 ",679:01:00,W. McMullen,"$18,168,730 ",Consumer%20Staples
+423,LANC,Lancaster Colony,"$49,121 ",76:01:00,David Ciesinski,"$3,744,293 ",Consumer%20Staples
+424,LNDC,Lifecore Biomedical,"$62,598 ",15:01,Albert Bolles,"$956,810 ",Consumer%20Staples
+425,LW,Lamb Weston,"$51,398 ",153:01:00,Thomas Werner,"$7,858,113 ",Consumer%20Staples
+426,MDLZ,Mondelez International,"$31,024 ",520:01:00,Dirk de Put,"$16,128,320 ",Consumer%20Staples
+427,MED,Medifast,"$60,944 ",114:01:00,Daniel Chard,"$6,930,636 ",Consumer%20Staples
+428,MGPI,MGP Ingredients,"$78,946 ",43:01:00,David Colo,"$3,373,695 ",Consumer%20Staples
+429,MKC,"McCormick & Company, Incorporated","$38,004 ",335:01:00,Lawrence Kurzius,"$12,718,656 ",Consumer%20Staples
+430,MNST,Monster Beverage,"$69,417 ",241:01:00,Rodney Sacks,"$16,707,577 ",Consumer%20Staples
+431,MO,Altria Group,"$142,614 ",89:01:00,William Gifford Jr.,"$12,626,972 ",Consumer%20Staples
+432,NGVC,Natural Grocers by Vitamin Cottage,"$32,904 ",19:01,Kemper Isely,"$620,393 ",Consumer%20Staples
+433,NUS,Nu Skin Enterprises,$224 ,"22,092:1",Ryan Napierski,"$4,731,970 ",Consumer%20Staples
+434,PEP,PepsiCo,"$52,297 ",488:01:00,Ramon Laguarta,"$25,506,607 ",Consumer%20Staples
+435,PFGC,Performance Food Group,"$80,079 ",108:01:00,George Holm,"$8,660,511 ",Consumer%20Staples
+436,PG,The Procter & Gamble Company,"$65,918 ",273:01:00,Jon Moeller,"$17,716,015 ",Consumer%20Staples
+437,PM,Philip Morris International,"$18,196 ","1,055:1",Jacek Olczak,"$10,557,568 ",Consumer%20Staples
+438,POST,Post,"$84,123 ",184:01:00,Robert Vitale,"$15,475,418 ",Consumer%20Staples
+439,PPC,Pilgrims Pride,"$27,920 ",307:01:00,Fabio Sandri,"$8,581,691 ",Consumer%20Staples
+440,PRMW,Primo Water,"$45,852 ",116:01:00,Thomas Harrington,"$5,332,744 ",Consumer%20Staples
+441,PSMT,PriceSmart,"$9,775 ","1,042:1",Sherry Bahrambeygui,"$10,182,186 ",Consumer%20Staples
+442,RAD,Rite Aid,"$49,984 ",198:01:00,Heyward Donigan,"$9,911,507 ",Consumer%20Staples
+443,REYN,Reynolds Consumer Products,"$60,746 ",98:01:00,Lance Mitchell,"$5,940,377 ",Consumer%20Staples
+444,SAM,The Boston Beer Company,"$74,745 ",199:01:00,David Burwick,"$14,840,956 ",Consumer%20Staples
+445,SEB,Seaboard,"$32,219 ",175:01:00,Robert Steer,"$5,653,886 ",Consumer%20Staples
+446,SFM,Sprouts Farmers Market,"$23,903 ",242:01:00,Jack Sinclair,"$5,773,120 ",Consumer%20Staples
+447,SJM,The J. M. Smucker Company,"$86,742 ",98:01:00,Mark Smucker,"$8,511,639 ",Consumer%20Staples
+448,SMPL,The Simply Good Foods,"$168,195 ",25:01:00,Joseph Scalzo,"$4,270,253 ",Consumer%20Staples
+449,SPB,Spectrum Brands,"$19,342 ",445:01:00,David Maura,"$8,606,325 ",Consumer%20Staples
+450,SPTN,SpartanNash Company,"$23,376 ",200:01:00,Tony Sarsam,"$4,670,472 ",Consumer%20Staples
+451,STKL,SunOpta,"$50,227 ",47:01:00,Joseph Ennen,"$2,342,370 ",Consumer%20Staples
+452,STZ,Constellation Brands,"$35,606 ",338:01:00,William Newlands,"$12,040,281 ",Consumer%20Staples
+453,SYY,Sysco,"$83,737 ",163:01:00,Kevin Hourican,"$13,656,506 ",Consumer%20Staples
+454,TAP,Molson Coors Beverage Company,"$77,432 ",106:01:00,Gavin Hattersley,"$8,234,680 ",Consumer%20Staples
+455,THS,TreeHouse Foods,"$62,770 ",95:01:00,Steven Oakland,"$5,957,379 ",Consumer%20Staples
+456,TR,Tootsie Roll Industries,"$57,332 ",91:01:00,Ellen Gordon,"$5,442,510 ",Consumer%20Staples
+457,TSN,Tyson Foods,"$41,967 ",286:01:00,Donnie King,"$12,014,497 ",Consumer%20Staples
+458,TWNK,Hostess Brands,"$51,008 ",106:01:00,Andrew Callahan,"$5,396,483 ",Consumer%20Staples
+459,UNFI,United Natural Foods,"$59,523 ",147:01:00,J. Miller Douglas,"$8,722,292 ",Consumer%20Staples
+460,USFD,US Foods Holding,"$83,737 ",164:01:00,Pietro Satriano,"$13,744,942 ",Consumer%20Staples
+461,USNA,USANA Health Sciences,"$48,624 ",80:01:00,Kevin Guest,"$3,909,615 ",Consumer%20Staples
+462,UTZ,UTZ Brands,"$47,567 ",23:01,Dylan Lissette,"$1,012,309 ",Consumer%20Staples
+463,UVV,Universal,"$2,001 ","1,430:1",George Freeman III,"$3,735,584 ",Consumer%20Staples
+464,VGR,Vector Group,"$84,263 ",212:01:00,Howard Lorber,"$17,871,658 ",Consumer%20Staples
+465,WBA,Walgreens Boots Alliance,"$24,530 ",705:01:00,Rosalind Brewer,"$17,287,489 ",Consumer%20Staples
+466,WDFC,WD-40 Company,"$87,169 ",42:01:00,Garry Ridge,"$3,632,413 ",Consumer%20Staples
+467,WMK,Weis Markets,"$19,061 ",504:01:00,Jonathan Weis,"$9,601,709 ",Consumer%20Staples
+468,WMT,Walmart,"$25,335 ","1,013:1",C. McMillon,"$25,670,673 ",Consumer%20Staples
+469,XXII,22nd Century Group,"$55,189 ",46:01:00,James Mish,"$2,534,484 ",Consumer%20Staples
+470,ALTO,Alto Ingredients,"$80,677 ",23:01,Michael Kandris,"$1,878,748 ",Energy
+471,AM,Antero Midstream,"$31,393 ",172:01:00,Paul Rady,"$5,388,890 ",Energy
+472,APA,APA,"$174,903 ",86:01:00,John Christmann,"$15,040,707 ",Energy
+473,AR,Antero Resources,"$78,997 ",82:01:00,Paul Rady,"$6,456,142 ",Energy
+474,ARCH,Arch Resources,"$108,573 ",86:01:00,Paul Lang,"$9,299,065 ",Energy
+475,AROC,Archrock,"$106,297 ",62:01:00,D. Childers,"$6,609,272 ",Energy
+476,BKR,Baker Hughes Company,"$69,701 ",224:01:00,Lorenzo Simonelli,"$15,646,452 ",Energy
+477,BOOM,DMC Global,"$67,839 ",57:01:00,Kevin Longe,"$3,844,266 ",Energy
+478,BTU,Peabody Energy,"$110,472 ",62:01:00,James Grech,"$4,239,272 ",Energy
+479,CDEV,Permian Resources,"$198,914 ",44:01:00,Sean Smith,"$8,677,260 ",Energy
+480,CEIX,CONSOL Energy,"$129,548 ",55:01:00,James Brock,"$7,115,513 ",Energy
+481,CHK,Chesapeake Energy,"$133,645 ",58:01:00,Domenic Dell'Osso Jr.,"$7,688,937 ",Energy
+482,CHX,ChampionX,"$86,653 ",67:01:00,Sivasankaran Somasundaram,"$5,775,293 ",Energy
+483,CIVI,Civitas Resources,"$152,768 ",19:01,Eric Greager,"$2,938,020 ",Energy
+484,CLNE,Clean Energy Fuels,"$130,294 ",83:01:00,Andrew Littlefair,"$10,811,193 ",Energy
+485,CNX,CNX Resources,"$160,365 ",53:01:00,Nicholas DeIuliis,"$8,572,755 ",Energy
+486,COP,ConocoPhillips,"$179,428 ",133:01:00,Ryan Lance,"$23,886,640 ",Energy
+487,CPE,Callon Petroleum Company,"$197,118 ",29:01:00,Joseph Gatto,"$5,709,479 ",Energy
+488,CRC,California Resources,"$148,345 ",119:01:00,Mark McFarland,"$17,583,281 ",Energy
+489,CRK,Comstock Resources,"$116,831 ",77:01:00,M. Allison,"$8,955,930 ",Energy
+490,CTRA,Coterra Energy,"$91,440 ",131:01:00,Thomas Jorden,"$11,061,939 ",Energy
+491,CVI,CVR Energy,"$113,675 ",34:01:00,David Lamp,"$3,910,359 ",Energy
+492,CVX,Chevron,"$183,531 ",123:01:00,Michael Wirth,"$22,610,285 ",Energy
+493,DEN,Denbury,"$153,334 ",15:01,Christian Kendall,"$2,325,510 ",Energy
+494,DINO,HF Sinclair,"$135,851 ",84:01:00,Michael Jennings,"$11,473,664 ",Energy
+495,DK,Delek US,"$55,645 ",156:01:00,Ezra Yemin,"$8,668,413 ",Energy
+496,DO,Diamond Offshore Drilling,"$107,324 ",78:01:00,Bernie Wolford Jr.,"$8,203,466 ",Energy
+497,DRQ,Dril-Quip,"$64,643 ",94:01:00,Blake DeBerry,"$6,083,948 ",Energy
+498,DVN,Devon Energy,"$179,900 ",67:01:00,Richard Muncrief,"$11,914,547 ",Energy
+499,EFR,Energy Fuels,"$66,000 ",19:01,Mark Chalmers,"$1,252,750 ",Energy
+500,EGY,VAALCO Energy,"$118,258 ",13:01,George Mitchell Maxwell,"$657,363 ",Energy
+501,EOG,EOG Resources,"$185,838 ",51:01:00,Ezra Yacob,"$9,752,887 ",Energy
+502,EQT,EQT,"$122,460 ",138:01:00,Toby Rice,"$16,919,763 ",Energy
+503,ESTE,Earthstone Energy,"$100,047 ",32:01:00,Robert Anderson,"$3,249,700 ",Energy
+504,ETRN,Equitrans Midstream,"$128,415 ",81:01:00,Thomas Karam,"$10,349,548 ",Energy
+505,EVA,Enviva,"$64,325 ",96:01:00,John Keppler,"$6,205,730 ",Energy
+506,FANG,Diamondback Energy,"$108,354 ",128:01:00,Travis Stice,"$13,839,995 ",Energy
+507,GEVO,Gevo,"$146,870 ",75:01:00,Patrick Gruber,"$11,018,879 ",Energy
+508,GPOR,Gulfport Energy,"$107,634 ",41:01:00,Timothy Cutt,"$3,823,399 ",Energy
+509,GPRE,Green Plains,"$85,066 ",69:01:00,Todd Becker,"$5,864,530 ",Energy
+510,HAL,Halliburton Company,"$81,076 ",291:01:00,Jeffrey Miller,"$23,591,982 ",Energy
+511,HES,Hess,"$197,547 ",63:01:00,John Hess,"$12,408,198 ",Energy
+512,HLX,Helix Energy Solutions Group,"$89,501 ",32:01:00,Owen Kratz,"$2,876,989 ",Energy
+513,HP,Helmerich & Payne,"$86,986 ",97:01:00,John Lindsay,"$8,468,310 ",Energy
+514,INSW,International Seaways,"$16,436 ",185:01:00,Lois Zabrocky,"$3,052,550 ",Energy
+515,INT,World Fuel Services,"$68,408 ",75:01:00,Michael Kasbar,"$5,141,566 ",Energy
+516,KMI,Kinder Morgan,"$115,388 ",156:01:00,Steven Kean,"$18,000,259 ",Energy
+517,KOS,Kosmos Energy,"$247,115 ",25:01:00,Andrew Inglis,"$6,237,930 ",Energy
+518,LBRT,Liberty Energy,"$95,884 ",48:01:00,Christopher Wright,"$4,611,372 ",Energy
+519,LNG,Cheniere Energy,"$221,659 ",82:01:00,Jack Fusco,"$18,091,084 ",Energy
+520,LPG,Dorian LPG,"$146,670 ",16:01,John Hadjipateras,"$2,359,438 ",Energy
+521,LPI,Laredo Petroleum,"$138,492 ",43:01:00,Jason Pigott,"$5,933,849 ",Energy
+522,MGY,Magnolia Oil & Gas,"$162,983 ",2:01,Stephen Chazen,"$349,162 ",Energy
+523,MNRL,MNRL Sub,"$158,902 ",33:01:00,Robert Roosa,"$5,193,799 ",Energy
+524,MPC,Marathon Petroleum,"$148,850 ",142:01:00,Michael Hennigan,"$21,185,206 ",Energy
+525,MRO,Marathon Oil,"$128,010 ",102:01:00,Lee Tillman,"$12,997,292 ",Energy
+526,MTDR,Matador Resources Company,"$155,887 ",58:01:00,Joseph Foran,"$9,057,189 ",Energy
+527,MUR,Murphy Oil,"$170,735 ",67:01:00,Roger Jenkins,"$11,381,012 ",Energy
+528,NBR,Nabors Industries,"$40,613 ",246:01:00,Anthony Petrello,"$9,984,321 ",Energy
+529,NC,NACCO Industries,"$122,258 ",34:01:00,John Butler Jr.,"$4,135,014 ",Energy
+530,NESR,National Energy Services Reunited,"$77,100 ",32:01:00,Sherif Foda,"$2,429,595 ",Energy
+531,NEX,NexTier Oilfield Solutions,"$109,603 ",65:01:00,Robert Drummond,"$7,126,991 ",Energy
+532,NOG,Northern Oil and Gas,"$197,638 ",13:01,Nicholas O'Grady,"$2,618,648 ",Energy
+533,NOV,NOV,"$59,494 ",85:01:00,Clay Williams,"$11,582,064 ",Energy
+534,NR,Newpark Resources,"$51,514 ",74:01:00,Paul Howes,"$3,830,170 ",Energy
+535,OAS,Chord Energy,"$148,027 ",104:01:00,Daniel Brown,"$15,109,345 ",Energy
+536,OII,Oceaneering International,"$86,074 ",76:01:00,Roderick Larson,"$6,516,179 ",Energy
+537,OIS,Oil States International,"$58,647 ",81:01:00,Cynthia Taylor,"$4,761,053 ",Energy
+538,OVV,Ovintiv,"$171,140 ",50:01:00,Brendan McCracken,"$8,630,387 ",Energy
+539,OXY,Occidental Petroleum,"$157,013 ",71:01:00,Vicki Hollub,"$11,068,539 ",Energy
+540,PARR,Par Pacific,"$69,876 ",51:01:00,William Pate,"$3,542,686 ",Energy
+541,PBF,PBF Energy,"$161,438 ",45:01:00,Thomas Nimbley,"$7,294,215 ",Energy
+542,PDCE,PDC Energy,"$149,294 ",66:01:00,Barton Brookman,"$9,824,238 ",Energy
+543,PSX,Phillips 66,"$161,584 ",130:01:00,Greg Garland,"$20,953,206 ",Energy
+544,PTEN,Patterson-UTI Energy,"$83,363 ",96:01:00,"William Hendricks,Jr","$8,017,005 ",Energy
+545,PUMP,ProPetro Holding,"$95,007 ",33:01:00,Samuel Sledge,"$3,164,649 ",Energy
+546,PXD,Pioneer Natural Resources Company,"$166,480 ",96:01:00,Scott Sheffield,"$16,002,825 ",Energy
+547,REI,Ring Energy,"$151,004 ",23:01,Paul McKinney,"$3,493,117 ",Energy
+548,RES,RPC,"$77,520 ",18:01,Richard Hubbell,"$1,371,410 ",Energy
+549,REX,REX American Resources,"$49,293 ",45:01:00,Zafar Rizvi,"$2,225,200 ",Energy
+550,RRC,Range Resources,"$165,000 ",46:01:00,Jeffrey Ventura,"$7,542,954 ",Energy
+551,SBOW,SilverBow Resources,"$154,333 ",22:01,Sean Woolverton,"$3,353,545 ",Energy
+552,SLB,Schlumberger NV,"$66,138 ",254:01:00,Olivier Peuch,"$16,795,502 ",Energy
+553,SLCA,U.S. Silica,"$62,937 ",95:01:00,Bryan Shinn,"$5,966,323 ",Energy
+554,SM,SM Energy Company,"$188,989 ",23:01,Herbert Vogel,"$4,295,321 ",Energy
+555,SWN,Southwestern Energy Company,"$118,240 ",60:01:00,William Way,"$7,077,384 ",Energy
+556,TALO,Talos Energy,"$175,392 ",42:01:00,Timothy Duncan,"$7,327,188 ",Energy
+557,TDW,Tidewater,"$31,320 ",95:01:00,Quintin Kneen,"$2,974,513 ",Energy
+558,TELL,Tellurian,"$437,214 ",19:01,Octavio Simoes,"$8,411,925 ",Energy
+559,TPL,Texas Pacific Land,"$142,600 ",24:01:00,Tyler Glover,"$4,969,831 ",Energy
+560,TRGP,Targa Resources,"$124,880 ",118:01:00,Matthew Meloy,"$14,691,940 ",Energy
+561,TTI,TETRA Technologies,"$90,722 ",47:01:00,Brady Murphy,"$4,253,926 ",Energy
+562,UEC,Uranium Energy,"$64,190 ",25:01:00,Amir Adnani,"$1,635,553 ",Energy
+563,VLO,Valero Energy,"$198,219 ",114:01:00,Joseph Gorder,"$22,684,706 ",Energy
+564,VTNR,Vertex Energy,"$76,887 ",10:01,Benjamin Cowart,"$730,995 ",Energy
+565,VTOL,Bristow Group,"$86,682 ",51:01:00,Christopher Bradshaw,"$4,415,807 ",Energy
+566,WFRD,Weatherford International plc,"$40,653 ",310:01:00,Girish Saligram,"$12,591,069 ",Energy
+567,WHD,Cactus,"$92,211 ",22:01,Scott Bender,"$2,031,846 ",Energy
+568,WMB,The Williams Companies,"$167,343 ",82:01:00,Alan Armstrong,"$13,759,533 ",Energy
+569,WTI,W&T Offshore,"$130,704 ",42:01:00,Tracy Krohn,"$5,492,721 ",Energy
+570,WTTR,Select Energy Services,"$81,256 ",95:01:00,John Schmitz,"$7,766,763 ",Energy
+571,XOM,Exxon Mobil,"$189,082 ",125:01:00,Darren Woods,"$23,572,488 ",Energy
+572,XPRO,Expro Group NV,"$24,161 ",336:01:00,Michael Jardon,"$8,123,232 ",Energy
+573,ABCB,Ameris Bancorp,"$74,513 ",46:01:00,H. Proctor Jr.,"$3,437,506 ",Financials
+574,ABR,Arbor Realty Trust,"$97,246 ",138:01:00,Ivan Kaufman,"$13,439,509 ",Financials
+575,ABTX,Stellar Bancorp,"$81,242 ",13:01,Steven Retzloff,"$1,086,329 ",Financials
+576,ACGL,Arch Capital Group,"$129,028 ",69:01:00,Marc Grandisson,"$9,336,013 ",Financials
+577,AEL,American Equity Investment Life Holding Company,"$104,681 ",73:01:00,Anant Bhalla,"$7,625,826 ",Financials
+578,AFG,American Financial Group,"$71,738 ",174:01:00,Carl Lindner III,"$12,449,582 ",Financials
+579,AFL,Aflac Incorporated,"$65,458 ",240:01:00,Daniel Amos,"$15,728,233 ",Financials
+580,AGM,Federal Agricultural Mortgage,"$153,000 ",21:01,Bradford Nordholm,"$3,211,156 ",Financials
+581,AGNC,AGNC Investment,"$281,305 ",32:01:00,Peter Federico,"$6,949,900 ",Financials
+582,AGO,Assured Guaranty,"$294,410 ",49:01:00,Dominic Frederico,"$14,536,062 ",Financials
+583,AIG,American International Group,"$71,936 ",305:01:00,Peter Zaffino,"$21,905,220 ",Financials
+584,AIZ,Assurant,"$44,558 ",258:01:00,Alan Colberg,"$11,504,780 ",Financials
+585,AJG,Arthur J. Gallagher &,"$64,135 ",216:01:00,J. Gallagher,"$13,882,255 ",Financials
+586,ALL,The Allstate,"$62,235 ",306:01:00,Thomas Wilson,"$19,066,920 ",Financials
+587,ALLY,Ally Financial,"$106,166 ",146:01:00,Jeffrey Brown,"$15,545,746 ",Financials
+588,AMAL,Amalgamated Financial,"$98,765 ",39:01:00,Priscilla Brown,"$3,831,772 ",Financials
+589,AMBC,Ambac Financial Group,"$234,874 ",30:01:00,Claude LeBlanc,"$6,979,315 ",Financials
+590,AMG,Affiliated Managers Group,"$183,137 ",49:01:00,Jay Horgen,"$9,063,156 ",Financials
+591,AMNB,American National Bankshares,"$64,201 ",16:01,Jeffrey Haley,"$1,002,451 ",Financials
+592,AMP,Ameriprise Financial,"$129,010 ",165:01:00,James Cracchiolo,"$21,229,464 ",Financials
+593,AMSF,AMERISAFE,"$62,195 ",31:01:00,G. Frost,"$1,927,841 ",Financials
+594,AON,Aon Plc,"$81,645 ",244:01:00,Gregory Case,"$19,868,384 ",Financials
+595,APAM,Artisan Partners Asset Management,"$231,215 ",35:01:00,Eric Colson,"$8,106,549 ",Financials
+596,APO,Apollo Global Management,"$215,817 ",1:01,Marc Rowan,"$302,310 ",Financials
+597,ARES,Ares Management,"$212,902 ",333:01:00,Michael Arougheti,"$70,842,896 ",Financials
+598,ARGO,Argo Group International,"$106,192 ",38:01:00,Kevin Rehnberg,"$4,048,830 ",Financials
+599,AROW,Arrow Financial,"$50,278 ",43:01:00,Thomas Murphy,"$2,146,089 ",Financials
+600,ASB,Associated Banc-Corp,"$54,378 ",214:01:00,Andrew Harmening,"$11,330,092 ",Financials
+601,AUB,Atlantic Union Bankshares,"$46,397 ",70:01:00,John Asbury,"$3,265,938 ",Financials
+602,AX,Axos Financial,"$81,481 ",169:01:00,Gregory Garrabrants,"$13,734,823 ",Financials
+603,AXP,American Express Company,"$67,460 ",378:01:00,Stephen Squeri,"$25,513,922 ",Financials
+604,AXS,Axis Capital Limited,"$140,734 ",66:01:00,Albert Benchimol,"$9,311,214 ",Financials
+605,BAC,Bank of America,"$102,497 ",232:01:00,Brian Moynihan,"$23,729,169 ",Financials
+606,BANC,Banc of California,"$101,223 ",27:01:00,Jared Wolff,"$2,703,890 ",Financials
+607,BANF,BancFirst,"$40,925 ",19:01,David Harlow,"$796,734 ",Financials
+608,BANR,Banner,"$67,045 ",39:01:00,Mark Grescovich,"$2,618,969 ",Financials
+609,BCOR,Blucora,"$97,770 ",73:01:00,Christopher Walters,"$7,178,937 ",Financials
+610,BEN,Franklin Resources,"$126,915 ",124:01:00,Jennifer Johnson,"$15,734,999 ",Financials
+611,BFC,Bank First,"$47,363 ",27:01:00,Michael Molepske,"$1,297,972 ",Financials
+612,BFH,Bread Financial,"$76,638 ",146:01:00,Ralph Andretta,"$11,179,238 ",Financials
+613,BFST,Business First Bancshares,"$72,640 ",28:01:00,David Melville III,"$2,025,480 ",Financials
+614,BGCP,BGC Partners,"$125,232 ",158:01:00,Howard Lutnick,"$19,831,243 ",Financials
+615,BHB,Bar Harbor Bankshares,"$55,038 ",21:01,Curtis Simard,"$1,796,471 ",Financials
+616,BHF,Brighthouse Financial,"$132,963 ",60:01:00,Eric Steigerwalt,"$7,914,025 ",Financials
+617,BHLB,Berkshire Hills Bancorp,"$54,367 ",42:01:00,Nitin Mhatre,"$2,292,852 ",Financials
+618,BK,The Bank of New York Mellon,"$76,123 ",186:01:00,Thomas Gibbons,"$14,128,042 ",Financials
+619,BKU,BankUnited,"$103,655 ",57:01:00,Rajinder Singh,"$5,913,787 ",Financials
+620,BLK,BlackRock,"$164,492 ",198:01:00,Laurence Fink,"$32,587,335 ",Financials
+621,BOH,Bank of Hawaii,"$66,230 ",111:01:00,Peter Ho,"$7,339,234 ",Financials
+622,BOKF,BOK Financial,"$85,320 ",56:01:00,Steven Bradshaw,"$4,770,328 ",Financials
+623,BPOP,Popular,"$40,826 ",125:01:00,Ignacio Alvarez,"$5,091,629 ",Financials
+624,BRK.B,Berkshire Hathaway,"$58,881 ",6:01,Warren Buffett,"$373,204 ",Financials
+625,BRKL,Brookline Bancorp,"$81,047 ",31:01:00,Paul Perrault,"$2,478,653 ",Financials
+626,BRMK,Broadmark Realty Capital,"$111,231 ",14:01,Jeffrey Pyatt,"$1,596,568 ",Financials
+627,BRO,Brown & Brown,"$91,957 ",100:01:00,J. Brown,"$9,201,035 ",Financials
+628,BRSP,BrightSpire Capital,"$215,119 ",26:01:00,Michael Mazzei,"$5,670,652 ",Financials
+629,BSIG,BrightSphere Investment Group,"$223,527 ",57:01:00,Suren Rana,"$12,700,000 ",Financials
+630,BSRR,Sierra Bancorp,"$45,347 ",29:01:00,Kevin McPhaill,"$1,297,509 ",Financials
+631,BUSE,First Busey,"$59,999 ",35:01:00,Van Dukeman,"$2,116,540 ",Financials
+632,BX,Blackstone,"$220,000 ",393:01:00,Stephen Schwarzman,"$86,380,331 ",Financials
+633,C,Citigroup,"$55,285 ",372:01:00,Jane Fraser,"$20,541,324 ",Financials
+634,CAC,Camden National,"$55,302 ",43:01:00,Gregory Dufour,"$2,375,909 ",Financials
+635,CACC,Credit Acceptance,"$66,446 ",459:01:00,Kenneth Booth,"$30,526,345 ",Financials
+636,CADE,Cadence Bank,"$50,305 ",211:01:00,James Rollins,"$10,577,641 ",Financials
+637,CARE,Carter Bankshares,"$43,647 ",21:01,Litz Van Dyke,"$904,665 ",Financials
+638,CASH,Pathward Financial,"$84,231 ",60:01:00,Bradley Hanson,"$5,040,345 ",Financials
+639,CATC,Cambridge Bancorp,"$110,510 ",18:01,Denis Sheahan,"$1,966,312 ",Financials
+640,CATY,Cathay General Bancorp,"$70,522 ",43:01:00,Chang Liu,"$2,997,876 ",Financials
+641,CB,Chubb Limited,"$71,894 ",322:01:00,Evan Greenberg,"$23,181,184 ",Financials
+642,CBAN,Colony Bankcorp,"$45,000 ",19:01,T. Fountain,"$837,383 ",Financials
+643,CBOE,Cboe Global Markets,"$165,355 ",64:01:00,Edward Tilly,"$10,646,558 ",Financials
+644,CBSH,Commerce Bancshares,"$68,003 ",71:01:00,John Kemper,"$4,842,307 ",Financials
+645,CBU,Community Bank System,"$35,666 ",89:01:00,Mark Tryniski,"$3,154,969 ",Financials
+646,CCBG,Capital City Bank Group,"$44,782 ",28:01:00,William Smith,"$1,239,364 ",Financials
+647,CCNE,CNB Financial,"$58,118 ",52:01:00,Joseph Bower,"$3,028,549 ",Financials
+648,CFFN,Capitol Federal Financial,"$34,905 ",37:01:00,John Dicus,"$1,284,006 ",Financials
+649,CFG,Citizens Financial Group,"$82,418 ",151:01:00,Bruce Saun,"$12,430,076 ",Financials
+650,CFR,Cullen/Frost Bankers,"$59,106 ",88:01:00,Phillip Green,"$5,186,313 ",Financials
+651,CG,The Carlyle Group,"$278,833 ",152:01:00,Kewsong Lee,"$42,322,501 ",Financials
+652,CHCO,City Holding Company,"$37,461 ",38:01:00,Charles Hageboeck,"$1,458,504 ",Financials
+653,CIM,Chimera Investment,"$422,925 ",28:01:00,Mohit Marria,"$11,976,596 ",Financials
+654,CINF,Cincinnati Financial,"$105,458 ",62:01:00,Steven Johnston,"$6,490,767 ",Financials
+655,CIVB,Civista Bancshares,"$48,630 ",17:01,Dennis Shaffer,"$848,289 ",Financials
+656,CLBK,Columbia Financial,"$121,439 ",18:01,Thomas Kemly,"$2,131,936 ",Financials
+657,CMA,Comerica Incorporated,"$102,385 ",75:01:00,Curtis Farmer,"$7,696,094 ",Financials
+658,CME,CME Group,"$153,565 ",150:01:00,Terrence Duffy,"$22,924,737 ",Financials
+659,CNA,CNA Financial,"$118,091 ",121:01:00,Dino Robusto,"$14,246,207 ",Financials
+660,CNO,CNO Financial Group,"$67,555 ",132:01:00,Gary Bhojwani,"$8,948,166 ",Financials
+661,CNOB,ConnectOne Bancorp,"$65,242 ",47:01:00,Frank Sorrentino III,"$3,068,986 ",Financials
+662,CNS,Cohen & Steers,"$271,546 ",46:01:00,Robert Steers,"$12,375,738 ",Financials
+663,COF,Capital One Financial,"$81,029 ",252:01:00,Richard Fairbank,"$20,457,553 ",Financials
+664,COLB,Columbia Banking System,"$67,551 ",52:01:00,Clint Stein,"$3,530,394 ",Financials
+665,COOP,Mr. Cooper Group,"$58,882 ",149:01:00,Jay Bray,"$8,761,455 ",Financials
+666,COWN,Cowen,"$215,000 ",133:01:00,Jeffrey Solomon,"$28,559,540 ",Financials
+667,CPF,Central Pacific Financial,"$70,162 ",50:01:00,Paul Yonamine,"$3,491,053 ",Financials
+668,CRD.B,Crawford & Company,"$58,181 ",43:01:00,Rohit Verma,"$2,487,739 ",Financials
+669,CTBI,Community Trust Bancorp,"$37,720 ",50:01:00,Jean Hale,"$1,853,539 ",Financials
+670,CUBI,Customers Bancorp,"$90,217 ",43:01:00,Jay Sidhu,"$3,900,601 ",Financials
+671,CVBF,CVB Financial,"$81,138 ",32:01:00,David Brager,"$2,635,810 ",Financials
+672,DCOM,Dime Community Bancshares,"$82,249 ",118:01:00,Kevin O’Connor,"$9,674,312 ",Financials
+673,DFIN,Donnelley Financial Solutions,"$90,001 ",85:01:00,Daniel Leib,"$7,636,211 ",Financials
+674,DFS,Discover Financial Services,"$63,770 ",190:01:00,Roger Hochschild,"$12,087,218 ",Financials
+675,DGICA,Donegal Group,"$76,960 ",12:01,Kevin Burke,"$1,017,560 ",Financials
+676,DHIL,Diamond Hill Investment Group,"$321,450 ",10:01,Heather Brilliant,"$3,046,174 ",Financials
+677,DX,Dynex Capital,"$345,975 ",13:01,Byron Boston,"$4,476,138 ",Financials
+678,EBC,Eastern Bankshares,"$94,072 ",45:01:00,Robert Rivers,"$4,208,543 ",Financials
+679,EBTC,Enterprise Bancorp,"$64,802 ",20:01,John Clancy,"$1,275,889 ",Financials
+680,ECPG,Encore Capital Group,"$28,681 ",160:01:00,Ashish Masih,"$4,600,775 ",Financials
+681,EFSC,Enterprise Financial Services,"$73,764 ",33:01:00,James Lally,"$2,450,066 ",Financials
+682,EGBN,Eagle Bancorp,"$92,125 ",60:01:00,Susan Riel,"$5,491,034 ",Financials
+683,EHTH,eHealth,"$56,861 ",191:01:00,Francis Soistman Jr.,"$10,645,998 ",Financials
+684,EIG,Employers,"$96,503 ",27:01:00,Katherine Antonello,"$2,570,729 ",Financials
+685,ENVA,Enova International,"$48,549 ",220:01:00,David Fisher,"$10,686,807 ",Financials
+686,EQBK,Equity Bancshares,"$41,125 ",56:01:00,Brad Elliott,"$2,299,501 ",Financials
+687,EQH,Equitable,"$114,825 ",124:01:00,Mark Pearson,"$14,185,032 ",Financials
+688,ERIE,Erie Indemnity,"$88,533 ",55:01:00,Timothy NeCastro,"$4,874,521 ",Financials
+689,ESGR,Enstar Group Limited,"$107,894 ",48:01:00,Dominic Silvester,"$5,189,782 ",Financials
+690,ESNT,Essent Group,"$101,992 ",68:01:00,Mark Casale,"$9,137,867 ",Financials
+691,EWBC,East West Bancorp,"$107,255 ",81:01:00,Dominic Ng,"$8,649,172 ",Financials
+692,FAF,First American Financial,"$57,046 ",189:01:00,Dennis Gilmore,"$10,791,103 ",Financials
+693,FBIZ,First Business Financial Services,"$105,973 ",15:01,Corey Chambas,"$1,629,663 ",Financials
+694,FBK,FB Financial,"$66,718 ",40:01:00,Christopher Holmes,"$2,682,882 ",Financials
+695,FBMS,The First Bancshares,"$43,570 ",39:01:00,M. Cole,"$1,677,507 ",Financials
+696,FBNC,First Bancorp,"$56,251 ",26:01:00,Richard Moore,"$1,487,248 ",Financials
+697,FBP,First BanCorp (Puerto Rico),"$32,886 ",127:01:00,Aurelio Aleman-Bermudez,"$4,183,057 ",Financials
+698,FCBC,First Community Bancshares,"$39,536 ",18:01,William Stafford,"$690,996 ",Financials
+699,FCF,First Commonwealth Financial,"$44,682 ",28:01:00,T. Price,"$1,251,199 ",Financials
+700,FCFS,FirstCash,"$8,079 ",888:01:00,Rick Wessel,"$7,175,467 ",Financials
+701,FCNCA,First Citizens BancShares,"$76,985 ",73:01:00,Frank Holding,"$5,629,478 ",Financials
+702,FDS,FactSet Research Systems,"$18,958 ",348:01:00,F. Snow,"$6,604,998 ",Financials
+703,FFBC,First Financial Bancorp,"$61,961 ",49:01:00,Archie Brown Jr.,"$3,054,247 ",Financials
+704,FFIC,Flushing Financial,"$76,833 ",33:01:00,John Buran,"$2,534,260 ",Financials
+705,FFIN,First Financial Bankshares,"$40,396 ",85:01:00,F. Dueser,"$3,442,141 ",Financials
+706,FHB,First Hawaiian,"$58,193 ",76:01:00,Robert Harrison,"$4,427,813 ",Financials
+707,FHI,Federated Hermes,"$112,442 ",58:01:00,J. Donahue,"$6,491,866 ",Financials
+708,FHN,First Horizon,"$61,465 ",123:01:00,D. Jordan,"$8,414,496 ",Financials
+709,FIBK,First Interstate BancSystem,"$56,252 ",52:01:00,Kevin Riley,"$3,201,243 ",Financials
+710,FISI,Financial Institutions,"$56,579 ",26:01:00,Martin Birmingham,"$1,490,369 ",Financials
+711,FITB,Fifth Third Bancorp,"$66,720 ",158:01:00,Greg Carmichael,"$10,531,649 ",Financials
+712,FLIC,The First of Long Island,"$65,938 ",14:01,Christopher Becker,"$914,366 ",Financials
+713,FMAO,Farmers & Merchants Bancorp,"$43,803 ",17:01,Lars Eller,"$717,791 ",Financials
+714,FMBH,First Mid Bancshares,"$39,261 ",43:01:00,Joseph Dively,"$1,689,377 ",Financials
+715,FMNB,Farmers National Banc,"$55,069 ",22:01,Kevin Helmick,"$1,644,323 ",Financials
+716,FNB,F.N.B.,"$63,884 ",103:01:00,Vincent Delie,"$6,577,522 ",Financials
+717,FNF,Fidelity National Financial,"$83,831 ",125:01:00,Raymond Quirk,"$10,457,921 ",Financials
+718,FNLC,The First Bancorp,"$61,050 ",19:01,Tony McKim,"$1,148,274 ",Financials
+719,FOCS,Focus Financial Partners,"$75,202 ",158:01:00,Ruediger Adolf,"$11,911,818 ",Financials
+720,FRBA,First Bank,"$77,157 ",13:01,Patrick Ryan,"$1,032,498 ",Financials
+721,FRBK,Republic First Bancorp,"$59,053 ",11:01,Harry Madonna,"$634,548 ",Financials
+722,FRC,First Republic Bank,"$162,300 ",145:01:00,Hafize Erkan,"$23,458,948 ",Financials
+723,FRME,First Merchants,"$48,488 ",30:01:00,Mark Hardwick,"$1,454,487 ",Financials
+724,FRST,Primis Financial,"$50,442 ",32:01:00,Dennis Zember Jr.,"$1,617,767 ",Financials
+725,FULT,Fulton Financial,"$60,288 ",70:01:00,E. Wenger,"$4,207,894 ",Financials
+726,GABC,German American Bancorp,"$40,776 ",40:01:00,Mark Schroeder,"$1,626,579 ",Financials
+727,GBCI,Glacier Bancorp,"$65,451 ",44:01:00,Randall Chesler,"$2,890,546 ",Financials
+728,GDOT,Green Dot,"$102,357 ",137:01:00,Daniel Henry,"$14,031,888 ",Financials
+729,GL,Globe Life,"$56,843 ",147:01:00,Gary Coleman,"$8,353,754 ",Financials
+730,GLRE,Greenlight Capital Re,"$212,831 ",15:01,Simon Burton,"$3,114,210 ",Financials
+731,GNW,Genworth Financial,"$104,888 ",81:01:00,Thomas McInerney,"$8,499,379 ",Financials
+732,GPMT,Granite Point Mortgage Trust,"$285,996 ",17:01,John Taylor,"$4,727,154 ",Financials
+733,GS,The Goldman Sachs Group,"$165,828 ",238:01:00,David Solomon,"$39,545,072 ",Financials
+734,GSBC,Great Southern Bancorp,"$35,129 ",45:01:00,Joseph Turner,"$1,577,503 ",Financials
+735,HAFC,Hanmi Financial,"$76,642 ",24:01:00,Bonita Lee,"$1,869,786 ",Financials
+736,HASI,Hannon Armstrong Sustainable Infrastructure Capital,"$275,583 ",34:01:00,Jeffrey Eckel,"$9,241,605 ",Financials
+737,HBAN,Huntington Bancshares Incorporated,"$58,430 ",165:01:00,Stephen Steinour,"$9,619,178 ",Financials
+738,HBCP,Home Bancorp,"$47,789 ",18:01,John Bordelon,"$835,385 ",Financials
+739,HBNC,Horizon Bancorp,"$43,617 ",32:01:00,Craig Dwight,"$1,402,379 ",Financials
+740,HCI,HCI Group,"$66,586 ",116:01:00,Paresh Patel,"$7,736,699 ",Financials
+741,HFWA,Heritage Financial,"$66,497 ",22:01,Jeffrey Deuel,"$1,431,274 ",Financials
+742,HIFS,Hingham Institution for Savings,"$91,793 ",23:01,Robert Gaughen Jr.,"$2,069,066 ",Financials
+743,HIG,The Hartford Financial Services Group,"$106,940 ",148:01:00,Christopher Swift,"$15,824,348 ",Financials
+744,HLI,Houlihan Lokey,"$204,190 ",52:01:00,Scott Beiser,"$10,650,000 ",Financials
+745,HLNE,Hamilton Lane,"$125,743 ",6:01,Mario Giannini,"$711,477 ",Financials
+746,HMN,Horace Mann Educators,"$70,226 ",87:01:00,Marita Zuraitis,"$6,118,976 ",Financials
+747,HMST,HomeStreet,"$87,736 ",29:01:00,Mark Mason,"$2,502,021 ",Financials
+748,HOMB,Home BancShares,"$37,831 ",136:01:00,John Allison,"$5,124,815 ",Financials
+749,HOPE,Hope Bancorp,"$72,040 ",46:01:00,Kevin Kim,"$3,356,442 ",Financials
+750,HTBI,HomeTrust Bancshares,"$66,618 ",17:01,Dana Stonestreet,"$1,087,016 ",Financials
+751,HTBK,Heritage Commerce,"$111,772 ",16:01,Walter Kaczmarek,"$1,659,045 ",Financials
+752,HTH,Hilltop,"$79,325 ",69:01:00,Jeremy Ford,"$6,678,697 ",Financials
+753,HTLF,Heartland Financial USA,"$64,213 ",45:01:00,Bruce Lee,"$2,852,290 ",Financials
+754,HWC,Hancock Whitney,"$70,133 ",85:01:00,John Hairston,"$5,938,805 ",Financials
+755,IBCP,Independent Bank,"$54,695 ",25:01:00,William Kessel,"$1,340,891 ",Financials
+756,IBKR,Interactive Brokers Group,"$86,317 ",142:01:00,Milan Galik,"$12,289,397 ",Financials
+757,IBTX,Independent Bank Group,"$72,362 ",38:01:00,David Brooks,"$2,728,746 ",Financials
+758,ICE,Intercontinental Exchange,"$125,579 ",118:01:00,Jeffrey Sprecher,"$14,788,386 ",Financials
+759,INBK,First Internet Bancorp,"$83,870 ",23:01,David Becker,"$1,908,318 ",Financials
+760,INDB,Independent Bank,"$60,263 ",46:01:00,Christopher Oddleifson,"$2,783,438 ",Financials
+761,IVZ,Invesco,"$187,854 ",69:01:00,Martin Flanagan,"$12,897,752 ",Financials
+762,JEF,Jefferies Financial Group,"$210,171 ",137:01:00,Richard Handler,"$28,872,946 ",Financials
+763,JHG,Janus Henderson Group Plc,"$161,199 ",58:01:00,Richard Weil,"$9,418,186 ",Financials
+764,JPM,JPMorgan Chase &,"$92,112 ",917:01:00,James Dimon,"$84,428,145 ",Financials
+765,JRVR,James River Group,"$90,701 ",15:01,Frank D'Orazio,"$1,317,980 ",Financials
+766,KEY,KeyCorp,"$73,571 ",118:01:00,Christopher Gorman,"$8,653,484 ",Financials
+767,KMPR,Kemper,"$68,995 ",119:01:00,Joseph Lacher,"$8,222,255 ",Financials
+768,KNSL,Kinsale Capital Group,"$107,880 ",28:01:00,Michael Kehoe,"$3,028,861 ",Financials
+769,KRNY,Kearny Financial,"$82,528 ",26:01:00,Craig Montanaro,"$2,122,665 ",Financials
+770,L,Loews,"$53,781 ",114:01:00,James Tisch,"$6,119,523 ",Financials
+771,LADR,Ladder Capital,"$320,799 ",34:01:00,Brian Harris,"$10,928,909 ",Financials
+772,LAZ,Lazard Ltd,"$216,902 ",54:01:00,Kenneth Jacobs,"$11,777,312 ",Financials
+773,LBAI,Lakeland Bancorp,"$66,995 ",52:01:00,Thomas Shara,"$3,487,152 ",Financials
+774,LC,LendingClub,"$149,879 ",47:01:00,Scott Sanborn,"$6,938,099 ",Financials
+775,LKFN,Lakeland Financial,"$50,198 ",38:01:00,David Findlay,"$1,919,909 ",Financials
+776,LNC,Lincoln National,"$84,240 ",199:01:00,Dennis Glass,"$16,760,924 ",Financials
+777,LOB,Live Oak Bancshares,"$94,806 ",9:01,James Mahan,"$884,380 ",Financials
+778,LPLA,LPL Financial,"$88,009 ",146:01:00,Dan Arnold,"$12,875,868 ",Financials
+779,LPRO,Open Lending,"$129,646 ",18:01,John Flynn,"$2,299,501 ",Financials
+780,MBI,MBIA,"$281,580 ",14:01,William Fallon,"$4,020,800 ",Financials
+781,MBWM,Mercantile Bank,"$53,499 ",23:01,Robert Kaminski Jr.,"$1,208,919 ",Financials
+782,MC,Moelis &,"$259,113 ",55:01:00,Kenneth Moelis,"$14,358,959 ",Financials
+783,MCBC,Macatawa Bank,"$44,716 ",14:01,Ronald Haan,"$637,653 ",Financials
+784,MCO,Moodys,"$88,985 ",110:01:00,Robert Fauber,"$9,750,157 ",Financials
+785,MCY,Mercury General,"$69,666 ",24:01:00,Gabriel Tirador,"$1,695,948 ",Financials
+786,MET,MetLife,"$76,392 ",218:01:00,Michel Khalaf,"$16,621,373 ",Financials
+787,MFA,MFA Financial,"$254,800 ",29:01:00,Craig Knutson,"$7,411,604 ",Financials
+788,MKL,Markel,"$42,786 ",108:01:00,Thomas Gayner,"$4,624,603 ",Financials
+789,MKTX,MarketAxess,"$162,120 ",35:01:00,Richard McVey,"$5,742,184 ",Financials
+790,MMC,Marsh & McLennan Companies,"$67,143 ",321:01:00,Daniel Glaser,"$21,519,703 ",Financials
+791,MOFG,MidWestOne Financial Group,"$58,751 ",20:01,Charles Funk,"$1,156,260 ",Financials
+792,MORN,Morningstar,"$63,500 ",88:01:00,Kunal Kapoor,"$5,597,592 ",Financials
+793,MPB,Mid Penn Bancorp,"$50,186 ",23:01,Rory Ritrievi,"$1,148,556 ",Financials
+794,MS,Morgan Stanley,"$137,069 ",255:01:00,James Gorman,"$34,941,635 ",Financials
+795,MSBI,Midland States Bancorp,"$56,630 ",28:01:00,Jeffrey Ludwig,"$1,581,174 ",Financials
+796,MSCI,MSCI,"$58,415 ",177:01:00,Henry Fernandez,"$10,338,312 ",Financials
+797,MTB,M&T Bank,"$68,270 ",101:01:00,Rene Jones,"$6,868,174 ",Financials
+798,MTG,MGIC Investment,"$137,827 ",47:01:00,Timothy Mattke,"$6,385,557 ",Financials
+799,MVBF,MVB Financial,"$72,096 ",28:01:00,Larry Mazza,"$2,116,982 ",Financials
+800,NAVI,Navient,"$42,587 ",185:01:00,John Remondi,"$7,883,966 ",Financials
+801,NBHC,National Bank,"$57,822 ",52:01:00,G. Laney,"$3,009,547 ",Financials
+802,NBTB,NBT Bancorp,"$55,154 ",50:01:00,John Watt Jr.,"$2,766,141 ",Financials
+803,NCBS,Nicolet Bankshares,"$45,240 ",78:01:00,Michael Daniels,"$3,529,055 ",Financials
+804,NDAQ,Nasdaq,"$98,946 ",202:01:00,Adena Friedman,"$19,965,893 ",Financials
+805,NFBK,Northfield Bancorp,"$67,607 ",22:01,Steven Klein,"$1,466,249 ",Financials
+806,NLY,Annaly Capital Management,"$365,000 ",25:01:00,David Finkelstein,"$9,138,764 ",Financials
+807,NMIH,NMI,"$173,991 ",28:01:00,Claudia Merkle,"$4,970,949 ",Financials
+808,NNI,Nelnet,"$40,517 ",67:01:00,Jeffrey Noordhoek,"$2,732,315 ",Financials
+809,NTRS,Northern Trust,"$72,300 ",145:01:00,Michael O'Grady,"$10,449,233 ",Financials
+810,NWBI,Northwest Bancshares,"$41,624 ",41:01:00,Ronald Seiffert,"$1,688,530 ",Financials
+811,NWLI,National Western Life Group,"$56,081 ",121:01:00,Ross Moody,"$6,763,351 ",Financials
+812,NYCB,New York Community Bancorp,"$79,980 ",109:01:00,Thomas Cangemi,"$8,652,305 ",Financials
+813,NYMT,New York Mortgage Trust,"$229,196 ",23:01,Steven Mumma,"$5,384,052 ",Financials
+814,OBNK,Origin Bancorp,"$70,008 ",34:01:00,Drake Mills,"$2,408,235 ",Financials
+815,OCFC,OceanFirst Financial,"$68,440 ",46:01:00,Christopher Maher,"$3,161,351 ",Financials
+816,OFG,OFG Bancorp,"$37,226 ",81:01:00,Jose Fernandez,"$3,020,837 ",Financials
+817,OMF,OneMain,"$52,697 ",412:01:00,Douglas Shulman,"$21,715,068 ",Financials
+818,ONB,Old National Bancorp,"$59,258 ",67:01:00,James Ryan,"$3,971,101 ",Financials
+819,OPY,Oppenheimer,"$119,500 ",92:01:00,Albert Lowenthal,"$11,030,203 ",Financials
+820,ORI,Old Republic International,"$84,077 ",29:01:00,Craig Smiddy,"$2,392,292 ",Financials
+821,ORRF,Orrstown Financial Services,"$58,822 ",33:01:00,Thomas Quinn,"$1,967,057 ",Financials
+822,OSBC,Old Second Bancorp,"$56,977 ",30:01:00,James Eccher,"$1,717,080 ",Financials
+823,OZK,Bank OZK,"$46,058 ",119:01:00,George Gleason,"$5,487,734 ",Financials
+824,PACW,PacWest Bancorp,"$94,187 ",270:01:00,Matthew Wagner,"$25,435,791 ",Financials
+825,PB,Prosperity Bancshares,"$42,388 ",131:01:00,David Zalman,"$5,534,173 ",Financials
+826,PEBO,Peoples Bancorp,"$51,803 ",28:01:00,Charles Sulerzyski,"$1,461,456 ",Financials
+827,PFBC,Preferred Bank,"$87,813 ",52:01:00,Li Yu,"$4,557,853 ",Financials
+828,PFC,Premier Financial,"$50,835 ",36:01:00,Gary Small,"$1,845,827 ",Financials
+829,PFG,Principal Financial Group,"$75,348 ",236:01:00,Daniel Houston,"$17,566,163 ",Financials
+830,PFIS,Peoples Financial Services,"$42,842 ",24:01:00,Craig Best,"$1,009,089 ",Financials
+831,PFS,Provident Financial Services,"$65,740 ",40:01:00,Christopher Martin,"$2,625,561 ",Financials
+832,PFSI,PennyMac Financial Services,"$70,939 ",191:01:00,David Spector,"$13,575,224 ",Financials
+833,PGC,Peapack-Gladstone Financial,"$85,055 ",29:01:00,Douglas Kennedy,"$2,523,657 ",Financials
+834,PGR,The Progressive,"$65,874 ",220:01:00,Susan Griffith,"$14,462,961 ",Financials
+835,PIPR,Piper Sandler Cos.,"$188,599 ",49:01:00,Chad Abraham,"$9,138,214 ",Financials
+836,PJT,PJT Partners,"$329,000 ",3:01,Paul Taubman,"$1,015,000 ",Financials
+837,PLMR,Palomar,"$114,711 ",168:01:00,Mac Armstrong,"$19,246,250 ",Financials
+838,PMT,PennyMac Mortgage Investment Trust,"$84,454 ",12:01,David Spector,"$999,981 ",Financials
+839,PNC,The PNC Financial Services Group,"$78,333 ",224:01:00,William Demchak,"$17,506,270 ",Financials
+840,PNFP,Pinnacle Financial Partners,"$98,095 ",70:01:00,M. Turner,"$6,826,962 ",Financials
+841,PPBI,Pacific Premier Bancorp,"$91,499 ",77:01:00,Steven Gardner,"$7,054,109 ",Financials
+842,PRA,ProAssurance,"$99,128 ",32:01:00,Edward Rand Jr.,"$3,149,575 ",Financials
+843,PRAA,PRA Group,"$54,208 ",104:01:00,Kevin Stevenson,"$5,636,586 ",Financials
+844,PRG,PROG,"$53,542 ",139:01:00,Steven Michaels,"$7,458,031 ",Financials
+845,PRI,Primerica,"$53,485 ",95:01:00,Glenn Williams,"$5,055,625 ",Financials
+846,PRK,Park National,"$65,619 ",36:01:00,David Trautman,"$2,325,563 ",Financials
+847,PRU,Prudential Financial,"$114,931 ",172:01:00,Charles Lowrey,"$19,799,737 ",Financials
+848,QCRH,QCR,"$52,334 ",37:01:00,Larry Helling,"$1,939,141 ",Financials
+849,RBCAA,Republic Bancorp,"$59,304 ",11:01,Steven Trager,"$662,550 ",Financials
+850,RDN,Radian Group,"$90,046 ",103:01:00,Richard Thornberry,"$9,286,766 ",Financials
+851,RE,Everest Re Group,"$151,276 ",59:01:00,Juan Andrade,"$8,866,126 ",Financials
+852,RF,Regions Financial,"$79,540 ",169:01:00,John Turner Jr.,"$13,444,577 ",Financials
+853,RGA,"Reinsurance Group of America, Incorporated","$125,152 ",129:01:00,Anna Manning,"$16,109,515 ",Financials
+854,RILY,B. Riley Financial,"$129,200 ",155:01:00,Bryant Riley,"$20,006,438 ",Financials
+855,RJF,Raymond James Financial,"$106,782 ",130:01:00,Paul Reilly,"$13,901,046 ",Financials
+856,RKT,Rocket Companies,"$77,800 ",21:01,Jay Farner,"$1,603,475 ",Financials
+857,RLI,RLI,"$119,617 ",50:01:00,Jonathan Michael,"$6,004,410 ",Financials
+858,RM,Regional Management,"$43,240 ",86:01:00,Robert Beck,"$3,726,285 ",Financials
+859,RNR,RenaissanceRe,"$192,250 ",46:01:00,Kevin O'Donnell,"$8,868,902 ",Financials
+860,RNST,Renasant,"$56,268 ",57:01:00,C. Waycaster,"$3,190,763 ",Financials
+861,ROOT,Root,"$53,885 ",107:01:00,Alexander Timm,"$5,784,695 ",Financials
+862,RWT,Redwood Trust,"$148,581 ",92:01:00,Christopher Abate,"$13,598,971 ",Financials
+863,RYAN,Ryan Specialty,"$81,955 ",30:01:00,Patrick Ryan,"$2,456,731 ",Financials
+864,SAFT,Safety Insurance Group,"$86,873 ",37:01:00,George Murphy,"$3,236,556 ",Financials
+865,SAMG,Silvercrest Asset Management Group,"$211,000 ",14:01,Richard Hough III,"$3,323,449 ",Financials
+866,SASR,Sandy Spring Bancorp,"$93,268 ",28:01:00,Daniel Schrider,"$2,645,831 ",Financials
+867,SBCF,Seacoast Banking of Florida,"$61,816 ",45:01:00,Charles Shaffer,"$2,771,441 ",Financials
+868,SBNY,Signature Bank,"$115,807 ",78:01:00,Joseph DePaolo,"$8,975,851 ",Financials
+869,SBSI,Southside Bancshares,"$42,790 ",34:01:00,Lee Gibson,"$1,442,701 ",Financials
+870,SBT,Sterling Bancorp,"$70,721 ",43:01:00,Thomas O'Brien,"$3,046,531 ",Financials
+871,SCHW,The Charles Schwab,"$109,269 ",201:01:00,Walter Bettinger II,"$21,938,404 ",Financials
+872,SCU,Sculptor Capital Management,"$264,087 ",552:01:00,James Levin,"$145,788,003 ",Financials
+873,SEIC,SEI Investments Company,"$96,909 ",24:01:00,Alfred West Jr.,"$2,367,239 ",Financials
+874,SF,Stifel Financial,"$102,972 ",132:01:00,Ronald Kruszewski,"$13,555,232 ",Financials
+875,SFBS,ServisFirst Bancshares,"$79,900 ",32:01:00,Thomas Broughton,"$2,546,502 ",Financials
+876,SFNC,Simmons First National,"$71,253 ",81:01:00,George Makris,"$5,772,713 ",Financials
+877,SFST,Southern First Bancshares,"$83,638 ",15:01,R. Seaver Jr.,"$1,279,479 ",Financials
+878,SIGI,Selective Insurance Group,"$107,659 ",50:01:00,John Marchioni,"$5,435,625 ",Financials
+879,SIVB,SVB Financial Group,"$125,638 ",79:01:00,Greg Becker,"$9,922,132 ",Financials
+880,SLM,SLM,"$88,566 ",80:01:00,Jonathan Witter,"$7,047,062 ",Financials
+881,SLQT,SelectQuote,"$63,566 ",49:01:00,Timothy Danker,"$3,154,343 ",Financials
+882,SMBC,Southern Missouri Bancorp,"$32,509 ",20:01,Greg Steffens,"$651,898 ",Financials
+883,SMMF,Summit Financial Group,"$44,000 ",29:01:00,H. Maddy III,"$1,296,705 ",Financials
+884,SNEX,StoneX Group,"$84,188 ",56:01:00,Sean O'Connor,"$4,748,563 ",Financials
+885,SNV,Synovus Financial,"$68,535 ",83:01:00,Kevin Blair,"$5,638,982 ",Financials
+886,SPGI,S&P Global,"$27,835 ",580:01:00,Douglas Peterson,"$16,143,770 ",Financials
+887,SPNT,SiriusPoint,"$81,712 ",154:01:00,Siddhartha Sankaran,"$12,374,251 ",Financials
+888,SRCE,1st Source,"$57,693 ",35:01:00,Christopher Murphy,"$2,010,211 ",Financials
+889,SSB,South State,"$63,482 ",85:01:00,John Corbett,"$5,311,551 ",Financials
+890,STBA,S&T Bancorp,"$48,816 ",29:01:00,Christopher McComish,"$887,244 ",Financials
+891,STC,Stewart Information Services,"$53,039 ",97:01:00,Frederick Eppinger Jr.,"$5,147,655 ",Financials
+892,STT,State Street,"$61,463 ",230:01:00,Ronald O'Hanley,"$14,113,660 ",Financials
+893,SYF,Synchrony Financial,"$50,316 ",177:01:00,Brian Doubles,"$8,880,347 ",Financials
+894,TBBK,The Bancorp,"$84,226 ",55:01:00,Damian Kozlowski,"$4,610,714 ",Financials
+895,TBK,Triumph Financial,"$48,657 ",50:01:00,Aaron Graft,"$2,444,169 ",Financials
+896,TCBI,Texas Capital Bancshares,"$97,829 ",242:01:00,Robert Holmes,"$23,622,960 ",Financials
+897,TCBK,TriCo Bancshares,"$60,882 ",40:01:00,Richard Smith,"$2,441,604 ",Financials
+898,TFC,Truist Financial,"$95,659 ",153:01:00,William Rogers Jr.,"$10,395,426 ",Financials
+899,TFSL,TFS Financial,"$68,608 ",69:01:00,Marc Stefanski,"$4,751,324 ",Financials
+900,THFF,First Financial,"$49,744 ",44:01:00,Norman Lowery,"$2,186,641 ",Financials
+901,THG,The Hanover Insurance Group,"$112,291 ",60:01:00,John Roche,"$6,773,668 ",Financials
+902,TIPT,Tiptree,"$84,137 ",109:01:00,Jonathan Ilany,"$9,168,916 ",Financials
+903,TMP,Tompkins Financial,"$66,087 ",33:01:00,Stephen Romaine,"$2,180,713 ",Financials
+904,TOWN,TowneBank,"$61,270 ",28:01:00,J. Davis,"$1,726,871 ",Financials
+905,TREE,LendingTree,"$108,127 ",13:01,Douglas Lebda,"$1,369,813 ",Financials
+906,TRMK,Trustmark,"$53,652 ",46:01:00,Duane Dewey,"$2,472,426 ",Financials
+907,TROW,T. Rowe Price Group,"$138,173 ",124:01:00,William Stromberg,"$17,127,330 ",Financials
+908,TRST,TrustCo Bank NY,"$37,801 ",84:01:00,Robert McCormick,"$3,184,330 ",Financials
+909,TRUP,Trupanion,"$93,203 ",53:01:00,Darryl Rawlings,"$4,962,422 ",Financials
+910,TRV,The Travelers Companies,"$109,586 ",181:01:00,Alan Schnitzer,"$19,853,697 ",Financials
+911,TW,Tradeweb Markets,"$214,407 ",69:01:00,Lee Olesky,"$14,771,567 ",Financials
+912,TWO,Two Harbors Investment,"$149,650 ",32:01:00,William Greenberg,"$4,737,627 ",Financials
+913,UBSI,United Bankshares,"$61,726 ",75:01:00,Richard Adams,"$4,629,578 ",Financials
+914,UCBI,United Community Banks,"$49,989 ",60:01:00,H. Harton,"$3,015,446 ",Financials
+915,UFCS,United Fire Group,"$89,049 ",27:01:00,Randy Ramlo,"$2,387,206 ",Financials
+916,UMBF,UMB Financial,"$73,594 ",68:01:00,J. Kemper,"$4,975,063 ",Financials
+917,UMPQ,Umpqua,"$67,587 ",64:01:00,Cort O'Haver,"$4,322,852 ",Financials
+918,UNM,Unum Group,"$68,308 ",137:01:00,Richard McKenney,"$9,349,680 ",Financials
+919,USB,U.S. Bancorp,"$85,166 ",225:01:00,Andrew Cecere,"$19,166,276 ",Financials
+920,UVE,Universal Insurance,"$73,006 ",48:01:00,Stephen Donaghy,"$3,540,457 ",Financials
+921,UVSP,Univest Financial,"$73,783 ",22:01,Jeffrey Schweitzer,"$1,648,678 ",Financials
+922,UWMC,UWM,"$39,998 ",195:01:00,Mat Ishbia,"$7,808,350 ",Financials
+923,VALU,Value Line,"$76,425 ",10:01,Howard Brecher,"$789,500 ",Financials
+924,VBTX,Veritex,"$72,968 ",43:01:00,C. Holland III,"$3,104,142 ",Financials
+925,VIRT,Virtu Financial,"$235,000 ",43:01:00,Douglas Cifu,"$10,107,261 ",Financials
+926,VLY,Valley National Bancorp,"$66,703 ",80:01:00,Ira Robbins,"$5,349,830 ",Financials
+927,VOYA,Voya Financial,"$121,489 ",132:01:00,Rodney Martin Jr.,"$16,030,105 ",Financials
+928,VRTS,Virtus Investment Partners,"$233,462 ",37:01:00,George Aylward,"$8,614,996 ",Financials
+929,WABC,Westamerica Bancorporation,"$35,351 ",21:01,David Payne,"$750,563 ",Financials
+930,WAFD,Washington Federal,"$53,109 ",68:01:00,Brent Beardall,"$3,596,934 ",Financials
+931,WAL,Western Alliance Bancorporation,"$107,513 ",68:01:00,Kenneth Vecchione,"$7,323,619 ",Financials
+932,WASH,Washington Trust Bancorp,"$75,524 ",24:01:00,Edward Handy,"$1,842,107 ",Financials
+933,WBS,Webster Financial,"$79,129 ",60:01:00,John Ciulla,"$4,721,527 ",Financials
+934,WD,Walker & Dunlop,"$150,605 ",50:01:00,William Walker,"$7,558,968 ",Financials
+935,WETF,WisdomTree,"$181,999 ",24:01:00,Jonathan Steinberg,"$4,317,175 ",Financials
+936,WFC,Wells Fargo & Company,"$73,578 ",290:01:00,Charles Scharf,"$21,350,906 ",Financials
+937,WRB,W. R. Berkley,"$102,973 ",138:01:00,W. Berkley Jr.,"$14,147,305 ",Financials
+938,WRLD,World Acceptance,"$52,799 ",18:01,R. Prashad,"$933,965 ",Financials
+939,WSBC,WesBanco,"$57,184 ",47:01:00,Todd Clossin,"$2,706,287 ",Financials
+940,WSBF,Waterstone Financial,"$73,260 ",20:01,Douglas Gordon,"$1,597,355 ",Financials
+941,WSFS,WSFS Financial,"$80,911 ",42:01:00,Rodger Levenson,"$3,386,092 ",Financials
+942,WTBA,West Bancorporation,"$70,564 ",15:01,David Nelson,"$1,027,900 ",Financials
+943,WTFC,Wintrust Financial,"$69,558 ",103:01:00,Edward Wehmer,"$7,140,312 ",Financials
+944,WTM,White Mountains Insurance Group,"$61,862 ",116:01:00,Manning Rountree,"$7,185,569 ",Financials
+945,WTW,Willis Towers Watson PLC,"$66,942 ",304:01:00,John Haley,"$20,337,292 ",Financials
+946,ZION,"Zions Bancorporation, NA","$76,160 ",61:01:00,Harris Simmons,"$4,656,113 ",Financials
+947,A,Agilent Technologies,"$82,890 ",193:01:00,Michael McMullen,"$15,967,631 ",Health%20Care
+948,ABBV,AbbVie,"$149,662 ",160:01:00,Richard Gonzalez,"$23,912,154 ",Health%20Care
+949,ABC,AmerisourceBergen,"$65,076 ",229:01:00,Steven Collis,"$14,873,815 ",Health%20Care
+950,ABMD,ABIOMED,"$131,893 ",96:01:00,Michael Minogue,"$12,665,992 ",Health%20Care
+951,ABT,Abbott Laboratories,"$97,952 ",254:01:00,Robert Ford,"$24,914,886 ",Health%20Care
+952,ACAD,ACADIA Pharmaceuticals,"$219,387 ",45:01:00,Stephen Davis,"$9,793,288 ",Health%20Care
+953,ACHC,Acadia Healthcare Company,"$40,327 ",244:01:00,Debra Osteen,"$9,853,107 ",Health%20Care
+954,ADPT,Adaptive Biotechnologies,"$167,834 ",52:01:00,Chad Robins,"$8,751,617 ",Health%20Care
+955,ADUS,Addus HomeCare,"$13,926 ",247:01:00,R. Allison,"$3,444,664 ",Health%20Care
+956,AGEN,Agenus,"$111,952 ",87:01:00,Garo Armen,"$9,757,448 ",Health%20Care
+957,AGIO,Agios Pharmaceuticals,"$315,091 ",21:01,Jacqualyn Fouse,"$6,519,427 ",Health%20Care
+958,ALEC,Alector,"$328,335 ",29:01:00,Arnon Rosenthal,"$9,612,580 ",Health%20Care
+959,ALGN,Align Technology,"$13,011 ","1,659:1",Joseph Hogan,"$21,591,400 ",Health%20Care
+960,ALKS,Alkermes Plc,"$201,944 ",44:01:00,Richard Pops,"$8,846,588 ",Health%20Care
+961,ALLO,Allogene Therapeutics,"$307,290 ",33:01:00,David Chang,"$10,161,454 ",Health%20Care
+962,ALNY,Alnylam Pharmaceuticals,"$231,163 ",44:01:00,John Maraganore,"$10,176,685 ",Health%20Care
+963,AMED,Amedisys,"$64,558 ",129:01:00,Paul Kusserow,"$8,348,257 ",Health%20Care
+964,AMEH,Apollo Medical,"$41,066 ",216:01:00,Brandon Sim,"$8,856,157 ",Health%20Care
+965,AMGN,Amgen,"$130,589 ",166:01:00,Robert Bradway,"$21,721,154 ",Health%20Care
+966,AMN,AMN Healthcare Services,"$54,225 ",174:01:00,Susan Salka,"$9,472,551 ",Health%20Care
+967,AMPH,Amphastar Pharmaceuticals,"$54,552 ",119:01:00,Jack Zhang,"$6,509,420 ",Health%20Care
+968,AMRX,Amneal Pharmaceuticals,"$12,169 ",394:01:00,Chintu Patel,"$4,798,825 ",Health%20Care
+969,ANGO,AngioDynamics,"$98,067 ",58:01:00,James Clemmer,"$5,659,728 ",Health%20Care
+970,ANIK,Anika Therapeutics,"$115,858 ",36:01:00,Cheryl Blanchard,"$4,202,608 ",Health%20Care
+971,ANIP,ANI Pharmaceuticals,"$50,403 ",130:01:00,Nikhil Lalwani,"$6,541,060 ",Health%20Care
+972,ANTM,Elevance Health,"$51,005 ",379:01:00,Gail Boudreaux,"$19,348,241 ",Health%20Care
+973,AORT,Artivion,"$55,878 ",85:01:00,James Mackin,"$4,749,584 ",Health%20Care
+974,APLS,Apellis Pharmaceuticals,"$321,867 ",28:01:00,Cedric Francois,"$9,122,039 ",Health%20Care
+975,ARCT,Arcturus Therapeutics,"$406,110 ",2:01,Joseph Payne,"$960,000 ",Health%20Care
+976,ARQT,Arcutis Biotherapeutics,"$342,623 ",13:01,Todd Watanabe,"$4,284,123 ",Health%20Care
+977,ARVN,Arvinas,"$288,956 ",44:01:00,John Houston,"$12,601,014 ",Health%20Care
+978,ARWR,Arrowhead Pharmaceuticals,"$168,720 ",146:01:00,Christopher Anzalone,"$24,703,855 ",Health%20Care
+979,ATRA,Atara Biotherapeutics,"$199,112 ",26:01:00,Pascal Touchon,"$5,117,335 ",Health%20Care
+980,ATRC,AtriCure,"$133,905 ",56:01:00,Michael Carrel,"$7,535,074 ",Health%20Care
+981,ATRI,Atrion,"$41,666 ",47:01:00,David Battat,"$1,936,585 ",Health%20Care
+982,AUPH,Aurinia Pharmaceuticals,"$255,489 ",5:01,Peter Greenleaf,"$1,240,389 ",Health%20Care
+983,AVNS,Avanos Medical,"$6,120 ",895:01:00,Joseph Woody,"$5,478,187 ",Health%20Care
+984,AVTR,Avantor,"$40,456 ",328:01:00,Michael Stubblefield,"$13,260,913 ",Health%20Care
+985,AVXL,Anavex Life Sciences,"$753,041 ",13:01,Christopher Missling,"$9,417,057 ",Health%20Care
+986,AXGN,AxoGen,"$174,840 ",31:01:00,Karen Zaderej,"$5,360,575 ",Health%20Care
+987,AXSM,Axsome Therapeutics,"$690,964 ",12:01,Herriot Tabuteau,"$8,054,631 ",Health%20Care
+988,AZTA,Azenta,"$51,135 ",91:01:00,Stephen Schwartz,"$4,668,378 ",Health%20Care
+989,BAX,Baxter International,"$46,351 ",337:01:00,Jose Almeida,"$15,634,734 ",Health%20Care
+990,BBIO,BridgeBio Pharma,"$508,054 ",50:01:00,Neil Kumar,"$25,626,959 ",Health%20Care
+991,BCRX,BioCryst Pharmaceuticals,"$273,522 ",26:01:00,Jon Stonehouse,"$7,061,225 ",Health%20Care
+992,BDX,"Becton, Dickinson and Company","$37,748 ",443:01:00,Thomas Polen,"$16,711,230 ",Health%20Care
+993,BIIB,Biogen,"$163,551 ",108:01:00,Michel Vounatsos,"$17,689,665 ",Health%20Care
+994,BIO,Bio-Rad Laboratories,"$78,820 ",110:01:00,Norman Schwartz,"$8,695,925 ",Health%20Care
+995,BKD,Brookdale Senior Living,"$24,035 ",221:01:00,Lucinda Baier,"$5,300,248 ",Health%20Care
+996,BLFS,BioLife Solutions,"$108,193 ",21:01,Michael Rice,"$2,249,907 ",Health%20Care
+997,BMRN,BioMarin Pharmaceutical,"$175,523 ",104:01:00,Jean-Jacques Bienaime,"$18,255,438 ",Health%20Care
+998,BMY,Bristol-Myers Squibb Company,"$148,649 ",133:01:00,Giovanni Caforio,"$19,784,806 ",Health%20Care
+999,BPMC,Blueprint Medicines,"$396,068 ",25:01:00,Jeffrey Albers,"$9,713,304 ",Health%20Care
+1000,BRKR,Bruker,"$70,004 ",80:01:00,Frank Laukien,"$5,594,539 ",Health%20Care
+1001,BSX,Boston Scientific,"$68,891 ",233:01:00,Michael Mahoney,"$16,064,039 ",Health%20Care
+1002,CAH,Cardinal Health,"$63,906 ",211:01:00,Michael Kaufmann,"$13,463,557 ",Health%20Care
+1003,CANO,Cano Health,"$34,747 ",912:01:00,Marlow Hernandez,"$31,685,996 ",Health%20Care
+1004,CARA,CARA Therapeutics,"$192,240 ",52:01:00,Christopher Posner,"$9,901,376 ",Health%20Care
+1005,CCRN,Cross Country Healthcare,"$37,851 ",117:01:00,Kevin Clark,"$4,446,758 ",Health%20Care
+1006,CDMO,Avid Bioservices,"$94,883 ",65:01:00,Nicholas Green,"$6,181,824 ",Health%20Care
+1007,CDXS,Codexis,"$134,525 ",26:01:00,John Nicols,"$3,438,179 ",Health%20Care
+1008,CERS,Cerus,"$205,935 ",25:01:00,William Greenman,"$5,182,371 ",Health%20Care
+1009,CHE,Chemed,"$53,365 ",218:01:00,Kevin McNamara,"$11,659,622 ",Health%20Care
+1010,CHRS,Coherus BioSciences,"$314,843 ",27:01:00,Dennis Lanfear,"$8,594,495 ",Health%20Care
+1011,CI,Cigna,"$66,917 ",297:01:00,David Cordani,"$19,872,266 ",Health%20Care
+1012,CLDX,Celldex Therapeutics,"$195,006 ",31:01:00,Anthony Marucci,"$6,045,894 ",Health%20Care
+1013,CNC,Centene,"$71,217 ",290:01:00,Michael Neidorff,"$20,637,990 ",Health%20Care
+1014,CNMD,CONMED,"$44,812 ",209:01:00,Curt Hartman,"$9,374,480 ",Health%20Care
+1015,COLL,Collegium Pharmaceutical,"$178,969 ",41:01:00,Joseph Ciaffoni,"$7,314,335 ",Health%20Care
+1016,COO,The Cooper Companies,"$36,105 ",305:01:00,Albert White III,"$10,994,906 ",Health%20Care
+1017,CORT,Corcept Therapeutics,"$282,843 ",39:01:00,Joseph Belanoff,"$10,984,638 ",Health%20Care
+1018,CPRX,Catalyst Pharmaceuticals,"$257,525 ",8:01,Patrick McEnany,"$2,089,432 ",Health%20Care
+1019,CPSI,Computer Programs and Systems,"$43,628 ",43:01:00,J. Douglas,"$1,889,943 ",Health%20Care
+1020,CRL,Charles River Laboratories International,"$51,848 ",264:01:00,James Foster,"$13,705,581 ",Health%20Care
+1021,CRVL,CorVel,"$64,089 ",22:01,Michael Combs,"$1,420,744 ",Health%20Care
+1022,CSII,Cardiovascular Systems,"$141,945 ",31:01:00,Scott Ward,"$4,344,399 ",Health%20Care
+1023,CTLT,Catalent,"$63,242 ",196:01:00,John Chiminski,"$12,407,517 ",Health%20Care
+1024,CUTR,Cutera,"$94,766 ",43:01:00,David Mowry,"$4,065,626 ",Health%20Care
+1025,CVS,CVS Health,"$45,010 ",458:01:00,Karen Lynch,"$20,388,412 ",Health%20Care
+1026,CYH,Community Health Systems,"$60,868 ",157:01:00,Tim Hingtgen,"$9,526,625 ",Health%20Care
+1027,CYRX,CryoPort,"$41,290 ",124:01:00,Jerrell Shelton,"$5,132,821 ",Health%20Care
+1028,CYTK,"Cytokinetics, Incorporated","$265,164 ",29:01:00,Robert Blum,"$7,604,741 ",Health%20Care
+1029,DCPH,Deciphera Pharmaceuticals,"$290,520 ",32:01:00,Steven Hoerter,"$9,414,654 ",Health%20Care
+1030,DGX,Quest Diagnostics Incorporated,"$67,206 ",217:01:00,Stephen Rusckowski,"$14,557,818 ",Health%20Care
+1031,DHR,Danaher,"$66,203 ",259:01:00,Rainer Blair,"$17,152,267 ",Health%20Care
+1032,DNLI,Denali Therapeutics,"$366,661 ",35:01:00,Ryan Watts,"$12,673,479 ",Health%20Care
+1033,DVA,DaVita,"$67,535 ",49:01:00,Javier Rodriguez,"$3,298,439 ",Health%20Care
+1034,DVAX,Dynavax Technologies,"$188,019 ",24:01:00,Ryan Spencer,"$4,519,489 ",Health%20Care
+1035,DXCM,DexCom,"$63,500 ",189:01:00,Kevin Sayer,"$11,985,324 ",Health%20Care
+1036,EBS,Emergent BioSolutions,"$110,416 ",63:01:00,Robert Kramer Sr.,"$6,932,077 ",Health%20Care
+1037,EDIT,Editas Medicine,"$181,354 ",37:01:00,James Mullen,"$6,714,511 ",Health%20Care
+1038,EGRX,Eagle Pharmaceuticals,"$246,233 ",26:01:00,Scott Tarriff,"$6,471,521 ",Health%20Care
+1039,EHC,Encompass Health,"$45,802 ",180:01:00,Mark Tarr,"$8,252,128 ",Health%20Care
+1040,ELAN,Elanco Animal Health,"$92,634 ",130:01:00,Jeffrey Simmons,"$12,060,015 ",Health%20Care
+1041,ENDP,Endo International Plc,"$65,759 ",441:01:00,Blaise Coleman,"$28,994,250 ",Health%20Care
+1042,ENOV,Enovis,"$30,024 ",461:01:00,Matthew Trerotola,"$13,833,746 ",Health%20Care
+1043,ENSG,The Ensign Group,"$38,735 ",192:01:00,Barry Port,"$7,421,472 ",Health%20Care
+1044,ENTA,Enanta Pharmaceuticals,"$230,731 ",23:01,Jay Luly,"$5,293,709 ",Health%20Care
+1045,ESPR,Esperion Therapeutics,"$217,116 ",36:01:00,Sheldon Koenig,"$7,776,226 ",Health%20Care
+1046,EVH,Evolent Health,"$85,726 ",76:01:00,Seth Blackley,"$6,526,285 ",Health%20Care
+1047,EW,Edwards Lifesciences,"$73,036 ",186:01:00,Michael Mussallem,"$13,613,305 ",Health%20Care
+1048,EXAS,Exact Sciences,"$128,893 ",114:01:00,Kevin Conroy,"$14,632,240 ",Health%20Care
+1049,EXEL,Exelixis,"$283,758 ",27:01:00,Michael Morrissey,"$7,530,431 ",Health%20Care
+1050,FATE,Fate Therapeutics,"$290,614 ",40:01:00,J. Wolchko,"$11,728,617 ",Health%20Care
+1051,FGEN,FibroGen,"$174,414 ",60:01:00,Enrique Conterno,"$10,385,103 ",Health%20Care
+1052,FOLD,Amicus Therapeutics,"$197,842 ",50:01:00,John Crowley,"$9,990,032 ",Health%20Care
+1053,GBIO,Generation Bio,"$219,002 ",27:01:00,C. McDonough,"$5,885,495 ",Health%20Care
+1054,GERN,Geron,"$460,336 ",5:01,John Scarlett,"$2,056,987 ",Health%20Care
+1055,GILD,Gilead Sciences,"$211,687 ",91:01:00,Daniel O'Day,"$19,229,466 ",Health%20Care
+1056,GKOS,Glaukos,"$162,787 ",45:01:00,Thomas Burns,"$7,260,144 ",Health%20Care
+1057,GMED,Globus Medical,"$85,466 ",59:01:00,David Demski,"$5,088,592 ",Health%20Care
+1058,HAE,Haemonetics,"$45,323 ",192:01:00,Christopher Simon,"$8,702,220 ",Health%20Care
+1059,HALO,Halozyme Therapeutics,"$291,734 ",26:01:00,Helen Torley,"$7,453,294 ",Health%20Care
+1060,HCA,HCA Healthcare,"$56,044 ",368:01:00,Samuel Hazen,"$20,635,260 ",Health%20Care
+1061,HCAT,Health Catalyst,"$161,573 ",37:01:00,Daniel Burton,"$5,961,043 ",Health%20Care
+1062,HOLX,Hologic,"$89,791 ",164:01:00,Stephen MacMillan,"$14,748,400 ",Health%20Care
+1063,HQY,HealthEquity,"$72,992 ",136:01:00,Jon Kessler,"$9,947,622 ",Health%20Care
+1064,HRTX,Heron Therapeutics,"$268,692 ",20:01,Barry Quart,"$5,430,828 ",Health%20Care
+1065,HSIC,Henry Schein,"$72,625 ",121:01:00,Stanley Bergman,"$10,786,180 ",Health%20Care
+1066,HSKA,Heska,"$54,001 ",358:01:00,Kevin Wilson,"$19,350,468 ",Health%20Care
+1067,HSTM,HealthStream,"$87,982 ",7:01,Robert Frist Jr.,"$644,550 ",Health%20Care
+1068,HUM,Humana,"$64,797 ",255:01:00,Bruce Broussard,"$16,528,036 ",Health%20Care
+1069,HZNP,Horizon Therapeutics Public Limited Company,"$298,200 ",72:01:00,Timothy Walbert,"$21,353,458 ",Health%20Care
+1070,ICPT,Intercept Pharmaceuticals,"$216,748 ",36:01:00,Jerome Durso,"$7,870,354 ",Health%20Care
+1071,ICUI,ICU Medical,"$32,600 ",156:01:00,Vivek Jain,"$5,071,358 ",Health%20Care
+1072,IDXX,IDEXX Laboratories,"$67,638 ",134:01:00,Jay Mazelsky,"$9,065,021 ",Health%20Care
+1073,ILMN,Illumina,"$115,398 ",124:01:00,Francis deSouza,"$14,333,634 ",Health%20Care
+1074,IMGN,ImmunoGen,"$296,859 ",25:01:00,Mark Enyedy,"$7,440,507 ",Health%20Care
+1075,INCY,Incyte,"$248,810 ",58:01:00,Herve Hoppenot,"$14,444,265 ",Health%20Care
+1076,INGN,Inogen,"$59,513 ",118:01:00,Nabil Shabshab,"$7,036,373 ",Health%20Care
+1077,INO,Inovio Pharmaceuticals,"$180,313 ",35:01:00,J. Kim,"$6,223,600 ",Health%20Care
+1078,INSM,Insmed Incorporated,"$244,933 ",30:01:00,William Lewis,"$7,322,642 ",Health%20Care
+1079,INSP,Inspire Medical Systems,"$205,859 ",6:01,Timothy Herbert,"$1,272,917 ",Health%20Care
+1080,INVA,Innoviva,"$274,407 ",5:01,Pavel Raifeld,"$1,271,138 ",Health%20Care
+1081,IONS,Ionis Pharmaceuticals,"$226,222 ",58:01:00,Brett Monia,"$13,305,673 ",Health%20Care
+1082,IOVA,Iovance Biotherapeutics,"$373,379 ",21:01,Frederick Vogt,"$7,927,153 ",Health%20Care
+1083,IQV,IQVIA,"$139,803 ",205:01:00,Ari Bousbib,"$28,615,851 ",Health%20Care
+1084,IRTC,iRhythm Technologies,"$64,156 ",152:01:00,Quentin Blackford,"$9,241,346 ",Health%20Care
+1085,IRWD,Ironwood Pharmaceuticals,"$248,243 ",36:01:00,Thomas McCourt,"$8,810,004 ",Health%20Care
+1086,ISEE,IVERIC bio,"$246,224 ",24:01:00,Glenn Sblendorio,"$5,987,700 ",Health%20Care
+1087,ISRG,Intuitive Surgical,"$140,163 ",58:01:00,Gary Guthart,"$8,059,409 ",Health%20Care
+1088,ITCI,Intra-Cellular Therapies,"$199,300 ",36:01:00,Sharon Mates,"$7,245,943 ",Health%20Care
+1089,ITGR,Integer,"$33,479 ",207:01:00,Joseph Dziedzic,"$6,922,075 ",Health%20Care
+1090,JAZZ,Jazz Pharmaceuticals Plc,"$212,134 ",74:01:00,Bruce Cozadd,"$15,679,311 ",Health%20Care
+1091,JNJ,Johnson & Johnson,"$90,000 ",297:01:00,Alex Gorsky,"$26,741,959 ",Health%20Care
+1092,KOD,Kodiak Sciences,"$1,656,424 ",68:01:00,Victor Perlroth,"$113,371,207 ",Health%20Care
+1093,KPTI,Karyopharm Therapeutics,"$213,593 ",40:01:00,Richard Paulson,"$8,355,172 ",Health%20Care
+1094,KRTX,Karuna Therapeutics,"$511,630 ",26:01:00,Steven Paul,"$13,136,960 ",Health%20Care
+1095,KURA,Kura Oncology,"$334,295 ",26:01:00,Troy Wilson,"$8,743,784 ",Health%20Care
+1096,LGND,Ligand Pharmaceuticals Incorporated,"$286,666 ",33:01:00,John Higgins,"$9,587,211 ",Health%20Care
+1097,LH,Laboratory of America,"$57,614 ",357:01:00,Adam Schechter,"$20,551,605 ",Health%20Care
+1098,LHCG,LHC Group,"$37,393 ",89:01:00,Keith Myers,"$3,336,000 ",Health%20Care
+1099,LIVN,LivaNova Plc,"$98,965 ",102:01:00,Damien McDonald,"$10,080,644 ",Health%20Care
+1100,LLY,Eli Lilly and Company,"$97,130 ",221:01:00,David Ricks,"$21,509,985 ",Health%20Care
+1101,LMAT,LeMaitre Vascular,"$71,719 ",28:01:00,George LeMaitre,"$1,982,030 ",Health%20Care
+1102,LNTH,Lantheus,"$143,384 ",43:01:00,Mary Heino,"$6,185,144 ",Health%20Care
+1103,LXRX,Lexicon Pharmaceuticals,"$234,672 ",17:01,Lonnel Coats,"$3,924,090 ",Health%20Care
+1104,MASI,Masimo,"$101,212 ",160:01:00,Joe Kiani,"$16,219,278 ",Health%20Care
+1105,MCK,McKesson,"$62,610 ",290:01:00,Brian Tyler,"$18,152,082 ",Health%20Care
+1106,MD,Pediatrix Medical Group,"$114,440 ",60:01:00,Mark Ordan,"$6,848,969 ",Health%20Care
+1107,MDGL,Madrigal Pharmaceuticals,"$459,419 ",12:01,Paul Friedman,"$5,318,389 ",Health%20Care
+1108,MDRX,Allscripts Healthcare Solutions,"$62,216 ",170:01:00,Paul Black,"$10,599,964 ",Health%20Care
+1109,MDT,Medtronic Plc,"$78,244 ",215:01:00,Geoffrey Martha,"$16,849,633 ",Health%20Care
+1110,MDXG,MiMedx Group,"$81,799 ",70:01:00,Timothy Wright,"$4,817,299 ",Health%20Care
+1111,MEDP,Medpace,"$65,209 ",91:01:00,August Troendle,"$5,947,423 ",Health%20Care
+1112,MGNX,MacroGenics,"$134,627 ",36:01:00,Scott Koenig,"$4,868,514 ",Health%20Care
+1113,MLAB,Mesa Laboratories,"$64,176 ",270:01:00,Gary Owens,"$18,076,981 ",Health%20Care
+1114,MMSI,Merit Medical Systems,"$38,022 ",198:01:00,Fred Lampropoulos,"$7,537,100 ",Health%20Care
+1115,MNKD,MannKind,"$144,613 ",28:01:00,Michael Castagna,"$4,030,833 ",Health%20Care
+1116,MODV,ModivCare,"$12,899 ",282:01:00,Daniel Greenleaf,"$3,637,550 ",Health%20Care
+1117,MOH,Molina Healthcare,"$71,916 ",278:01:00,Joseph Zubretsky,"$19,961,698 ",Health%20Care
+1118,MPLN,MultiPlan,"$62,125 ",145:01:00,Mark Tabak,"$9,016,080 ",Health%20Care
+1119,MRK,Merck &,"$102,803 ",133:01:00,Robert Davis,"$13,722,121 ",Health%20Care
+1120,MRNA,Moderna,"$133,074 ",136:01:00,Stephane Bancel,"$18,155,739 ",Health%20Care
+1121,MRSN,Mersana Therapeutics,"$302,642 ",27:01:00,Anna Protopapas,"$8,277,490 ",Health%20Care
+1122,MRTX,Mirati Therapeutics,"$489,515 ",43:01:00,David Meek,"$20,178,130 ",Health%20Care
+1123,MTD,Mettler-Toledo International,"$51,436 ",233:01:00,Patrick Kaltenbach,"$11,811,322 ",Health%20Care
+1124,MYGN,Myriad Genetics,"$74,021 ",173:01:00,Paul Diaz,"$12,787,669 ",Health%20Care
+1125,NARI,Inari Medical,"$135,448 ",28:01:00,William Hoffman,"$3,771,486 ",Health%20Care
+1126,NBIX,Neurocrine Biosciences,"$276,598 ",51:01:00,Kevin Gorman,"$14,081,412 ",Health%20Care
+1127,NEO,NeoGenomics,"$74,000 ",160:01:00,Mark Mallon,"$11,479,855 ",Health%20Care
+1128,NEOG,Neogen,"$40,794 ",106:01:00,John Adent,"$4,315,427 ",Health%20Care
+1129,NHC,National HealthCare,"$35,653 ",63:01:00,Stephen Flatt,"$2,249,445 ",Health%20Care
+1130,NKTR,Nektar Therapeutics,"$193,581 ",58:01:00,Howard Robin,"$11,153,616 ",Health%20Care
+1131,NRC,National Research,"$67,583 ",3:01,Michael Hays,"$217,094 ",Health%20Care
+1132,NSTG,NanoString Technologies,"$133,439 ",43:01:00,R. Gray,"$5,771,962 ",Health%20Care
+1133,NTLA,Intellia Therapeutics,"$272,162 ",36:01:00,John Leonard,"$9,773,560 ",Health%20Care
+1134,NTRA,Natera,"$176,384 ",132:01:00,Steven Chapman,"$23,343,147 ",Health%20Care
+1135,NUVA,NuVasive,"$88,336 ",86:01:00,J. Barry,"$7,632,250 ",Health%20Care
+1136,NVAX,Novavax,"$133,050 ",8:01,Stanley Erck,"$1,118,030 ",Health%20Care
+1137,NVCR,NovoCure,"$125,119 ",9:01,Asaf Danziger,"$1,179,283 ",Health%20Care
+1138,NVRO,Nevro,"$157,032 ",47:01:00,D. Grossman,"$7,402,510 ",Health%20Care
+1139,NVST,Envista,"$45,949 ",200:01:00,Amir Aghdaei,"$9,199,748 ",Health%20Care
+1140,NVTA,Invitae,"$164,339 ",54:01:00,Sean George,"$8,828,254 ",Health%20Care
+1141,NXGN,NextGen Healthcare,"$64,514 ",249:01:00,David Sides,"$15,740,135 ",Health%20Care
+1142,OFIX,Orthofix Medical,"$76,717 ",67:01:00,Jon Serbousek,"$5,340,865 ",Health%20Care
+1143,OMCL,Omnicell,"$112,223 ",75:01:00,Randall Lipps,"$8,437,413 ",Health%20Care
+1144,OMI,Owens & Minor,"$6,853 ","1,121:1",Edward Pesicka,"$7,680,578 ",Health%20Care
+1145,OPCH,Option Care Health,"$55,994 ",132:01:00,John Rademacher,"$7,407,511 ",Health%20Care
+1146,OPK,OPKO Health,"$41,879 ",50:01:00,Phillip Frost,"$2,103,600 ",Health%20Care
+1147,OSUR,OraSure Technologies,"$58,959 ",50:01:00,Stephen Tang,"$2,959,781 ",Health%20Care
+1148,PACB,Pacific Biosciences of California,"$257,461 ",11:01,Christian Henry,"$2,866,931 ",Health%20Care
+1149,PAHC,Phibro Animal Health,"$50,194 ",72:01:00,Jack Bendheim,"$3,609,499 ",Health%20Care
+1150,PBH,Prestige Consumer Healthcare,"$85,063 ",71:01:00,Ronald Lombardi,"$6,031,517 ",Health%20Care
+1151,PCRX,Pacira Biosciences,"$199,797 ",35:01:00,David Stack,"$6,942,484 ",Health%20Care
+1152,PDCO,Patterson Companies,"$90,368 ",79:01:00,Mark Walchirk,"$7,142,343 ",Health%20Care
+1153,PEN,Penumbra,"$70,192 ",7:01,Adam Elsesser,"$497,789 ",Health%20Care
+1154,PFE,Pfizer,"$92,986 ",262:01:00,Albert Bourla,"$24,353,219 ",Health%20Care
+1155,PGEN,Precigen,"$80,070 ",31:01:00,Helen Sabzevari,"$2,516,170 ",Health%20Care
+1156,PGNY,Progyny,"$100,779 ",9:01,David Schlanger,"$862,462 ",Health%20Care
+1157,PHR,Phreesia,"$125,000 ",71:01:00,Chaim Indig,"$8,921,227 ",Health%20Care
+1158,PINC,Premier,"$111,125 ",71:01:00,Michael Alkire,"$7,857,900 ",Health%20Care
+1159,PKI,PerkinElmer,"$52,960 ",182:01:00,Prahlad Singh,"$9,661,006 ",Health%20Care
+1160,PNTG,The Pennant Group,"$26,362 ",13:01,Daniel Walker,"$348,668 ",Health%20Care
+1161,PODD,Insulet,"$89,696 ",108:01:00,Shacey Petrovic,"$9,723,273 ",Health%20Care
+1162,PRGO,Perrigo Company plc,"$70,056 ",150:01:00,Murray Kessler,"$10,529,261 ",Health%20Care
+1163,PRTA,Prothena Plc,"$521,645 ",9:01,Gene Kinney,"$4,918,363 ",Health%20Care
+1164,PRVB,Provention Bio,"$353,182 ",4:01,Ashleigh Palmer,"$1,566,779 ",Health%20Care
+1165,PTCT,PTC Therapeutics,"$243,357 ",45:01:00,Stuart Peltz,"$11,022,323 ",Health%20Care
+1166,QDEL,QuidelOrtho,"$79,053 ",70:01:00,Douglas Bryant,"$5,546,216 ",Health%20Care
+1167,RARE,Ultragenyx Pharmaceutical,"$294,092 ",32:01:00,Emil Kakkis,"$9,522,738 ",Health%20Care
+1168,RCKT,Rocket Pharmaceuticals,"$89,525 ",88:01:00,Gaurav Shah,"$7,918,750 ",Health%20Care
+1169,RCM,R1 RCM,"$21,216 ",747:01:00,Joseph Flanagan,"$15,817,911 ",Health%20Care
+1170,RCUS,Arcus Biosciences,"$296,616 ",32:01:00,Terry Rosen,"$9,480,974 ",Health%20Care
+1171,RDNT,RadNet,"$37,736 ",121:01:00,Howard Berger,"$4,567,222 ",Health%20Care
+1172,REGN,Regeneron Pharmaceuticals,"$149,250 ",43:01:00,Leonard Schleifer,"$6,470,514 ",Health%20Care
+1173,RETA,Reata Pharmaceuticals,"$244,581 ",16:01,J. Huff,"$4,031,773 ",Health%20Care
+1174,RGEN,Repligen,"$115,218 ",67:01:00,Tony Hunt,"$7,765,070 ",Health%20Care
+1175,RGNX,REGENXBIO,"$176,342 ",49:01:00,Kenneth Mills,"$8,622,940 ",Health%20Care
+1176,RIGL,Rigel Pharmaceuticals,"$253,532 ",14:01,Raul Rodriguez,"$3,428,041 ",Health%20Care
+1177,RMD,ResMed,"$64,956 ",180:01:00,Michael Farrell,"$11,659,210 ",Health%20Care
+1178,RPRX,Royalty Pharma Plc,"$373,719 ",132:01:00,Pablo Legorreta,"$49,513,461 ",Health%20Care
+1179,RVNC,Revance Therapeutics,"$248,326 ",29:01:00,Mark Foley,"$7,105,916 ",Health%20Care
+1180,SAGE,SAGE Therapeutics,"$308,210 ",191:01:00,Barry Greene,"$58,864,150 ",Health%20Care
+1181,SAVA,Cassava Sciences,"$188,700 ",9:01,Remi Barbier,"$1,741,120 ",Health%20Care
+1182,SEM,Select Medical,"$47,740 ",245:01:00,David Chernow,"$11,687,600 ",Health%20Care
+1183,SGEN,Seagen,"$250,158 ",76:01:00,Clay Siegall,"$18,906,444 ",Health%20Care
+1184,SGMO,Sangamo Therapeutics,"$170,218 ",28:01:00,Alexander Macrae,"$4,735,817 ",Health%20Care
+1185,SGRY,Surgery Partners,"$55,154 ",78:01:00,J. Evans,"$4,307,123 ",Health%20Care
+1186,SIGA,SIGA Technologies,"$135,336 ",12:01,Phillip Gomez,"$1,688,264 ",Health%20Care
+1187,SILK,Silk Road Medical,"$185,167 ",18:01,Erica Rogers,"$3,315,913 ",Health%20Care
+1188,SLP,Simulations Plus,"$138,664 ",10:01,Shawn O'Connor,"$1,342,852 ",Health%20Care
+1189,SRDX,Surmodics,"$78,527 ",39:01:00,Gary Maharaj,"$3,095,627 ",Health%20Care
+1190,SRNE,Sorrento Therapeutics,"$130,192 ",152:01:00,Henry Ji,"$19,777,329 ",Health%20Care
+1191,SRPT,Sarepta Therapeutics,"$271,908 ",6:01,Douglas Ingram,"$1,546,324 ",Health%20Care
+1192,STAA,STAAR Surgical Company,"$84,125 ",65:01:00,Caren Mason,"$5,468,270 ",Health%20Care
+1193,STE,STERIS Plc (Ireland),"$67,300 ",93:01:00,Daniel Carestio,"$5,903,168 ",Health%20Care
+1194,SUPN,Supernus Pharmaceuticals,"$128,385 ",63:01:00,Jack Khattar,"$8,116,721 ",Health%20Care
+1195,SWAV,Shockwave Medical,"$174,053 ",42:01:00,Douglas Godshall,"$7,317,042 ",Health%20Care
+1196,SWTX,Springworks Therapeutics,"$388,744 ",45:01:00,Saqib Islam,"$17,542,057 ",Health%20Care
+1197,SYK,Stryker,"$76,715 ",213:01:00,Kevin Lobo,"$16,359,898 ",Health%20Care
+1198,SYNH,Syneos Health,"$70,000 ",120:01:00,Alistair Macdonald,"$8,364,510 ",Health%20Care
+1199,TBPH,Theravance Biopharma,"$440,558 ",10:01,Rick Winningham,"$4,451,942 ",Health%20Care
+1200,TCDA,Tricida,"$451,246 ",10:01,Gerrit Klaerner,"$4,676,490 ",Health%20Care
+1201,TCMD,Tactile Systems Technology,"$66,668 ",31:01:00,Daniel Reuvers,"$2,076,884 ",Health%20Care
+1202,TDOC,Teladoc Health,"$77,594 ",150:01:00,Jason Gorevic,"$11,637,898 ",Health%20Care
+1203,TECH,Bio-Techne,"$84,964 ",181:01:00,Charles Kummeth,"$15,370,548 ",Health%20Care
+1204,TFX,Teleflex Incorporated,"$34,907 ",248:01:00,Liam Kelly,"$8,673,634 ",Health%20Care
+1205,TGTX,TG Therapeutics,"$184,242 ",232:01:00,Michael Weiss,"$42,666,831 ",Health%20Care
+1206,THC,Tenet Healthcare,"$55,245 ",383:01:00,Saum Sutaria,"$21,153,672 ",Health%20Care
+1207,TMO,Thermo Fisher Scientific,"$83,666 ",254:01:00,Marc Casper,"$21,234,358 ",Health%20Care
+1208,TNDM,Tandem Diabetes Care,"$75,196 ",76:01:00,John Sheridan,"$5,739,882 ",Health%20Care
+1209,TVTX,Travere Therapeutics,"$309,779 ",19:01,Eric Dube,"$5,739,010 ",Health%20Care
+1210,TWST,Twist Bioscience,"$174,809 ",7:01,Emily Leproust,"$1,281,593 ",Health%20Care
+1211,TXG,10X Genomics,"$246,380 ",47:01:00,Serge Saxonov,"$11,700,985 ",Health%20Care
+1212,UFPT,UFP Technologies,"$36,749 ",71:01:00,R. Bailly,"$2,619,501 ",Health%20Care
+1213,UHS,Universal Health Services,"$45,454 ",309:01:00,Marc Miller,"$14,020,942 ",Health%20Care
+1214,UNH,UnitedHealth Group Incorporated,"$61,379 ",301:01:00,Andrew Witty,"$18,433,143 ",Health%20Care
+1215,USPH,U.S. Physical Therapy,"$40,757 ",102:01:00,Christopher Reading,"$4,143,576 ",Health%20Care
+1216,UTHR,United Therapeutics,"$189,023 ",19:01,Martine Rothblatt,"$3,511,071 ",Health%20Care
+1217,UTMD,Utah Medical Products,"$35,360 ",14:01,Kevin Cornwell,"$494,210 ",Health%20Care
+1218,VCEL,Vericel,"$160,777 ",82:01:00,Dominick Colangelo,"$13,183,295 ",Health%20Care
+1219,VCYT,Veracyte,"$112,319 ",55:01:00,Marc Stapley,"$5,741,940 ",Health%20Care
+1220,VEEV,Veeva Systems,"$151,858 ",2:01,Peter Gassner,"$350,000 ",Health%20Care
+1221,VIR,Vir Biotechnology,"$402,518 ",52:01:00,George Scangos,"$20,682,638 ",Health%20Care
+1222,VIVO,Meridian Bioscience,"$71,837 ",45:01:00,John Kenny,"$3,233,705 ",Health%20Care
+1223,VNDA,Vanda Pharmaceuticals,"$137,059 ",45:01:00,Mihael Polymeropoulos,"$6,194,157 ",Health%20Care
+1224,VREX,Varex Imaging,"$64,197 ",70:01:00,Sunny Sanyal,"$4,479,188 ",Health%20Care
+1225,VRTX,Vertex Pharmaceuticals Incorporated,"$234,107 ",65:01:00,Reshma Kewalramani,"$15,198,856 ",Health%20Care
+1226,VTRS,Viatris,"$36,865 ",398:01:00,Michael Goettler,"$14,669,592 ",Health%20Care
+1227,VXRT,Vaxart,"$341,394 ",7:01,Andrei Floroiu,"$2,410,175 ",Health%20Care
+1228,WAT,Waters,"$74,470 ",116:01:00,Udit Batra,"$8,653,559 ",Health%20Care
+1229,WST,West Pharmaceutical Services,"$57,357 ",161:01:00,Eric Green,"$9,472,757 ",Health%20Care
+1230,XNCR,Xencor,"$280,453 ",19:01,Bassil Dahiyat,"$5,370,295 ",Health%20Care
+1231,XRAY,DENTSPLY SIRONA,"$56,466 ",164:01:00,Donald Casey Jr.,"$9,251,884 ",Health%20Care
+1232,YMAB,Y-mAbs Therapeutics,"$189,325 ",17:01,Claus Moeller San Pedro,"$3,288,583 ",Health%20Care
+1233,ZBH,Zimmer Biomet,"$63,981 ",234:01:00,Bryan Hanson,"$14,981,058 ",Health%20Care
+1234,ZTS,Zoetis,"$81,497 ",161:01:00,Kristin Peck,"$13,098,491 ",Health%20Care
+1235,AAL,American Airlines Group,"$62,765 ",115:01:00,W. Parker,"$7,238,011 ",Industrials
+1236,AAON,AAON,"$52,267 ",56:01:00,Gary Fields,"$2,912,108 ",Industrials
+1237,AAWW,Atlas Air Worldwide,"$135,543 ",18:01,John Dietrich,"$2,532,231 ",Industrials
+1238,ABM,ABM Industries,"$34,343 ",220:01:00,Scott Salmirs,"$7,556,634 ",Industrials
+1239,ACA,Arcosa,"$56,080 ",100:01:00,Antonio Carrillo,"$5,632,354 ",Industrials
+1240,ACCO,ACCO Brands,"$44,545 ",163:01:00,Boris Elisman,"$7,276,781 ",Industrials
+1241,ACM,AECOM,"$66,288 ",98:01:00,W. Rudd,"$6,524,680 ",Industrials
+1242,AGCO,AGCO,"$53,354 ",210:01:00,Eric Hansotia,"$11,181,748 ",Industrials
+1243,AGX,Argan,"$85,649 ",22:01,Rainer Bosselmann,"$1,877,163 ",Industrials
+1244,AIMC,Altra Industrial Motion,"$48,245 ",136:01:00,Carl Christenson,"$6,550,233 ",Industrials
+1245,AIN,Albany International,"$56,279 ",84:01:00,A. Higgins,"$4,725,711 ",Industrials
+1246,AIR,AAR,"$60,803 ",203:01:00,John Holmes,"$12,327,343 ",Industrials
+1247,AIT,Applied Industrial Technologies,"$72,176 ",81:01:00,Neil Schrimsher,"$5,840,834 ",Industrials
+1248,AJRD,Aerojet Rocketdyne,"$117,243 ",82:01:00,Eileen Drake,"$9,639,866 ",Industrials
+1249,AL,Air Lease,"$268,423 ",34:01:00,John Plueger,"$9,148,993 ",Industrials
+1250,ALG,Alamo Group,"$43,185 ",76:01:00,Jeffery Leonard,"$2,816,259 ",Industrials
+1251,ALK,Alaska Air Group,"$74,911 ",69:01:00,Benito Minicucci,"$5,130,162 ",Industrials
+1252,ALLE,Allegion Plc,"$65,338 ",118:01:00,David Petratis,"$7,688,243 ",Industrials
+1253,ALSN,Allison Transmission,"$91,734 ",93:01:00,David Graziosi,"$8,528,568 ",Industrials
+1254,AME,AMETEK,"$68,238 ",189:01:00,David Zapico,"$12,919,431 ",Industrials
+1255,AMOT,Allied Motion Technologies,"$39,676 ",98:01:00,Richard Warzala,"$3,907,236 ",Industrials
+1256,AMRC,Ameresco,"$101,351 ",70:01:00,George Sakellaris,"$7,046,400 ",Industrials
+1257,AMWD,American Woodmark,"$88,562 ",31:01:00,M. Culbreth,"$2,250,867 ",Industrials
+1258,AOS,A. O. Smith,"$35,561 ",194:01:00,Kevin Wheeler,"$6,897,982 ",Industrials
+1259,APG,APi Group,"$58,443 ",137:01:00,Russell Becker,"$8,027,508 ",Industrials
+1260,APOG,Apogee Enterprises,"$51,364 ",62:01:00,Ty Silberhorn,"$3,199,648 ",Industrials
+1261,AQUA,Evoqua Water Technologies,"$81,465 ",74:01:00,Ronald Keating,"$6,001,562 ",Industrials
+1262,ARCB,ArcBest,"$85,105 ",71:01:00,Judy McReynolds,"$6,006,289 ",Industrials
+1263,ARRY,Array Technologies,"$39,836 ",107:01:00,James Fusaro,"$4,271,575 ",Industrials
+1264,ASGN,ASGN,"$43,730 ",218:01:00,Theodore Hanson,"$9,546,278 ",Industrials
+1265,ASTE,Astec Industries,"$58,844 ",59:01:00,Barry Ruffalo,"$3,469,725 ",Industrials
+1266,ASTR,Astra Space,"$277,011 ",159:01:00,Chris Kemp,"$43,973,670 ",Industrials
+1267,ATKR,Atkore,"$47,348 ",157:01:00,William Waltz,"$7,410,815 ",Industrials
+1268,ATRO,Astronics,"$57,442 ",43:01:00,Peter Gundermann,"$2,452,637 ",Industrials
+1269,ATSG,Air Transport Services Group,"$55,720 ",47:01:00,Richard Corrado,"$2,600,154 ",Industrials
+1270,AVAV,AeroVironment,"$103,146 ",34:01:00,Wahid Nawabi,"$3,524,268 ",Industrials
+1271,AWI,Armstrong World Industries,"$64,870 ",105:01:00,Victor Grizzle,"$6,830,771 ",Industrials
+1272,AYI,Acuity Brands,"$10,653 ",732:01:00,Neil Ashe,"$7,799,094 ",Industrials
+1273,AZZ,AZZ,"$46,231 ",90:01:00,Thomas Ferguson,"$4,141,268 ",Industrials
+1274,B,Barnes Group,"$54,760 ",192:01:00,Patrick Dempsey,"$10,496,468 ",Industrials
+1275,BA,The Boeing Company,"$124,844 ",169:01:00,David Calhoun,"$21,093,605 ",Industrials
+1276,BAH,Booz Allen Hamilton Holding,"$121,742 ",98:01:00,Horacio Rozanski,"$11,866,337 ",Industrials
+1277,BBSI,Barrett Business Services,"$103,568 ",29:01:00,Gary Kramer,"$3,014,992 ",Industrials
+1278,BCC,Boise Cascade,"$59,837 ",90:01:00,Nate Jorgensen,"$5,398,488 ",Industrials
+1279,BCO,The Brinks Company,"$10,966 ","1,040:1",Douglas Pertz,"$11,405,920 ",Industrials
+1280,BE,Bloom Energy,"$82,853 ",413:01:00,K. Sridhar,"$34,210,000 ",Industrials
+1281,BECN,Beacon Roofing Supply,"$62,784 ",90:01:00,Julian Francis,"$5,661,918 ",Industrials
+1282,BLDR,Builders FirstSource,"$61,301 ",165:01:00,David Flitman,"$10,129,559 ",Industrials
+1283,BLNK,Blink Charging,"$77,740 ",232:01:00,Michael Farkas,"$18,003,751 ",Industrials
+1284,BV,BrightView,"$39,651 ",144:01:00,Andrew Masterman,"$5,713,386 ",Industrials
+1285,BW,Babcock & Wilcox Enterprises,"$71,890 ",31:01:00,Kenneth Young,"$2,206,000 ",Industrials
+1286,BWXT,BWX Technologies,"$103,509 ",50:01:00,Rex Geveden,"$5,124,046 ",Industrials
+1287,CACI,CACI International Inc,"$112,310 ",74:01:00,John Mengucci,"$8,363,317 ",Industrials
+1288,CAR,Avis Budget Group,"$29,628 ",290:01:00,Joseph Ferraro,"$8,594,555 ",Industrials
+1289,CARR,Carrier Global,"$66,377 ",224:01:00,David Gitlin,"$14,892,815 ",Industrials
+1290,CAT,Caterpillar,"$51,102 ",475:01:00,Donald Umpleby III,"$24,298,032 ",Industrials
+1291,CBZ,CBIZ,"$75,817 ",67:01:00,Jerome Grisko Jr.,"$5,052,401 ",Industrials
+1292,CHRW,C.H. Robinson Worldwide,"$57,391 ",178:01:00,Robert Biesterfeld,"$10,233,276 ",Industrials
+1293,CIR,CIRCOR International,"$65,251 ",65:01:00,Scott Buckhout,"$4,229,501 ",Industrials
+1294,CIX,CompX International,"$61,041 ",19:01,Scott James,"$1,185,257 ",Industrials
+1295,CLH,Clean Harbors,"$68,365 ",82:01:00,Alan McKim,"$5,612,724 ",Industrials
+1296,CLVT,Clarivate Plc,"$50,138 ",106:01:00,Jerre Stead,"$5,322,010 ",Industrials
+1297,CMCO,Columbus McKinnon,$0 ,67:01:00,David Wilson,"$4,075,929 ",Industrials
+1298,CMI,Cummins,"$53,864 ",291:01:00,N. Linebarger,"$15,645,919 ",Industrials
+1299,CMPR,Cimpress Plc,"$31,615 ",257:01:00,Robert Keane,"$8,133,820 ",Industrials
+1300,CPRT,Copart,"$41,662 ",744:01:00,Jeffrey Liaw,"$31,033,606 ",Industrials
+1301,CR,Crane,"$55,772 ",170:01:00,Max Mitchell,"$9,484,490 ",Industrials
+1302,CRAI,CRA International,"$152,157 ",32:01:00,Paul Maleh,"$4,013,392 ",Industrials
+1303,CSGP,CoStar Group,"$94,511 ",235:01:00,Andrew Florance,"$22,164,341 ",Industrials
+1304,CSL,Carlisle Companies Incorporated,"$48,224 ",229:01:00,D. Koch,"$11,042,404 ",Industrials
+1305,CSWI,CSW Industrials,"$5,523 ","3,079:1",Joseph Armes,"$17,010,063 ",Industrials
+1306,CSX,CSX,"$107,772 ",186:01:00,James Foote,"$20,006,806 ",Industrials
+1307,CTAS,Cintas,"$53,321 ",146:01:00,Todd Schneider,"$7,777,100 ",Industrials
+1308,CVLG,Covenant Logistics Group,"$65,878 ",89:01:00,David Parker,"$5,833,933 ",Industrials
+1309,CW,Curtiss-Wright,"$67,544 ",67:01:00,Lynn Bamford,"$4,491,811 ",Industrials
+1310,CWST,Casella Waste Systems,"$56,624 ",75:01:00,John Casella,"$4,233,954 ",Industrials
+1311,CXW,CoreCivic,"$44,154 ",123:01:00,Damon Hininger,"$5,445,316 ",Industrials
+1312,DAL,Delta Air Lines,"$70,240 ",176:01:00,Edward Bastian,"$12,360,420 ",Industrials
+1313,DCI,Donaldson Company,"$36,093 ",195:01:00,Tod Carpenter,"$7,043,946 ",Industrials
+1314,DCO,Ducommun Incorporated,"$45,428 ",139:01:00,Stephen Oswald,"$6,299,167 ",Industrials
+1315,DDD,3D Systems,"$65,638 ",130:01:00,Jeffrey Graves,"$8,574,250 ",Industrials
+1316,DE,Deere & Company,"$82,240 ",242:01:00,John May,"$19,912,826 ",Industrials
+1317,DLX,Deluxe,"$62,096 ",127:01:00,Barry McCarthy,"$7,822,945 ",Industrials
+1318,DNB,Dun & Bradstreet,"$92,238 ",102:01:00,Anthony Jabbour,"$9,376,618 ",Industrials
+1319,DNOW,NOW,"$60,750 ",99:01:00,David Cherechinsky,"$5,988,481 ",Industrials
+1320,DOOR,Masonite International,"$44,784 ",109:01:00,Howard Heckes,"$4,893,869 ",Industrials
+1321,DOV,Dover,"$48,794 ",289:01:00,Richard Tobin,"$14,085,860 ",Industrials
+1322,DXPE,DXP Enterprises,"$50,000 ",48:01:00,David Little,"$2,380,437 ",Industrials
+1323,DY,Dycom Industries,"$54,670 ",88:01:00,Steven Nielsen,"$4,801,952 ",Industrials
+1324,EAF,GrafTech International,"$47,912 ",72:01:00,David Rintoul,"$3,445,257 ",Industrials
+1325,EBF,Ennis,"$52,249 ",109:01:00,Keith Walters,"$5,687,358 ",Industrials
+1326,EFX,Equifax,"$90,330 ",178:01:00,Mark Begor,"$16,065,575 ",Industrials
+1327,EME,EMCOR Group,"$53,094 ",208:01:00,Anthony Guzzi,"$11,024,040 ",Industrials
+1328,EMR,Emerson Electric,"$58,101 ",262:01:00,Surendralal Karsanbhai,"$15,178,106 ",Industrials
+1329,ENS,EnerSys,"$60,376 ",114:01:00,David Shaffer,"$6,852,166 ",Industrials
+1330,EPAC,Enerpac Tool Group,"$42,144 ",166:01:00,Paul Sternlieb,"$6,913,268 ",Industrials
+1331,ERII,Energy Recovery,"$97,668 ",20:01,Robert Mao,"$2,006,933 ",Industrials
+1332,ESE,ESCO Technologies,"$68,264 ",80:01:00,Victor Richey,"$5,452,715 ",Industrials
+1333,ETN,Eaton plc,"$56,287 ",344:01:00,Craig Arnold,"$19,367,607 ",Industrials
+1334,EXPD,Expeditors International of Washington,"$68,690 ",190:01:00,Jeffrey Musser,"$13,026,304 ",Industrials
+1335,EXPO,Exponent,"$145,375 ",21:01,Catherine Corrigan,"$3,022,417 ",Industrials
+1336,FAST,Fastenal Company,"$40,843 ",59:01:00,Daniel Florness,"$2,423,614 ",Industrials
+1337,FBHS,Fortune Brands Innovations,"$50,540 ",201:01:00,Nicholas Fink,"$10,170,381 ",Industrials
+1338,FC,Franklin Covey,"$86,615 ",24:01:00,Paul Walker,"$2,116,006 ",Industrials
+1339,FCEL,FuelCell Energy,"$80,912 ",44:01:00,Jason Few,"$3,585,247 ",Industrials
+1340,FCN,FTI Consulting,"$131,613 ",60:01:00,Steven Gunby,"$7,910,637 ",Industrials
+1341,FDX,FedEx,"$39,177 ",271:01:00,Frederick Smith,"$10,596,150 ",Industrials
+1342,FELE,Franklin Electric,"$22,131 ",312:01:00,Gregg Sengstack,"$6,896,933 ",Industrials
+1343,FIX,Comfort Systems USA,"$75,395 ",60:01:00,Brian Lane,"$4,503,087 ",Industrials
+1344,FLR,Fluor,"$61,398 ",177:01:00,David Constable,"$10,859,187 ",Industrials
+1345,FLS,Flowserve,"$84,837 ",147:01:00,R. Rowe,"$12,478,105 ",Industrials
+1346,FORR,Forrester Research,"$117,070 ",13:01,George Colony,"$1,552,268 ",Industrials
+1347,FSS,Federal Signal,"$60,214 ",78:01:00,Jennifer Sherman,"$4,672,213 ",Industrials
+1348,FTV,Fortive,"$61,746 ",269:01:00,James Lico,"$16,598,719 ",Industrials
+1349,FWRD,Forward Air,"$46,360 ",131:01:00,Thomas Schmitt,"$6,048,000 ",Industrials
+1350,GATX,GATX,"$67,036 ",111:01:00,Brian Kenney,"$7,464,484 ",Industrials
+1351,GD,General Dynamics,"$92,585 ",254:01:00,Phebe Novakovic,"$23,553,862 ",Industrials
+1352,GE,General Electric Company,"$55,064 ",412:01:00,H. Culp Jr.,"$22,663,449 ",Industrials
+1353,GEO,The GEO Group,"$22,880 ",117:01:00,Jose Gordo,"$1,601,207 ",Industrials
+1354,GFF,Griffon,"$47,195 ",417:01:00,Ronald Kramer,"$19,698,397 ",Industrials
+1355,GGG,Graco,"$67,107 ",89:01:00,Mark Sheahan,"$5,422,139 ",Industrials
+1356,GIC,Global Industrial Company,"$49,500 ",60:01:00,Barry Litwin,"$2,994,500 ",Industrials
+1357,GLDD,Great Lakes Dredge & Dock,"$87,405 ",36:01:00,Lasse Petterson,"$3,103,804 ",Industrials
+1358,GMS,GMS,"$58,059 ",87:01:00,John Turner Jr.,"$5,079,038 ",Industrials
+1359,GNK,Genco Shipping & Trading Limited,"$190,700 ",14:01,John Wobensmith,"$2,619,379 ",Industrials
+1360,GNRC,Generac,"$65,543 ",115:01:00,Aaron Jagdfeld,"$7,519,813 ",Industrials
+1361,GRC,The Gorman-Rupp Company,"$58,107 ",19:01,Jeffrey Gorman,"$1,078,110 ",Industrials
+1362,GTES,Gates Industrial Plc,"$39,583 ",222:01:00,Ivo Jurek,"$8,772,300 ",Industrials
+1363,GTLS,Chart Industries,"$44,881 ",161:01:00,Jillian Evanko,"$7,222,516 ",Industrials
+1364,GVA,Granite Construction Incorporated,"$72,344 ",33:01:00,Kyle Larkin,"$2,363,579 ",Industrials
+1365,GWW,W.W. Grainger,"$65,633 ",138:01:00,Donald Macpherson,"$9,015,594 ",Industrials
+1366,GXO,GXO Logistics,"$37,522 ",271:01:00,Malcolm Wilson,"$10,176,933 ",Industrials
+1367,HA,Hawaiian,"$69,381 ",45:01:00,Peter Ingram,"$3,091,653 ",Industrials
+1368,HCCI,Heritage-Crystal Clean,"$68,746 ",57:01:00,Brian Recatto,"$4,623,217 ",Industrials
+1369,HCSG,Healthcare Services Group,"$29,109 ",151:01:00,Theodore Wahl,"$4,405,773 ",Industrials
+1370,HEI,HEICO,"$63,320 ",143:01:00,Laurans Mendelson,"$9,031,531 ",Industrials
+1371,HI,Hillenbrand,"$43,247 ",155:01:00,Joe Raver,"$6,697,463 ",Industrials
+1372,HII,Huntington Ingalls Industries,"$69,551 ",111:01:00,C. Petters,"$7,714,066 ",Industrials
+1373,HLIO,Helios Technologies,"$47,502 ",112:01:00,Josef Matosevic,"$5,331,976 ",Industrials
+1374,HLMN,Hillman Solutions,"$38,759 ",86:01:00,Douglas Cahill,"$3,349,100 ",Industrials
+1375,HNI,HNI,"$71,410 ",128:01:00,Jeffrey Lorenger,"$9,132,815 ",Industrials
+1376,HON,Honeywell International,"$75,529 ",346:01:00,Darius Adamczyk,"$26,100,120 ",Industrials
+1377,HRI,Herc,"$90,969 ",62:01:00,Lawrence Silber,"$5,630,292 ",Industrials
+1378,HSC,Harsco,"$57,942 ",93:01:00,F. Grasberger,"$5,393,717 ",Industrials
+1379,HSII,Heidrick & Struggles International,"$117,138 ",47:01:00,Krishnan Rajagopalan,"$5,518,276 ",Industrials
+1380,HTLD,Heartland Express,"$60,226 ",13:01,Michael Gerdin,"$797,900 ",Industrials
+1381,HTZ,Hertz Global,"$31,538 ",534:01:00,Mark Fields,"$14,216,577 ",Industrials
+1382,HUBB,Hubbell Incorporated,"$44,201 ",138:01:00,Gerben Bakker,"$6,088,700 ",Industrials
+1383,HUBG,Hub Group,"$67,972 ",84:01:00,David Yeager,"$5,724,633 ",Industrials
+1384,HURN,Huron Consulting Group,"$146,370 ",25:01:00,James Roth,"$3,595,855 ",Industrials
+1385,HWM,Howmet Aerospace,"$58,921 ",415:01:00,John Plant,"$17,189,000 ",Industrials
+1386,HXL,Hexcel,"$65,589 ",149:01:00,Nick Stanage,"$9,781,885 ",Industrials
+1387,HY,Hyster-Yale Materials Handling,"$55,213 ",47:01:00,Alfred Rankin,"$2,612,927 ",Industrials
+1388,HYLN,Hyliion,"$128,157 ",41:01:00,Thomas Healy,"$5,254,750 ",Industrials
+1389,IAA,IAA,"$42,867 ",116:01:00,John Kett,"$4,990,903 ",Industrials
+1390,ICFI,ICF International,"$78,843 ",56:01:00,John Wasson,"$4,398,947 ",Industrials
+1391,IEX,IDEX,"$61,933 ",109:01:00,Eric Ashleman,"$6,719,772 ",Industrials
+1392,IIIN,Insteel Industries,"$52,533 ",47:01:00,H. Woltz III,"$2,475,749 ",Industrials
+1393,IR,Ingersoll Rand,"$51,757 ",205:01:00,Vicente Reynal,"$10,613,486 ",Industrials
+1394,ITT,ITT,"$63,088 ",122:01:00,Luca Savi,"$7,682,129 ",Industrials
+1395,ITW,Illinois Tool Works,"$61,011 ",341:01:00,E. Santi,"$20,787,622 ",Industrials
+1396,J,Jacobs Solutions,"$83,173 ",176:01:00,Steven Demetriou,"$14,615,521 ",Industrials
+1397,JBHT,J.B. Hunt Transport Services,"$78,560 ",112:01:00,John Roberts,"$8,801,881 ",Industrials
+1398,JBLU,JetBlue Airways,"$50,115 ",69:01:00,Robin Hayes,"$3,449,755 ",Industrials
+1399,JBT,John Bean Technologies,"$63,865 ",79:01:00,Brian Deck,"$5,023,977 ",Industrials
+1400,JCI,Johnson Controls International Plc,"$43,640 ",359:01:00,George Oliver,"$15,667,017 ",Industrials
+1401,JELD,JELD-WEN Holding,"$54,078 ",139:01:00,Gary Michel,"$7,514,917 ",Industrials
+1402,KAI,Kadant,"$65,993 ",90:01:00,Jeffrey Powell,"$5,934,170 ",Industrials
+1403,KAMN,Kaman,"$63,543 ",77:01:00,Ian Walsh,"$4,912,675 ",Industrials
+1404,KAR,KAR Auction Services,"$43,003 ",197:01:00,Peter Kelly,"$8,477,933 ",Industrials
+1405,KBAL,Kimball International,"$57,584 ",40:01:00,Kristine Juster,"$2,276,898 ",Industrials
+1406,KBR,KBR,"$74,498 ",161:01:00,Stuart B. Bradie,"$12,024,347 ",Industrials
+1407,KELYA,Kelly Services,"$8,850 ",445:01:00,Peter Quigley,"$3,938,608 ",Industrials
+1408,KEX,Kirby,"$85,164 ",68:01:00,David Grzebinski,"$5,826,592 ",Industrials
+1409,KFRC,Kforce,"$41,608 ",152:01:00,David Dunkel,"$6,329,950 ",Industrials
+1410,KFY,Korn Ferry,"$108,358 ",88:01:00,Gary Burnison,"$9,529,698 ",Industrials
+1411,KMT,Kennametal,"$47,133 ",130:01:00,Christopher Rossi,"$6,131,892 ",Industrials
+1412,KNX,Knight-Swift Transportation,"$38,549 ",163:01:00,David Jackson,"$6,281,272 ",Industrials
+1413,KTOS,Kratos Defense & Security Solutions,"$75,137 ",126:01:00,Eric DeMarco,"$9,499,003 ",Industrials
+1414,LDOS,Leidos,"$95,935 ",134:01:00,Roger Krone,"$12,876,007 ",Industrials
+1415,LECO,Lincoln Electric,"$48,154 ",191:01:00,Christopher Mapes,"$9,213,820 ",Industrials
+1416,LHX,L3Harris Technologies,"$110,846 ",142:01:00,Christopher Kubasik,"$15,697,749 ",Industrials
+1417,LII,Lennox International,"$61,371 ",82:01:00,Todd Bluedorn,"$5,027,345 ",Industrials
+1418,LMT,Lockheed Martin,"$110,113 ",164:01:00,James Taiclet Jr.,"$18,111,211 ",Industrials
+1419,LNN,Lindsay,"$55,195 ",65:01:00,Randy Wood,"$3,567,631 ",Industrials
+1420,LSTR,Landstar System,"$47,865 ",113:01:00,James Gattoni,"$5,398,583 ",Industrials
+1421,LUV,Southwest Airlines,"$84,872 ",69:01:00,Gary Kelly,"$5,819,756 ",Industrials
+1422,LXFR,Luxfer Plc,"$68,409 ",49:01:00,Alok Maskara,"$3,339,733 ",Industrials
+1423,LYFT,Lyft,"$167,683 ",83:01:00,Logan Green,"$13,909,482 ",Industrials
+1424,MAN,ManpowerGroup,"$8,022 ","2,342:1",Jonas Prising,"$18,787,835 ",Industrials
+1425,MAS,Masco,"$50,305 ",267:01:00,Keith Allman,"$13,410,774 ",Industrials
+1426,MATW,Matthews International,"$68,165 ",100:01:00,Joseph Bartolacci,"$6,813,304 ",Industrials
+1427,MATX,Matson,"$93,439 ",64:01:00,Matthew Cox,"$5,957,058 ",Industrials
+1428,MAXR,Maxar Technologies,"$126,499 ",55:01:00,Daniel Jablonsky,"$6,992,563 ",Industrials
+1429,MDU,MDU Resources Group,"$78,907 ",66:01:00,David Goodin,"$5,210,467 ",Industrials
+1430,MGRC,McGrath RentCorp,"$55,325 ",59:01:00,Joseph Hanna,"$3,261,680 ",Industrials
+1431,MIDD,The Middleby,"$40,826 ",230:01:00,Timothy FitzGerald,"$9,406,995 ",Industrials
+1432,MLI,Mueller Industries,"$39,390 ",275:01:00,Gregory Christopher,"$10,841,767 ",Industrials
+1433,MLKN,MillerKnoll,"$44,810 ",111:01:00,Andrea Owen,"$4,984,838 ",Industrials
+1434,MLR,Miller Industries,"$46,256 ",15:01,William Miller II,"$689,213 ",Industrials
+1435,MMM,3M Company,"$71,821 ",253:01:00,Michael Roman,"$18,200,584 ",Industrials
+1436,MOG.A,Moog,"$71,151 ",57:01:00,John Scannell,"$4,030,668 ",Industrials
+1437,MRC,MRC Global,"$72,172 ",84:01:00,Robert Saltiel,"$5,922,877 ",Industrials
+1438,MRCY,Mercury Systems,"$99,608 ",189:01:00,Mark Aslett,"$18,859,871 ",Industrials
+1439,MRTN,Marten Transport,"$60,317 ",23:01,Timothy Kohl,"$1,417,298 ",Industrials
+1440,MSA,MSA Safety,"$56,109 ",121:01:00,Nishan Vartanian,"$6,794,020 ",Industrials
+1441,MSM,MSC Industrial Direct,"$75,101 ",86:01:00,Erik Gershwind,"$6,453,243 ",Industrials
+1442,MTW,The Manitowoc Company,"$53,696 ",92:01:00,Aaron Ravenscroft,"$4,952,777 ",Industrials
+1443,MTZ,MasTec,"$80,009 ",108:01:00,Jose Mas,"$9,122,897 ",Industrials
+1444,MWA,Mueller Water Products,"$60,507 ",79:01:00,J. Hall,"$4,807,096 ",Industrials
+1445,MYRG,MYR Group,"$101,128 ",41:01:00,Richard Swartz,"$4,137,327 ",Industrials
+1446,NDSN,Nordson,"$65,527 ",157:01:00,Sundaram Nagarajan,"$10,308,750 ",Industrials
+1447,NKLA,Nikola,"$132,910 ",42:01:00,Mark Russell,"$5,609,642 ",Industrials
+1448,NL,NL Industries,"$61,041 ",15:01,Courtney Riley,"$945,000 ",Industrials
+1449,NOC,Northrop Grumman,"$119,721 ",166:01:00,Kathy Warden,"$19,876,767 ",Industrials
+1450,NPK,National Presto Industries,"$41,991 ",18:01,Maryjo Cohen,"$755,905 ",Industrials
+1451,NPO,EnPro Industries,"$53,217 ",72:01:00,Eric Vaillancourt,"$2,719,416 ",Industrials
+1452,NSC,Norfolk Southern,"$99,945 ",140:01:00,James Squires,"$14,016,942 ",Industrials
+1453,NSP,Insperity,"$87,240 ",110:01:00,Paul Sarvadi,"$9,624,154 ",Industrials
+1454,NVEE,NV5 Global,"$80,130 ",28:01:00,Dickerson Wright,"$2,202,971 ",Industrials
+1455,NVT,nVent Electric Plc,"$57,468 ",185:01:00,Beth Wozniak,"$10,651,343 ",Industrials
+1456,NWPX,Northwest Pipe Company,"$59,445 ",33:01:00,Scott Montross,"$1,943,875 ",Industrials
+1457,NX,Quanex Building Products,"$46,167 ",88:01:00,George Wilson,"$4,110,943 ",Industrials
+1458,OC,Owens Corning,"$64,753 ",151:01:00,Brian Chambers,"$9,782,143 ",Industrials
+1459,ODFL,Old Dominion Freight Line,"$72,726 ",145:01:00,Greg Gantt,"$10,577,833 ",Industrials
+1460,OFLX,Omega Flex,"$62,120 ",48:01:00,Kevin Hoben,"$2,975,133 ",Industrials
+1461,OSK,Oshkosh,"$74,337 ",105:01:00,John Pfeifer,"$6,013,750 ",Industrials
+1462,OTIS,Otis Worldwide,"$49,941 ",276:01:00,Judith Marks,"$13,770,306 ",Industrials
+1463,PBI,Pitney Bowes,"$45,551 ",108:01:00,Marc Lautenbach,"$4,913,939 ",Industrials
+1464,PGTI,PGT Innovations,"$50,806 ",70:01:00,Jeffrey Jackson,"$3,531,219 ",Industrials
+1465,PH,Parker-Hannifin,"$56,416 ",327:01:00,Thomas Williams,"$18,448,169 ",Industrials
+1466,PKE,Park Aerospace,"$48,046 ",6:01,Brian Shore,"$297,114 ",Industrials
+1467,PLOW,Douglas Dynamics,"$53,382 ",63:01:00,Robert McCormick,"$3,338,813 ",Industrials
+1468,PLPC,Preformed Line Products Company,"$21,536 ",221:01:00,Robert Ruhlman,"$4,760,219 ",Industrials
+1469,PLUG,Plug Power,"$57,038 ",916:01:00,Andrew Marsh,"$52,248,305 ",Industrials
+1470,PNR,Pentair plc,"$57,343 ",164:01:00,John Stauch,"$9,429,546 ",Industrials
+1471,POWL,Powell Industries,"$53,405 ",45:01:00,Brett Cope,"$2,382,478 ",Industrials
+1472,PRIM,Primoris Services,"$56,828 ",61:01:00,Thomas McCormick,"$3,446,638 ",Industrials
+1473,PRLB,Proto Labs,"$49,852 ",61:01:00,Robert Bodor,"$3,022,116 ",Industrials
+1474,PSN,Parsons,"$98,718 ",56:01:00,Carey Smith,"$5,348,118 ",Industrials
+1475,PWR,Quanta Services,"$106,665 ",103:01:00,Earl Austin Jr.,"$10,967,217 ",Industrials
+1476,R,Ryder System,"$45,296 ",198:01:00,Robert Sanchez,"$9,008,488 ",Industrials
+1477,REVG,REV Group,"$52,347 ",112:01:00,Rodney Rushing,"$5,874,288 ",Industrials
+1478,REZI,Resideo Technologies,"$36,061 ",391:01:00,Jay Geldmacher,"$14,103,270 ",Industrials
+1479,RGP,Resources Connection,"$105,208 ",44:01:00,Kate Duchene,"$4,624,537 ",Industrials
+1480,RHI,Robert Half International,"$28,191 ",318:01:00,M. Waddell,"$8,971,474 ",Industrials
+1481,RLGT,Radiant Logistics,"$50,821 ",35:01:00,Bohn Crain,"$1,761,132 ",Industrials
+1482,ROAD,Construction Partners,"$53,024 ",38:01:00,Fred Smith III,"$3,939,343 ",Industrials
+1483,ROCK,Gibraltar Industries,"$63,481 ",63:01:00,William Bosway,"$4,015,386 ",Industrials
+1484,ROK,Rockwell Automation,"$61,470 ",180:01:00,Blake Moret,"$10,987,704 ",Industrials
+1485,ROL,Rollins,"$44,843 ",187:01:00,Gary Rollins,"$8,393,601 ",Industrials
+1486,ROLL,RBC Bearings Incorporated,"$61,074 ",317:01:00,Michael Hartnett,"$19,390,866 ",Industrials
+1487,RRX,Regal Rexnord,"$18,252 ",406:01:00,Louis Pinkham,"$7,401,555 ",Industrials
+1488,RSG,Republic Services,"$68,217 ",125:01:00,Jon Ark,"$7,925,408 ",Industrials
+1489,RTX,Raytheon Technologies,"$112,078 ",208:01:00,Gregory Hayes,"$23,316,063 ",Industrials
+1490,RUN,Sunrun,"$57,719 ",133:01:00,Mary Powell,"$6,824,935 ",Industrials
+1491,RUSHA,Rush Enterprises,"$70,170 ",121:01:00,W.M. Rush,"$8,467,391 ",Industrials
+1492,SAIA,Saia,"$63,083 ",78:01:00,Frederick Holzgrefe III,"$4,937,516 ",Industrials
+1493,SAIC,Science Applications International,"$102,214 ",82:01:00,Nazzic Keene,"$8,343,156 ",Industrials
+1494,SAVE,Spirit Airlines,"$53,603 ",72:01:00,Edward Christie III,"$3,871,281 ",Industrials
+1495,SCS,Steelcase,"$41,463 ",135:01:00,Sara Armbruster,"$5,420,546 ",Industrials
+1496,SHYF,The Shyft Group,"$43,273 ",119:01:00,Daryl Adams,"$5,147,927 ",Industrials
+1497,SITE,SiteOne Landscape Supply,"$57,689 ",105:01:00,Doug Black,"$6,048,793 ",Industrials
+1498,SKYW,Sky West,"$42,138 ",77:01:00,Russell Childs,"$3,258,862 ",Industrials
+1499,SNA,Snap-on Incorporated,"$59,712 ",165:01:00,Nicholas Pinchuk,"$9,872,946 ",Industrials
+1500,SNDR,Schneider National,"$51,677 ",131:01:00,Mark Rourke,"$6,752,187 ",Industrials
+1501,SP,SP Plus,"$26,424 ",187:01:00,G. Baumann,"$4,947,004 ",Industrials
+1502,SPCE,Virgin Galactic,"$107,145 ",69:01:00,Michael Colglazier,"$7,405,794 ",Industrials
+1503,SPR,Spirit AeroSystems,"$66,544 ",163:01:00,Thomas Gentile III,"$10,849,938 ",Industrials
+1504,SPWR,SunPower,"$80,445 ",111:01:00,Peter Faricy,"$8,750,415 ",Industrials
+1505,SPXC,SPX Technologies,"$61,414 ",106:01:00,Eugene Lowe III,"$6,517,485 ",Industrials
+1506,SRCL,Stericycle,"$60,304 ",110:01:00,Cindy Miller,"$6,655,585 ",Industrials
+1507,SSD,Simpson Manufacturing,"$62,385 ",63:01:00,Karen Colonias,"$3,914,701 ",Industrials
+1508,ST,Sensata Technologies Holding Plc,"$11,558 ",588:01:00,Jeffrey Cote,"$6,798,263 ",Industrials
+1509,STRL,Sterling Infrastructure,"$66,692 ",73:01:00,Joseph Cutillo,"$4,842,276 ",Industrials
+1510,SWK,Stanley Black & Decker,"$56,016 ",235:01:00,James Loree,"$13,167,893 ",Industrials
+1511,SXI,Standex International,"$26,590 ",193:01:00,David Dunbar,"$5,135,735 ",Industrials
+1512,TBI,TrueBlue,"$8,174 ",711:01:00,A. Beharelle,"$5,811,254 ",Industrials
+1513,TDG,TransDigm Group Incorporated,"$58,837 ",365:01:00,Kevin Stein,"$21,484,504 ",Industrials
+1514,TEX,Terex,"$50,120 ",190:01:00,John Garrison,"$9,540,015 ",Industrials
+1515,TGI,Triumph Group,"$49,800 ",119:01:00,Daniel Crowley,"$5,923,036 ",Industrials
+1516,THR,Thermon Group,"$60,135 ",50:01:00,Bruce Thames,"$3,010,410 ",Industrials
+1517,TILE,Interface,"$60,270 ",69:01:00,Daniel Hendrix,"$5,418,096 ",Industrials
+1518,TITN,Titan Machinery,"$62,462 ",8:01,David Meyer,"$483,700 ",Industrials
+1519,TKR,The Timken Company,"$59,720 ",162:01:00,Richard Kyle,"$9,665,330 ",Industrials
+1520,TNC,Tennant Company,"$51,033 ",87:01:00,David Huml,"$4,303,328 ",Industrials
+1521,TNET,TriNet Group,"$90,602 ",96:01:00,Burton Goldfield,"$8,657,624 ",Industrials
+1522,TPC,Tutor Perini,"$65,629 ",226:01:00,Ronald Tutor,"$14,808,920 ",Industrials
+1523,TPIC,TPI Composites,"$7,015 ",489:01:00,William Siwek,"$3,430,367 ",Industrials
+1524,TREX,Trex Company,"$63,446 ",64:01:00,Bryan Fairbanks,"$4,079,676 ",Industrials
+1525,TRN,Trinity Industries,"$15,659 ",356:01:00,E. Savage,"$5,579,197 ",Industrials
+1526,TRTN,Triton International,"$136,223 ",42:01:00,Brian Sondey,"$5,768,732 ",Industrials
+1527,TRU,TransUnion,"$66,462 ",177:01:00,Christopher Cartwright,"$11,757,408 ",Industrials
+1528,TT,Trane Technologies Plc,"$63,916 ",202:01:00,David Regnery,"$12,888,518 ",Industrials
+1529,TTC,The Toro Company,"$47,443 ",182:01:00,Richard Olson,"$8,629,851 ",Industrials
+1530,TTEK,Tetra Tech,"$82,239 ",96:01:00,Dan Batrack,"$7,908,335 ",Industrials
+1531,TWI,Titan International,"$36,943 ",123:01:00,Paul Reitz,"$4,548,330 ",Industrials
+1532,TXT,Textron,"$102,647 ",181:01:00,Scott Donnelly,"$18,576,014 ",Industrials
+1533,UAL,United Airlines,"$78,245 ",126:01:00,J. Kirby,"$9,845,064 ",Industrials
+1534,UBER,Uber Technologies,"$81,825 ",244:01:00,Dara Khosrowshahi,"$19,937,818 ",Industrials
+1535,UFPI,UFP Industries,"$45,230 ",216:01:00,Matthew Missad,"$9,757,808 ",Industrials
+1536,UHAL,U-Haul Holding,"$22,785 ",44:01:00,Edward Shoen,"$1,011,744 ",Industrials
+1537,ULH,Universal Logistics,"$48,746 ",21:01,Timothy Phillips,"$1,000,165 ",Industrials
+1538,UNF,UniFirst,"$34,180 ",97:01:00,Steven Sintros,"$3,312,016 ",Industrials
+1539,UNP,Union Pacific,"$89,878 ",162:01:00,Lance Fritz,"$14,523,819 ",Industrials
+1540,UNVR,Univar Solutions,"$76,768 ",106:01:00,David Jukes,"$8,099,724 ",Industrials
+1541,UPS,United Parcel Service,"$50,379 ",548:01:00,Carol Tome,"$27,620,893 ",Industrials
+1542,UPWK,Upwork,"$219,635 ",159:01:00,Hayden Brown,"$34,909,304 ",Industrials
+1543,URI,United Rentals,"$83,417 ",152:01:00,Matthew Flannery,"$12,716,100 ",Industrials
+1544,VICR,Vicor,"$66,899 ",7:01,Patrizio Vinciarelli,"$464,212 ",Industrials
+1545,VMI,Valmont Industries,"$50,040 ",147:01:00,Stephen Kaniewski,"$7,337,975 ",Industrials
+1546,VRSK,Verisk Analytics,"$72,679 ",176:01:00,Scott Stephenson,"$12,796,321 ",Industrials
+1547,VRT,Vertiv,"$26,349 ",197:01:00,Robert Johnson,"$5,180,837 ",Industrials
+1548,VRTV,Veritiv,"$63,114 ",79:01:00,Salvatore Abbate,"$4,982,457 ",Industrials
+1549,VSEC,VSE,"$57,026 ",41:01:00,John Cuomo,"$2,348,503 ",Industrials
+1550,VVI,Viad,"$85,857 ",74:01:00,Steven Moster,"$6,338,825 ",Industrials
+1551,VVX,V2X,"$71,251 ",57:01:00,Charles Prow,"$4,083,541 ",Industrials
+1552,WAB,Westinghouse Air Brake Technologies,"$45,266 ",244:01:00,Rafael Santana,"$11,027,238 ",Industrials
+1553,WCC,WESCO International,"$62,893 ",157:01:00,John Engel,"$9,859,087 ",Industrials
+1554,WERN,Werner Enterprises,"$86,370 ",62:01:00,Derek Leathers,"$5,314,351 ",Industrials
+1555,WIRE,Encore Wire,"$62,806 ",121:01:00,Daniel Jones,"$7,586,473 ",Industrials
+1556,WLDN,Willdan Group,"$57,294 ",52:01:00,Thomas Brisbin,"$2,990,848 ",Industrials
+1557,WM,Waste Management,"$80,744 ",162:01:00,James Fish,"$13,057,363 ",Industrials
+1558,WMS,Advanced Drainage Systems,"$75,407 ",85:01:00,D. Barbour,"$6,388,700 ",Industrials
+1559,WNC,Wabash National,"$51,460 ",90:01:00,Brent Yeagy,"$4,605,980 ",Industrials
+1560,WSC,WillScot Mobile Mini,"$69,685 ",252:01:00,Bradley Soultz,"$17,579,747 ",Industrials
+1561,WSO,Watsco,"$56,525 ",189:01:00,Albert Nahmad,"$10,672,518 ",Industrials
+1562,WTS,Watts Water Technologies,"$46,445 ",152:01:00,Robert Pagano,"$7,070,685 ",Industrials
+1563,WWD,Woodward,"$63,877 ",121:01:00,Charles Blankenship Jr.,"$6,984,261 ",Industrials
+1564,XPO,XPO,"$47,257 ",466:01:00,Bradley Jacobs,"$22,043,280 ",Industrials
+1565,XYL,Xylem,"$55,094 ",190:01:00,Patrick Decker,"$10,441,670 ",Industrials
+1566,ZWS,Zurn Elkay Water Solutions,"$68,281 ",245:01:00,Todd Adams,"$16,770,337 ",Industrials
+1567,AAPL,Apple,"$68,254 ","1,447:1",Timothy Cook,"$98,734,394 ",Information%20Technology
+1568,ACIW,ACI Worldwide,"$76,657 ",114:01:00,Odilon Almeida,"$8,768,059 ",Information%20Technology
+1569,ACLS,Axcelis Technologies,"$121,361 ",33:01:00,Mary Puma,"$4,078,644 ",Information%20Technology
+1570,ACMR,ACM Research,"$24,029 ",17:01,David Wang,"$398,876 ",Information%20Technology
+1571,ACN,Accenture Plc,"$51,635 ",653:01:00,Julie Sweet,"$33,701,108 ",Information%20Technology
+1572,ADBE,Adobe,"$165,733 ",218:01:00,Shantanu Narayen,"$36,128,725 ",Information%20Technology
+1573,ADI,Analog Devices,"$46,141 ",668:01:00,Vincent Roche,"$30,824,323 ",Information%20Technology
+1574,ADP,Automatic Data Processing,"$62,238 ",335:01:00,Carlos Rodriguez,"$20,827,092 ",Information%20Technology
+1575,ADSK,Autodesk,"$137,042 ",161:01:00,Andrew Anagnost,"$22,095,521 ",Information%20Technology
+1576,ADTN,ADTRAN,"$93,407 ",48:01:00,Thomas Stanton,"$4,515,356 ",Information%20Technology
+1577,AEIS,Advanced Energy Industries,"$10,312 ",928:01:00,Stephen Kelley,"$6,506,021 ",Information%20Technology
+1578,AEVA,Aeva Technologies,"$208,228 ",10:01,Soroush Dardashti,"$2,013,300 ",Information%20Technology
+1579,AFRM,Affirm,"$255,872 ",2:01,Max Levchin,"$478,265 ",Information%20Technology
+1580,AGYS,Agilysys,"$35,226 ",23:01,Ramesh Srinivasan,"$822,789 ",Information%20Technology
+1581,AKAM,Akamai Technologies,"$112,018 ",107:01:00,F. Leighton,"$11,951,574 ",Information%20Technology
+1582,ALGM,Allegro MicroSystems,"$8,948 ","1,251:1",Ravi Vig,"$11,191,042 ",Information%20Technology
+1583,ALRM,Alarm.com,"$119,955 ",30:01:00,Stephen Trundle,"$3,613,596 ",Information%20Technology
+1584,ALTR,Altair Engineering,"$82,555 ",48:01:00,James Scapa,"$3,929,844 ",Information%20Technology
+1585,AMAT,Applied Materials,"$109,304 ",323:01:00,Gary Dickerson,"$35,265,559 ",Information%20Technology
+1586,AMBA,Ambarella,"$105,607 ",59:01:00,Feng-Ming Wang,"$6,205,867 ",Information%20Technology
+1587,AMD,Advanced Micro Devices,"$128,263 ",230:01:00,Lisa Su,"$29,498,107 ",Information%20Technology
+1588,AMKR,Amkor Technology,"$16,225 ",236:01:00,Giel Rutten,"$3,832,635 ",Information%20Technology
+1589,AMSWA,American Software,"$88,039 ",43:01:00,H. Dow,"$3,825,451 ",Information%20Technology
+1590,ANET,Arista Networks,"$190,816 ",84:01:00,Jayshree Ullal,"$15,993,632 ",Information%20Technology
+1591,ANSS,ANSYS,"$118,588 ",154:01:00,Ajei Gopal,"$18,260,634 ",Information%20Technology
+1592,AOSL,Alpha and Omega Semiconductor Limited,"$18,738 ",417:01:00,Mike Chang,"$7,814,989 ",Information%20Technology
+1593,APH,Amphenol,"$16,042 ",816:01:00,R. Norwitt,"$13,092,697 ",Information%20Technology
+1594,APPF,AppFolio,"$112,319 ",13:01,Jason Randall,"$1,461,382 ",Information%20Technology
+1595,APPN,Appian,"$127,200 ",8:01,Matthew Calkins,"$981,848 ",Information%20Technology
+1596,APPS,Digital Turbine,"$164,128 ",47:01:00,William Stone,"$7,748,317 ",Information%20Technology
+1597,ARW,Arrow Electronics,"$66,172 ",193:01:00,Michael Long,"$12,755,479 ",Information%20Technology
+1598,ATEN,A10 Networks,"$178,144 ",18:01,Dhrupad Trivedi,"$3,135,250 ",Information%20Technology
+1599,AVGO,Broadcom,"$247,541 ",245:01:00,Hock Tan,"$60,703,627 ",Information%20Technology
+1600,AVID,Avid Technology,"$91,310 ",40:01:00,Jeff Rosica,"$3,630,392 ",Information%20Technology
+1601,AVNW,Aviat Networks,"$68,428 ",52:01:00,Peter Smith,"$3,454,749 ",Information%20Technology
+1602,AVT,Avnet,"$40,474 ",201:01:00,Philip Gallagher,"$8,129,900 ",Information%20Technology
+1603,AVYA,Avaya,"$90,252 ",154:01:00,James Chirico Jr.,"$13,851,692 ",Information%20Technology
+1604,AXTI,AXT,"$12,964 ",219:01:00,Morris Young,"$2,836,108 ",Information%20Technology
+1605,AYX,Alteryx,"$217,877 ",63:01:00,Mark Anderson,"$13,751,007 ",Information%20Technology
+1606,AZPN,Aspen Technology,"$110,126 ",206:01:00,Antonio Pietri,"$22,635,094 ",Information%20Technology
+1607,BCOV,Brightcove,"$93,627 ",19:01,Hugh Ray III,"$1,757,714 ",Information%20Technology
+1608,BDC,Belden,"$37,775 ",181:01:00,Roel Vestjens,"$6,831,323 ",Information%20Technology
+1609,BHE,Benchmark Electronics,"$9,676 ",696:01:00,Jeffrey Benck,"$6,736,846 ",Information%20Technology
+1610,BILL,Bill.com,"$170,915 ",82:01:00,Rene Lacerte,"$13,929,027 ",Information%20Technology
+1611,BKI,Black Knight,"$94,115 ",123:01:00,Anthony Jabbour,"$11,562,556 ",Information%20Technology
+1612,BL,BlackLine,"$173,708 ",35:01:00,Marc Huffman,"$6,046,686 ",Information%20Technology
+1613,BLKB,Blackbaud,"$103,954 ",114:01:00,Michael Gianoni,"$11,810,500 ",Information%20Technology
+1614,BMI,Badger Meter,"$36,254 ",101:01:00,Kenneth Bockhorst,"$3,674,319 ",Information%20Technology
+1615,BNFT,Benefitfocus,"$85,942 ",97:01:00,Matthew Levin,"$8,098,139 ",Information%20Technology
+1616,BOX,Box,"$196,300 ",1:01,Aaron Levie,"$292,514 ",Information%20Technology
+1617,BR,Broadridge Financial Solutions,"$64,515 ",156:01:00,Timothy Gokey,"$10,068,228 ",Information%20Technology
+1618,BTRS,BTRS,"$135,869 ",62:01:00,Flint Lane,"$8,428,621 ",Information%20Technology
+1619,CALX,Calix,"$157,079 ",49:01:00,Carl Russo,"$7,726,910 ",Information%20Technology
+1620,CASA,Casa Systems,"$84,168 ",73:01:00,Jerry Guo,"$6,169,044 ",Information%20Technology
+1621,CDAY,Ceridian HCM Holding,"$83,919 ",127:01:00,David Ossip,"$10,626,701 ",Information%20Technology
+1622,CDW,CDW,"$103,536 ",86:01:00,Christine Leahy,"$8,943,903 ",Information%20Technology
+1623,CEVA,CEVA,$0 ,19:01,Gideon Wertheizer,"$2,900,681 ",Information%20Technology
+1624,CGNX,Cognex,"$88,713 ",119:01:00,Robert Willett,"$10,534,520 ",Information%20Technology
+1625,CIEN,Ciena,"$104,586 ",109:01:00,Gary Smith,"$11,450,851 ",Information%20Technology
+1626,CMTL,Comtech Telecommunications,"$96,522 ",37:01:00,Michael Porcelain,"$3,406,465 ",Information%20Technology
+1627,CNDT,Conduent,"$27,402 ",222:01:00,Clifford Skelton,"$6,078,061 ",Information%20Technology
+1628,CNXC,Concentrix,"$5,384 ","2,802:1",Christopher Caldwell,"$15,087,737 ",Information%20Technology
+1629,CNXN,PC Connection,"$75,092 ",43:01:00,Timothy McGrath,"$3,209,550 ",Information%20Technology
+1630,COHR,Coherent,"$18,006 ",596:01:00,Vincent Mattera Jr.,"$10,727,919 ",Information%20Technology
+1631,COHU,Cohu,"$39,091 ",117:01:00,Luis Muller,"$4,582,416 ",Information%20Technology
+1632,COMM,CommScope Holding,"$19,614 ",146:01:00,Charles Treadway,"$2,865,860 ",Information%20Technology
+1633,COUP,Coupa Software,"$157,588 ",114:01:00,Robert Bernshteyn,"$17,928,137 ",Information%20Technology
+1634,CRM,Salesforce,"$181,612 ",157:01:00,Marc Benioff,"$28,602,112 ",Information%20Technology
+1635,CRSR,Corsair Gaming,"$41,968 ",242:01:00,Andrew Paul,"$10,174,767 ",Information%20Technology
+1636,CRUS,Cirrus Logic,"$174,893 ",38:01:00,John Forsyth,"$6,624,467 ",Information%20Technology
+1637,CRWD,CrowdStrike,"$183,564 ",805:01:00,George Kurtz,"$147,695,746 ",Information%20Technology
+1638,CSCO,Cisco Systems,"$117,400 ",249:01:00,Charles Robbins,"$29,283,936 ",Information%20Technology
+1639,CSGS,CSG Systems International,"$60,208 ",96:01:00,Brian Shepherd,"$5,763,015 ",Information%20Technology
+1640,CTLP,Cantaloupe,"$76,586 ",13:01,Sean Feeney,"$990,474 ",Information%20Technology
+1641,CTS,CTS,"$14,659 ",269:01:00,Kieran O'Sullivan,"$3,944,440 ",Information%20Technology
+1642,CTSH,Cognizant Technology Solutions,"$34,225 ",575:01:00,Brian Humphries,"$19,687,285 ",Information%20Technology
+1643,CVLT,Commvault Systems,"$116,953 ",92:01:00,Sanjay Mirchandani,"$10,760,212 ",Information%20Technology
+1644,CVT,Cvent Holding,"$69,299 ",306:01:00,Rajeev Aggarwal,"$21,200,830 ",Information%20Technology
+1645,DBD,Diebold Nixdorf,"$43,006 ",609:01:00,Gerrard Schmid,"$26,169,529 ",Information%20Technology
+1646,DBX,Dropbox,"$257,164 ",6:01,Andrew Houston,"$1,515,269 ",Information%20Technology
+1647,DCT,Duck Creek Technologies,"$74,636 ",49:01:00,Michael Jackowski,"$3,641,525 ",Information%20Technology
+1648,DDOG,Datadog,"$190,126 ",45:01:00,Olivier Pomel,"$8,632,636 ",Information%20Technology
+1649,DELL,Dell Technologies,"$70,562 ",49:01:00,Michael Dell,"$3,467,347 ",Information%20Technology
+1650,DGII,Digi International,"$106,129 ",29:01:00,Ronald Konezny,"$3,056,878 ",Information%20Technology
+1651,DIOD,Diodes Incorporated,"$20,448 ",380:01:00,Keh-Shew Lu,"$7,760,880 ",Information%20Technology
+1652,DLB,Dolby Laboratories,"$133,439 ",70:01:00,Kevin Yeaman,"$9,407,217 ",Information%20Technology
+1653,DMRC,Digimarc,"$145,500 ",2:01,Riley McCormack,"$290,072 ",Information%20Technology
+1654,DOCU,DocuSign,"$236,617 ",87:01:00,Daniel Springer,"$20,701,048 ",Information%20Technology
+1655,DOMO,Domo,"$139,398 ",57:01:00,Joshua James,"$8,007,285 ",Information%20Technology
+1656,DT,Dynatrace,"$93,075 ",234:01:00,Rick McConnell,"$20,970,696 ",Information%20Technology
+1657,DXC,DXC Technology,"$44,156 ",650:01:00,Michael Salvino,"$28,716,680 ",Information%20Technology
+1658,EBIX,Ebix,"$47,968 ",75:01:00,Robin Raina,"$3,604,350 ",Information%20Technology
+1659,EEFT,Euronet Worldwide,"$29,102 ",401:01:00,Michael Brown,"$11,680,872 ",Information%20Technology
+1660,EGHT,8x8,"$131,603 ",51:01:00,David Sipes,"$6,670,866 ",Information%20Technology
+1661,ENPH,Enphase Energy,"$67,267 ",283:01:00,Badrinarayanan Kothandaraman,"$19,019,162 ",Information%20Technology
+1662,ENTG,Entegris,"$70,909 ",148:01:00,Bertrand Loy,"$10,498,882 ",Information%20Technology
+1663,ENV,Envestnet,"$33,810 ",183:01:00,William Crager,"$6,172,629 ",Information%20Technology
+1664,EPAM,EPAM Systems,"$27,200 ",218:01:00,Arkadiy Dobkin,"$5,921,524 ",Information%20Technology
+1665,ESTC,Elastic NV,"$227,345 ",64:01:00,Ashutosh Kulkarni,"$17,888,070 ",Information%20Technology
+1666,ETWO,E2open Parent,"$80,454 ",116:01:00,Michael Farlekas,"$9,363,036 ",Information%20Technology
+1667,EVOP,EVO Payments,"$62,033 ",124:01:00,James Kelly,"$7,671,571 ",Information%20Technology
+1668,EVTC,EVERTEC,"$29,179 ",257:01:00,Morgan Schuessler Jr.,"$7,498,179 ",Information%20Technology
+1669,EXLS,ExlService,"$10,275 ",977:01:00,Rohit Kapoor,"$10,033,589 ",Information%20Technology
+1670,EXTR,Extreme Networks,"$104,281 ",85:01:00,Edward Meyercord III,"$8,907,184 ",Information%20Technology
+1671,FARO,FARO Technologies,"$57,631 ",69:01:00,Michael Burger,"$3,962,999 ",Information%20Technology
+1672,FFIV,F5,"$206,330 ",56:01:00,Francois Locoh-Donou,"$11,469,726 ",Information%20Technology
+1673,FICO,Fair Isaac,"$90,039 ",216:01:00,William Lansing,"$19,429,745 ",Information%20Technology
+1674,FIS,Fidelity National Information Services,"$64,135 ",390:01:00,Gary Norcross,"$25,023,771 ",Information%20Technology
+1675,FISV,Fiserv,"$70,276 ",290:01:00,Frank Bisignano,"$20,385,208 ",Information%20Technology
+1676,FIVN,Five9,"$186,883 ",58:01:00,Rowan Trollope,"$10,825,689 ",Information%20Technology
+1677,FLT,FLEETCOR Technologies,"$41,265 ","1,404:1",Ronald Clarke,"$57,923,473 ",Information%20Technology
+1678,FN,Fabrinet,"$8,715 ","1,140:1",Seamus Grady,"$9,936,955 ",Information%20Technology
+1679,FORM,FormFactor,"$87,419 ",76:01:00,Michael Slessor,"$6,645,190 ",Information%20Technology
+1680,FSLR,First Solar,"$139,587 ",47:01:00,Mark Widmar,"$6,542,454 ",Information%20Technology
+1681,FSLY,Fastly,"$250,536 ",41:01:00,Joshua Bixby,"$10,151,110 ",Information%20Technology
+1682,FTNT,Fortinet,"$202,875 ",70:01:00,Ken Xie,"$14,203,211 ",Information%20Technology
+1683,G,Genpact Limited,"$24,506 ",271:01:00,N.V. Tyagarajan,"$6,646,011 ",Information%20Technology
+1684,GDDY,GoDaddy,"$82,083 ",186:01:00,Amanpal Bhutani,"$15,290,590 ",Information%20Technology
+1685,GLW,Corning Incorporated,"$40,760 ",509:01:00,Wendell Weeks,"$20,766,032 ",Information%20Technology
+1686,GPN,Global Payments,"$56,202 ",415:01:00,Jeffrey Sloan,"$23,318,393 ",Information%20Technology
+1687,GWRE,Guidewire Software,"$193,624 ",52:01:00,Michael Rosenbaum,"$10,084,978 ",Information%20Technology
+1688,HCKT,The Hackett Group,"$111,812 ",54:01:00,Ted Fernandez,"$6,081,600 ",Information%20Technology
+1689,HLIT,Harmonic,"$103,272 ",45:01:00,Patrick Harshman,"$4,628,135 ",Information%20Technology
+1690,HPE,Hewlett Packard Enterprise Company,"$65,944 ",289:01:00,Antonio Neri,"$19,052,415 ",Information%20Technology
+1691,HPQ,HP,"$67,667 ",306:01:00,Enrique Lores,"$20,733,806 ",Information%20Technology
+1692,HUBS,HubSpot,"$182,229 ",43:01:00,Yamini Rangan,"$8,447,107 ",Information%20Technology
+1693,IBM,International Business Machines,"$67,926 ",258:01:00,Arvind Krishna,"$17,550,959 ",Information%20Technology
+1694,IDCC,InterDigital,"$118,366 ",91:01:00,Liren Chen,"$10,824,838 ",Information%20Technology
+1695,INFN,Infinera,"$103,397 ",45:01:00,David Heard,"$4,606,965 ",Information%20Technology
+1696,INSG,Inseego,"$133,330 ",44:01:00,Dan Mondor,"$5,862,494 ",Information%20Technology
+1697,INTC,Intel,"$104,400 ","1,711:1",Patrick Gelsinger,"$178,590,400 ",Information%20Technology
+1698,INTU,Intuit,"$203,814 ",133:01:00,Sasan Goodarzi,"$27,174,857 ",Information%20Technology
+1699,IPGP,IPG Photonics,"$44,504 ",169:01:00,Eugene Scherbakov,"$7,284,851 ",Information%20Technology
+1700,IT,Gartner,"$118,762 ",119:01:00,Eugene Hall,"$14,096,168 ",Information%20Technology
+1701,ITRI,Itron,"$61,721 ",74:01:00,Thomas Deitrich,"$4,540,331 ",Information%20Technology
+1702,JBL,Jabil,"$8,131 ","2,021:1",Mark Mondello,"$16,435,268 ",Information%20Technology
+1703,JKHY,Jack Henry & Associates,"$78,477 ",124:01:00,David Foss,"$9,758,392 ",Information%20Technology
+1704,JNPR,Juniper Networks,"$132,117 ",90:01:00,Rami Rahim,"$11,870,290 ",Information%20Technology
+1705,KE,Kimball Electronics,"$10,074 ",285:01:00,Donald Charron,"$2,872,122 ",Information%20Technology
+1706,KEYS,Keysight Technologies,"$77,082 ",241:01:00,Ronald Nersesian,"$18,566,410 ",Information%20Technology
+1707,KLAC,KLA,"$105,278 ",195:01:00,Richard Wallace,"$20,568,625 ",Information%20Technology
+1708,KLIC,Kulicke and Soffa Industries,"$24,159 ",241:01:00,Fusen Chen,"$6,351,696 ",Information%20Technology
+1709,KN,Knowles,"$9,086 ",990:01:00,Jeffrey Niew,"$8,999,264 ",Information%20Technology
+1710,LASR,nLIGHT,"$42,759 ",134:01:00,Scott Keeney,"$5,741,065 ",Information%20Technology
+1711,LFUS,Littelfuse,"$22,176 ",278:01:00,David Heinzmann,"$6,170,131 ",Information%20Technology
+1712,LITE,Lumentum,"$12,933 ",835:01:00,Alan Lowe,"$10,793,744 ",Information%20Technology
+1713,LLNW,Edgio,"$81,810 ",41:01:00,Bob Lyons,"$3,325,961 ",Information%20Technology
+1714,LPSN,LivePerson,"$119,104 ",44:01:00,Robert LoCascio,"$5,195,079 ",Information%20Technology
+1715,LRCX,Lam Research,"$119,322 ",142:01:00,Timothy Archer,"$16,941,156 ",Information%20Technology
+1716,LSCC,Lattice Semiconductor,"$112,020 ",164:01:00,James Anderson,"$18,387,422 ",Information%20Technology
+1717,LWLG,Lightwave Logic,"$375,632 ",8:01,Michael Lebby,"$3,073,321 ",Information%20Technology
+1718,MA,Mastercard Incorporated,"$128,154 ",126:01:00,Michael Miebach,"$16,120,055 ",Information%20Technology
+1719,MANH,Manhattan Associates,"$76,630 ",92:01:00,Eddie Capel,"$7,074,692 ",Information%20Technology
+1720,MAPS,WM Technology,"$138,000 ",77:01:00,Christopher Beals,"$10,614,467 ",Information%20Technology
+1721,MCHP,Microchip Technology Incorporated,"$46,326 ",275:01:00,Ganesh Moorthy,"$12,759,667 ",Information%20Technology
+1722,MDB,MongoDB,"$249,910 ",42:01:00,Dev Ittycheria,"$10,566,757 ",Information%20Technology
+1723,MEI,Methode Electronics,"$8,137 ",282:01:00,Donald Duda,"$2,297,776 ",Information%20Technology
+1724,MGI,MoneyGram International,"$75,706 ",89:01:00,W. Holmes,"$6,721,431 ",Information%20Technology
+1725,MITK,Mitek Systems,"$99,668 ",35:01:00,Scipio Carnecchia,"$3,461,041 ",Information%20Technology
+1726,MKSI,MKS Instruments,"$67,952 ",112:01:00,John Lee,"$7,638,355 ",Information%20Technology
+1727,MMS,MAXIMUS,"$38,059 ",208:01:00,Bruce Caswell,"$7,906,006 ",Information%20Technology
+1728,MNTV,Momentive Global,"$149,828 ",44:01:00,Alexander Lurie,"$6,623,807 ",Information%20Technology
+1729,MODN,Model N,"$92,328 ",60:01:00,Jason Blessing,"$5,556,971 ",Information%20Technology
+1730,MPWR,Monolithic Power Systems,"$48,913 ",414:01:00,Michael Hsing,"$20,254,831 ",Information%20Technology
+1731,MRVL,Marvell Technology,"$167,829 ",92:01:00,Matthew Murphy,"$15,510,223 ",Information%20Technology
+1732,MSFT,Microsoft,"$190,302 ",289:01:00,Satya Nadella,"$54,946,310 ",Information%20Technology
+1733,MSI,Motorola Solutions,"$82,965 ",241:01:00,Gregory Brown,"$19,980,639 ",Information%20Technology
+1734,MSTR,MicroStrategy Incorporated,"$112,166 ",25:01:00,Michael Saylor,"$2,780,241 ",Information%20Technology
+1735,MTSI,MACOM Technology Solutions,"$132,346 ",24:01:00,Stephen Daly,"$3,175,058 ",Information%20Technology
+1736,MU,Micron Technology,"$48,310 ",597:01:00,Sanjay Mehrotra,"$28,840,809 ",Information%20Technology
+1737,MVIS,MicroVision,"$269,056 ",17:01,Sumit Sharma,"$4,548,622 ",Information%20Technology
+1738,MXL,MaxLinear,"$175,378 ",35:01:00,Kishore Seendripu,"$6,212,011 ",Information%20Technology
+1739,NATI,National Instruments,"$55,621 ",147:01:00,Eric Starkloff,"$8,190,385 ",Information%20Technology
+1740,NCR,NCR,"$42,606 ",348:01:00,Michael Hayford,"$14,840,501 ",Information%20Technology
+1741,NET,Cloudflare,"$231,472 ",2:01,Matthew Prince,"$400,000 ",Information%20Technology
+1742,NEWR,New Relic,"$203,661 ",67:01:00,William Staples,"$13,566,010 ",Information%20Technology
+1743,NLOK,Gen Digital,"$94,195 ",144:01:00,Vincent Pilette,"$13,517,505 ",Information%20Technology
+1744,NOVT,Novanta,"$51,744 ",239:01:00,Matthijs Glastra,"$12,375,690 ",Information%20Technology
+1745,NOW,ServiceNow,"$233,859 ",709:01:00,William McDermott,"$165,802,037 ",Information%20Technology
+1746,NSIT,Insight Enterprises,"$72,102 ",92:01:00,Kenneth Lamneck,"$6,638,325 ",Information%20Technology
+1747,NSSC,Napco Security Technologies,"$2,566 ",920:01:00,Richard Soloway,"$2,359,951 ",Information%20Technology
+1748,NTAP,NetApp,"$206,477 ",91:01:00,George Kurian,"$18,883,551 ",Information%20Technology
+1749,NTCT,NetScout Systems,"$132,816 ",29:01:00,Anil Singhal,"$3,908,422 ",Information%20Technology
+1750,NTGR,NETGEAR,"$126,306 ",41:01:00,Patrick Lo,"$5,221,876 ",Information%20Technology
+1751,NTNX,Nutanix,"$171,281 ",75:01:00,Rajiv Ramaswami,"$12,928,676 ",Information%20Technology
+1752,NVDA,NVIDIA,"$217,542 ",109:01:00,Jen-Hsun Huang,"$23,737,661 ",Information%20Technology
+1753,NXPI,NXP Semiconductors NV,"$50,138 ",417:01:00,Kurt Sievers,"$20,911,892 ",Information%20Technology
+1754,OKTA,Okta,"$432,502 ",74:01:00,Todd McKinnon,"$31,820,477 ",Information%20Technology
+1755,OLED,Universal Display,"$142,398 ",74:01:00,Steven Abramson,"$10,531,257 ",Information%20Technology
+1756,ON,ON Semiconductor,"$17,475 ",912:01:00,Hassane El-Khoury,"$12,825,562 ",Information%20Technology
+1757,ONTO,Onto Innovation,"$142,265 ",36:01:00,Michael Plisinski,"$5,134,310 ",Information%20Technology
+1758,ORCL,Oracle,"$75,043 ","1,842:1",Safra Catz,"$138,192,032 ",Information%20Technology
+1759,OSIS,OSI Systems,"$20,155 ",479:01:00,Deepak Chopra,"$9,654,358 ",Information%20Technology
+1760,OSPN,OneSpan,"$90,900 ",98:01:00,Matthew Moynahan,"$8,445,582 ",Information%20Technology
+1761,PANW,Palo Alto Networks,"$268,463 ",39:01:00,Nikesh Arora,"$10,410,477 ",Information%20Technology
+1762,PAR,PAR Technology,"$95,529 ",12:01,Savneet Singh,"$1,124,454 ",Information%20Technology
+1763,PAYC,Paycom Software,"$70,036 ",42:01:00,Chad Richison,"$2,958,410 ",Information%20Technology
+1764,PAYX,Paychex,"$56,960 ",193:01:00,Martin Mucci,"$11,025,026 ",Information%20Technology
+1765,PCTY,Paylocity Holding,"$84,486 ",181:01:00,Steven Beauchamp,"$15,292,725 ",Information%20Technology
+1766,PD,PagerDuty,"$232,212 ",57:01:00,Jennifer Tejada,"$13,268,568 ",Information%20Technology
+1767,PDFS,PDF Solutions,"$116,126 ",3:01,John Kibarian,"$400,405 ",Information%20Technology
+1768,PEGA,Pegasystems,"$124,978 ",60:01:00,Alan Trefler,"$7,517,898 ",Information%20Technology
+1769,PLAB,Photronics,"$33,696 ",59:01:00,Peter Kirlin,"$2,006,994 ",Information%20Technology
+1770,PLTR,Palantir Technologies,"$217,522 ",21:01,Alexander Karp,"$4,483,614 ",Information%20Technology
+1771,PLUS,ePlus,"$121,364 ",40:01:00,Mark Marron,"$4,900,118 ",Information%20Technology
+1772,PLXS,Plexus,"$15,075 ",494:01:00,Todd Kelsey,"$7,440,475 ",Information%20Technology
+1773,POWI,Power Integrations,"$104,639 ",63:01:00,Balu Balakrishnan,"$6,564,685 ",Information%20Technology
+1774,PRFT,Perficient,"$68,944 ",102:01:00,Jeffrey Davis,"$6,997,941 ",Information%20Technology
+1775,PRGS,Progress Software,"$81,284 ",74:01:00,Yogesh Gupta,"$6,019,029 ",Information%20Technology
+1776,PRO,PROS,"$92,424 ",79:01:00,Andres Reiner,"$7,339,632 ",Information%20Technology
+1777,PSTG,Pure Storage,"$204,641 ",48:01:00,Charles Giancarlo,"$9,794,382 ",Information%20Technology
+1778,PTC,PTC,"$143,681 ",90:01:00,James Heppelmann,"$12,887,116 ",Information%20Technology
+1779,PYPL,PayPal,"$83,905 ",382:01:00,Daniel Schulman,"$32,070,353 ",Information%20Technology
+1780,QCOM,QUALCOMM Incorporated,"$98,200 ",215:01:00,Cristiano Amon,"$20,638,924 ",Information%20Technology
+1781,QLYS,Qualys,"$38,519 ",244:01:00,Sumedh Thakar,"$9,396,665 ",Information%20Technology
+1782,QRVO,Qorvo,"$57,510 ",175:01:00,Robert Bruggeworth,"$10,072,684 ",Information%20Technology
+1783,QTWO,Q2,"$125,624 ",63:01:00,Matthew Flake,"$7,882,965 ",Information%20Technology
+1784,RAMP,LiveRamp,"$134,969 ",63:01:00,Scott Howe,"$8,457,367 ",Information%20Technology
+1785,RBBN,Ribbon Communications,"$91,135 ",9:01,Bruce McClelland,"$781,423 ",Information%20Technology
+1786,RMBS,Rambus,"$154,965 ",37:01:00,Luc Seraphin,"$5,761,497 ",Information%20Technology
+1787,RNG,RingCentral,"$163,350 ",118:01:00,Vladimir Shmunis,"$19,221,811 ",Information%20Technology
+1788,ROG,Rogers,"$41,246 ",90:01:00,Bruce Hoechner,"$4,188,162 ",Information%20Technology
+1789,ROP,Roper Technologies,"$98,550 ",219:01:00,L. Hunn,"$21,532,055 ",Information%20Technology
+1790,RPAY,Repay,"$103,523 ",52:01:00,John Morris,"$5,426,105 ",Information%20Technology
+1791,RPD,Rapid7,"$142,145 ",75:01:00,Corey Thomas,"$10,634,202 ",Information%20Technology
+1792,RXT,Rackspace Technology,"$61,860 ",570:01:00,Kevin Jones,"$35,270,070 ",Information%20Technology
+1793,SABR,Sabre,"$79,792 ",248:01:00,Sean Menke,"$19,823,002 ",Information%20Technology
+1794,SANM,Sanmina,"$11,048 ","1,316:1",Jure Sola,"$14,535,131 ",Information%20Technology
+1795,SCSC,ScanSource,"$59,309 ",95:01:00,Michael Baur,"$5,647,684 ",Information%20Technology
+1796,SCWX,SecureWorks,"$122,377 ",85:01:00,Wendy Thomas,"$10,359,440 ",Information%20Technology
+1797,SEDG,SolarEdge Technologies,"$78,132 ",94:01:00,Zivi Lando,"$7,361,336 ",Information%20Technology
+1798,SGH,SMART Global,"$22,166 ",301:01:00,Mark Adams,"$6,664,870 ",Information%20Technology
+1799,SLAB,Silicon Laboratories,"$139,332 ",122:01:00,G. Tuttle,"$17,016,409 ",Information%20Technology
+1800,SMAR,Smartsheet,"$179,211 ",87:01:00,Mark Mader,"$15,632,439 ",Information%20Technology
+1801,SMCI,Super Micro Computer,"$75,171 ",241:01:00,Charles Liang,"$18,098,671 ",Information%20Technology
+1802,SMTC,Semtech,"$88,122 ",19:01,Mohan Maheswaran,"$1,667,178 ",Information%20Technology
+1803,SNPS,Synopsys,"$98,215 ",102:01:00,Chi-Foon Chan,"$9,976,485 ",Information%20Technology
+1804,SNX,TD SYNNEX,"$56,410 ",181:01:00,Richard Hume,"$9,529,362 ",Information%20Technology
+1805,SPLK,Splunk,"$260,390 ",48:01:00,Graham Smith,"$3,010,388 ",Information%20Technology
+1806,SPSC,SPS Commerce,"$86,682 ",77:01:00,Archie Black,"$6,693,464 ",Information%20Technology
+1807,SSNC,SS&C Technologies,"$67,434 ",341:01:00,William Stone,"$22,981,889 ",Information%20Technology
+1808,STX,Seagate Technology plc,"$9,757 ","1,193:1",William Mosley,"$11,641,189 ",Information%20Technology
+1809,SWI,SolarWinds,"$158,889 ",148:01:00,Sudhakar Ramakrishna,"$23,576,716 ",Information%20Technology
+1810,SWKS,Skyworks Solutions,"$17,409 ",928:01:00,Liam Griffin,"$16,150,421 ",Information%20Technology
+1811,SYNA,Synaptics Incorporated,"$125,338 ",113:01:00,Michael Hurlston,"$14,160,936 ",Information%20Technology
+1812,TCX,Tucows,"$47,025 ",16:01,Elliot Noss,"$773,450 ",Information%20Technology
+1813,TDC,Teradata,"$74,646 ",155:01:00,Stephen McMillan,"$11,570,638 ",Information%20Technology
+1814,TDY,Teledyne Technologies Incorporated,"$64,003 ",103:01:00,Robert Mehrabian,"$6,567,058 ",Information%20Technology
+1815,TEL,TE Connectivity,"$24,975 ",589:01:00,Terrence Curtin,"$14,715,856 ",Information%20Technology
+1816,TENB,Tenable,"$176,067 ",48:01:00,Amit Yoran,"$8,480,631 ",Information%20Technology
+1817,TER,Teradyne,"$128,299 ",85:01:00,Mark Jagiela,"$10,954,713 ",Information%20Technology
+1818,TLS,Telos,"$99,771 ",122:01:00,John Wood,"$12,197,174 ",Information%20Technology
+1819,TRMB,Trimble,"$71,625 ",195:01:00,Robert Painter,"$13,956,821 ",Information%20Technology
+1820,TTEC,TTEC,"$8,464 ",75:01:00,Kenneth Tuchman,"$632,135 ",Information%20Technology
+1821,TTMI,TTM Technologies,"$23,692 ",110:01:00,Thomas Edman,"$2,595,084 ",Information%20Technology
+1822,TWLO,Twilio,"$166,789 ",88:01:00,Jeff Lawson,"$14,625,745 ",Information%20Technology
+1823,TXN,Texas Instruments Incorporated,"$69,407 ",277:01:00,Richard Templeton,"$19,195,411 ",Information%20Technology
+1824,TYL,Tyler Technologies,"$88,714 ",63:01:00,H. Moore Jr,"$5,590,005 ",Information%20Technology
+1825,UCTT,Ultra Clean,"$39,341 ",132:01:00,James Scholhamer,"$5,201,766 ",Information%20Technology
+1826,UI,Ubiquiti,"$55,929 ",9:01,Robert Pera,"$478,907 ",Information%20Technology
+1827,UIS,Unisys,"$34,786 ",232:01:00,Peter Altabef,"$8,059,535 ",Information%20Technology
+1828,UPLD,Upland Software,"$84,460 ",108:01:00,John McDonald,"$9,090,588 ",Information%20Technology
+1829,V,Visa,"$152,395 ",184:01:00,Alfred Kelly Jr.,"$28,103,602 ",Information%20Technology
+1830,VECO,Veeco Instruments,"$126,403 ",36:01:00,William Miller,"$4,526,501 ",Information%20Technology
+1831,VIAV,Viavi Solutions,"$76,251 ",122:01:00,Oleg Khaykin,"$9,340,416 ",Information%20Technology
+1832,VLDR,Velodyne Lidar,"$180,282 ",11:01,Theodore Tewksbury III,"$1,504,384 ",Information%20Technology
+1833,VMW,VMware,"$136,971 ",236:01:00,Rangarajan Raghuram,"$32,344,107 ",Information%20Technology
+1834,VNT,Vontier,"$38,251 ",227:01:00,Mark Morelli,"$8,686,894 ",Information%20Technology
+1835,VPG,Vishay Precision Group,"$38,631 ",94:01:00,Ziv Shoshani,"$3,624,818 ",Information%20Technology
+1836,VRNS,Varonis Systems,"$196,224 ",53:01:00,Yakov Faitelson,"$10,372,443 ",Information%20Technology
+1837,VRNT,Verint Systems,"$101,629 ",98:01:00,Dan Bodner,"$9,975,399 ",Information%20Technology
+1838,VRRM,Verra Mobility,"$63,174 ",55:01:00,David Roberts,"$3,469,301 ",Information%20Technology
+1839,VRSN,VeriSign,"$201,444 ",50:01:00,D. Bidzos,"$10,118,313 ",Information%20Technology
+1840,VSAT,ViaSat,"$122,136 ",100:01:00,Richard Baldridge,"$12,236,750 ",Information%20Technology
+1841,VSH,Vishay Intertechnology,"$21,000 ",399:01:00,Gerald Paul,"$8,388,523 ",Information%20Technology
+1842,WDAY,Workday,"$212,269 ",104:01:00,Luciano Fernandez,"$22,015,513 ",Information%20Technology
+1843,WDC,Western Digital,"$9,644 ","3,332:1",David Goeckeler,"$32,137,338 ",Information%20Technology
+1844,WEX,WEX,"$75,734 ",127:01:00,Melissa Smith,"$9,612,917 ",Information%20Technology
+1845,WK,Workiva,"$110,924 ",88:01:00,Martin Vanderploeg,"$9,791,270 ",Information%20Technology
+1846,WOLF,Wolfspeed,"$73,303 ",127:01:00,Gregg Lowe,"$9,282,016 ",Information%20Technology
+1847,XPER,Adeia,"$124,260 ",82:01:00,Jon Kirchner,"$10,241,840 ",Information%20Technology
+1848,XRX,Xerox,"$46,676 ",266:01:00,Giovanni Visentin,"$12,418,877 ",Information%20Technology
+1849,YEXT,Yext,"$183,568 ",38:01:00,Howard Lerman,"$6,947,016 ",Information%20Technology
+1850,ZBRA,Zebra Technologies,"$60,450 ",225:01:00,Anders Gustafsson,"$13,589,616 ",Information%20Technology
+1851,ZM,Zoom Video Communications,"$188,261 ",6:01,Eric Yuan,"$1,115,089 ",Information%20Technology
+1852,ZS,Zscaler,"$188,657 ",220:01:00,Jay Chaudhry,"$41,530,160 ",Information%20Technology
+1853,ZUO,Zuora,"$182,436 ",41:01:00,Tien Tzuo,"$7,424,000 ",Information%20Technology
+1854,AA,Alcoa,"$102,645 ",155:01:00,Roy Harvey,"$15,960,369 ",Materials
+1855,ALB,Albemarle,"$70,574 ",128:01:00,Jerry Masters Jr.,"$9,040,753 ",Materials
+1856,AMCR,Amcor Plc,"$41,332 ",239:01:00,Ronald Delia,"$9,872,758 ",Materials
+1857,AMR,Alpha Metallurgical Resources,"$111,777 ",32:01:00,David Stetson,"$3,549,785 ",Materials
+1858,AMRS,Amyris,"$117,489 ",617:01:00,John Melo,"$72,506,627 ",Materials
+1859,APD,Air Products and Chemicals,"$66,930 ",276:01:00,Seifollah Ghasemi,"$18,483,105 ",Materials
+1860,ARNC,Arconic,"$62,021 ",172:01:00,Timothy Myers,"$10,686,391 ",Materials
+1861,ASH,Ashland,"$67,146 ",139:01:00,Guillermo Novo,"$9,317,202 ",Materials
+1862,ASIX,Advansix,"$118,305 ",49:01:00,Erin Kane,"$5,751,844 ",Materials
+1863,ATI,ATI,"$63,461 ",120:01:00,Robert Wetherbee,"$7,590,345 ",Materials
+1864,ATR,AptarGroup,"$54,090 ",173:01:00,Stephan Tanda,"$9,379,483 ",Materials
+1865,AVD,American Vanguard,"$52,603 ",47:01:00,Eric Wintemute,"$2,464,213 ",Materials
+1866,AVNT,Avient,"$52,371 ",179:01:00,Robert Patterson,"$9,382,531 ",Materials
+1867,AVY,Avery Dennison,"$15,256 ",815:01:00,Mitchell Butier,"$12,433,721 ",Materials
+1868,AXTA,Axalta Coating Systems,"$63,344 ",107:01:00,Robert Bryant,"$6,775,218 ",Materials
+1869,BCPC,Balchem,"$59,524 ",97:01:00,Theodore Harris,"$5,761,673 ",Materials
+1870,BERY,Berry Global Group,"$46,842 ",245:01:00,Thomas Salmon,"$11,498,501 ",Materials
+1871,BLL,Ball,"$131,452 ",106:01:00,John Hayes,"$13,924,380 ",Materials
+1872,CBT,Cabot,"$71,871 ",115:01:00,Sean Keohane,"$8,242,487 ",Materials
+1873,CC,The Chemours,"$109,148 ",51:01:00,Mark Newman,"$5,537,669 ",Materials
+1874,CCF,Chase,"$47,770 ",27:01:00,Adam Chase,"$1,705,750 ",Materials
+1875,CCK,Crown,"$34,999 ",338:01:00,Timothy Donahue,"$11,815,065 ",Materials
+1876,CDE,Coeur Mining,"$57,626 ",64:01:00,Mitchell Krebs,"$3,703,859 ",Materials
+1877,CE,Celanese,"$90,427 ",139:01:00,Lori Ryerkerk,"$12,570,992 ",Materials
+1878,CENX,Century Aluminum Company,"$80,657 ",71:01:00,Jesse Gary,"$5,440,308 ",Materials
+1879,CF,CF Industries,"$128,415 ",91:01:00,W. Will,"$11,685,670 ",Materials
+1880,CLF,Cleveland-Cliffs,"$125,396 ",195:01:00,Celso Goncalves,"$24,494,731 ",Materials
+1881,CLW,Clearwater Paper,"$79,163 ",44:01:00,Arsen Kitch,"$3,508,328 ",Materials
+1882,CMC,Commercial Metals Company,"$57,580 ",177:01:00,Barbara Smith,"$10,207,641 ",Materials
+1883,CMP,Compass Minerals International,"$62,884 ",92:01:00,Kevin Crutchfield,"$6,540,703 ",Materials
+1884,CRS,Carpenter Technology,"$89,885 ",54:01:00,Tony Thene,"$4,814,008 ",Materials
+1885,CTVA,Corteva,"$85,572 ",166:01:00,Charles Magro,"$792,786 ",Materials
+1886,DD,DuPont de Nemours,"$108,955 ",139:01:00,Edward Breen,"$15,106,986 ",Materials
+1887,DNMR,Danimer Scientific,"$58,350 ","1,232:1",Stephen Croskrey,"$71,863,803 ",Materials
+1888,DOW,Dow,"$95,607 ",260:01:00,James Fitterling,"$24,858,892 ",Materials
+1889,ECL,Ecolab,"$52,339 ",160:01:00,Christophe Beck,"$8,365,889 ",Materials
+1890,ECVT,Ecovyst,"$117,502 ",76:01:00,Belgacem Chariag,"$8,953,055 ",Materials
+1891,EMN,Eastman Chemical Company,"$92,880 ",192:01:00,Mark Costa,"$17,798,861 ",Materials
+1892,ESI,Element Solutions Inc,"$53,279 ",96:01:00,Benjamin Gliklich,"$5,107,649 ",Materials
+1893,EXP,Eagle Materials,"$77,321 ",86:01:00,Michael Haack,"$6,635,750 ",Materials
+1894,FCX,Freeport-McMoRan,"$77,036 ",248:01:00,Richard Adkerson,"$19,111,894 ",Materials
+1895,FMC,FMC,"$54,297 ",156:01:00,Mark Douglas,"$8,489,671 ",Materials
+1896,FUL,H.B. Fuller Company,"$72,205 ",161:01:00,James Owens,"$11,608,854 ",Materials
+1897,GEF,Greif,"$43,200 ",187:01:00,Peter Watson,"$8,098,389 ",Materials
+1898,GLT,Glatfelter,"$53,800 ",86:01:00,Dante Parrini,"$4,611,728 ",Materials
+1899,GPK,Graphic Packaging Holding Company,"$53,803 ",136:01:00,Michael Doss,"$7,309,269 ",Materials
+1900,HAYN,Haynes International,"$66,477 ",38:01:00,Michael Shor,"$2,491,682 ",Materials
+1901,HCC,Warrior Met Coal,"$31,269 ",182:01:00,Walter Scheller III,"$5,679,932 ",Materials
+1902,HL,Hecla Mining Company,"$108,760 ",44:01:00,Phillips Baker Jr.,"$3,765,100 ",Materials
+1903,HUN,Huntsman,"$94,993 ",148:01:00,Peter Huntsman,"$14,066,141 ",Materials
+1904,HWKN,Hawkins,"$81,945 ",26:01:00,Patrick Hawkins,"$2,119,465 ",Materials
+1905,IFF,International Flavors & Fragrances,"$66,105 ",148:01:00,Andreas Fibig,"$9,767,380 ",Materials
+1906,IOSP,Innospec,"$86,517 ",114:01:00,Patrick Williams,"$9,897,900 ",Materials
+1907,IP,International Paper Company,"$88,581 ",172:01:00,Mark Sutton,"$15,228,707 ",Materials
+1908,IPI,Intrepid Potash,"$78,767 ",50:01:00,Robert Jornayvaz III,"$3,940,695 ",Materials
+1909,KALU,Kaiser Aluminum,"$73,249 ",75:01:00,Keith Harvey,"$5,505,512 ",Materials
+1910,KOP,Koppers,"$91,425 ",57:01:00,Leroy Ball,"$5,196,873 ",Materials
+1911,KRO,Kronos Worldwide,"$93,511 ",40:01:00,Robert Graham,"$3,735,000 ",Materials
+1912,KWR,Quaker Houghton,"$41,600 ",74:01:00,Andrew Tometich,"$2,456,570 ",Materials
+1913,LIN,Linde Plc,"$40,659 ",773:01:00,Stephen Angel,"$31,426,032 ",Materials
+1914,LPX,Louisiana-Pacific,"$81,300 ",116:01:00,William Southern,"$9,437,468 ",Materials
+1915,LTHM,Livent,"$66,239 ",72:01:00,Paul Graves,"$4,747,841 ",Materials
+1916,LXU,LSB Industries,"$89,904 ",39:01:00,Mark Behrman,"$3,482,297 ",Materials
+1917,LYB,LyondellBasell Industries NV,"$106,258 ",179:01:00,Bhavesh V. Patel,"$19,011,033 ",Materials
+1918,MLM,Martin Marietta Materials,"$90,423 ",165:01:00,C. Nye,"$14,939,587 ",Materials
+1919,MOS,The Mosaic Company,"$24,013 ",512:01:00,James O'Rourke,"$12,297,011 ",Materials
+1920,MTRN,Materion,"$68,247 ",65:01:00,Jugal Vijayvargiya,"$4,453,834 ",Materials
+1921,MTX,Minerals Technologies,"$51,830 ",137:01:00,Douglas Dietrich,"$7,085,896 ",Materials
+1922,MYE,Myers Industries,"$43,166 ",63:01:00,Michael McGaugh,"$2,699,503 ",Materials
+1923,NEM,Newmont,"$56,621 ",224:01:00,Thomas Palmer,"$12,667,105 ",Materials
+1924,NEU,NewMarket,"$103,521 ",24:01:00,Thomas Gottwald,"$2,469,929 ",Materials
+1925,NG,NovaGold Resources,"$435,199 ",11:01,Gregory Lang,"$4,748,048 ",Materials
+1926,NGVT,Ingevity,"$79,249 ",61:01:00,John Fortson,"$4,822,288 ",Materials
+1927,NUE,Nucor,"$142,635 ",81:01:00,Leon Topalian,"$11,618,019 ",Materials
+1928,OEC,Orion Engineered Carbons SA,"$86,308 ",68:01:00,Corning Painter,"$5,899,282 ",Materials
+1929,OI,O-I Glass,"$35,725 ",302:01:00,Andres Lopez,"$10,794,495 ",Materials
+1930,OLN,Olin,"$93,832 ",108:01:00,Scott Sutton,"$10,105,293 ",Materials
+1931,PKG,Packaging of America,"$78,062 ",156:01:00,Mark Kowlzan,"$12,157,313 ",Materials
+1932,PPG,PPG Industries,"$37,282 ",354:01:00,Michael McGarry,"$13,418,214 ",Materials
+1933,PTVE,Pactiv Evergreen,"$52,411 ",129:01:00,Michael King,"$6,504,291 ",Materials
+1934,RFP,Resolute Forest Products,"$105,213 ",38:01:00,Remi Lalonde,"$3,979,605 ",Materials
+1935,RGLD,Royal Gold,"$322,057 ",10:01,William Heissenbuttel,"$5,498,830 ",Materials
+1936,RPM,RPM International,"$53,131 ",170:01:00,Frank Sullivan,"$9,053,579 ",Materials
+1937,RS,Reliance Steel & Aluminum,"$66,069 ",216:01:00,James Hoffman,"$14,245,016 ",Materials
+1938,RYAM,Rayonier Advanced Materials,"$93,331 ",61:01:00,Paul Boynton,"$5,665,507 ",Materials
+1939,RYI,Ryerson Holding,"$67,621 ",79:01:00,Edward Lehner,"$5,319,454 ",Materials
+1940,SCCO,Southern Copper,"$47,359 ",31:01:00,Oscar Rocha,"$1,462,085 ",Materials
+1941,SCHN,Schnitzer Steel Industries,"$70,058 ",103:01:00,Tamara Lundgren,"$7,229,882 ",Materials
+1942,SCL,Stepan Company,"$105,330 ",51:01:00,"F. Stepan, Jr.","$5,380,963 ",Materials
+1943,SEE,Sealed Air,"$54,633 ",177:01:00,Edward Doheny II,"$9,674,692 ",Materials
+1944,SHW,The Sherwin-Williams Company,"$43,321 ",366:01:00,John Morikis,"$15,843,760 ",Materials
+1945,SLGN,Silgan,"$40,645 ",82:01:00,Adam Greenlee,"$2,931,122 ",Materials
+1946,SMG,The Scotts Miracle-Gro Company,"$61,592 ",133:01:00,James Hagedorn,"$8,169,861 ",Materials
+1947,SON,Sonoco Products Company,"$58,933 ",109:01:00,Robert Coker,"$6,618,454 ",Materials
+1948,SSRM,SSR Mining,"$59,865 ",46:01:00,Rodney Antal,"$5,572,402 ",Materials
+1949,STLD,Steel Dynamics,"$126,721 ",87:01:00,Mark Millett,"$10,999,918 ",Materials
+1950,SUM,Summit Materials,"$40,006 ",157:01:00,Anne Noonan,"$6,296,104 ",Materials
+1951,SWM,Mativ,"$51,521 ",100:01:00,Jeffrey Kramer,"$5,150,672 ",Materials
+1952,SXC,SunCoke Energy,"$94,566 ",57:01:00,Michael Rippey,"$5,410,975 ",Materials
+1953,SXT,Sensient Technologies,"$76,898 ",92:01:00,Paul Manning,"$7,062,124 ",Materials
+1954,TG,Tredegar,"$44,908 ",82:01:00,John Steitz,"$3,673,092 ",Materials
+1955,TMST,TimkenSteel,"$96,044 ",75:01:00,Michael Williams,"$7,161,838 ",Materials
+1956,TROX,Tronox Plc,"$61,101 ",84:01:00,Jean-Francois Turgeon,"$5,117,860 ",Materials
+1957,TRS,TriMas,"$37,489 ",122:01:00,Thomas Amato,"$4,582,126 ",Materials
+1958,TSE,Trinseo Plc,"$75,385 ",93:01:00,Frank Bozich,"$7,001,893 ",Materials
+1959,USLM,United States Lime & Minerals,"$70,851 ",51:01:00,Timothy Byrne,"$3,568,689 ",Materials
+1960,VHI,Valhi,"$129,210 ",58:01:00,Robert Graham,"$7,430,000 ",Materials
+1961,VMC,Vulcan Materials Company,"$80,122 ",130:01:00,J. Hill,"$10,774,795 ",Materials
+1962,VVV,Valvoline,"$32,448 ",163:01:00,Samuel Mitchell,"$5,294,758 ",Materials
+1963,WLK,Westlake,"$70,250 ",141:01:00,Albert Chao,"$9,892,719 ",Materials
+1964,WOR,Worthington Industries,"$94,369 ",80:01:00,B. Rose,"$7,537,924 ",Materials
+1965,WRK,WestRock Company,"$68,878 ",168:01:00,David Sewell,"$11,576,270 ",Materials
+1966,X,United States Steel,"$109,369 ",172:01:00,David Burritt,"$18,824,816 ",Materials
+1967,ZEUS,Olympic Steel,"$60,488 ",60:01:00,Richard Marabito,"$3,620,093 ",Materials
+1968,AAT,American Assets Trust,"$71,312 ",71:01:00,Ernest Rady,"$5,061,774 ",Real%20Estate
+1969,ADC,Agree Realty,"$100,744 ",73:01:00,Joel Agree,"$7,372,502 ",Real%20Estate
+1970,AHH,Armada Hoffler Properties,"$101,804 ",21:01,Louis Haddad,"$2,102,957 ",Real%20Estate
+1971,AIRC,Apartment Income REIT,"$69,070 ",44:01:00,Terry Considine,"$3,048,540 ",Real%20Estate
+1972,AIV,Apartment Investment and Management Company,"$144,781 ",38:01:00,Wesley Powell,"$5,445,198 ",Real%20Estate
+1973,AKR,Acadia Realty Trust,"$111,000 ",51:01:00,Kenneth Bernstein,"$5,645,279 ",Real%20Estate
+1974,ALEX,Alexander & Baldwin,"$114,582 ",36:01:00,Christopher Benjamin,"$4,136,553 ",Real%20Estate
+1975,ALX,Alexander's,"$57,039 ",3:01,Steven Roth,"$169,698 ",Real%20Estate
+1976,AMH,American Homes 4 Rent,"$63,624 ",72:01:00,David Singelyn,"$4,592,060 ",Real%20Estate
+1977,AMT,American Tower,"$37,616 ",428:01:00,Thomas Bartlett,"$16,114,574 ",Real%20Estate
+1978,APLE,Apple Hospitality REIT,"$154,780 ",39:01:00,Justin Knight,"$6,092,030 ",Real%20Estate
+1979,ARE,Alexandria Real Estate Equities,"$176,113 ",47:01:00,Stephen Richardson,"$8,320,228 ",Real%20Estate
+1980,AVB,AvalonBay Communities,"$79,313 ",181:01:00,Timothy Naughton,"$14,371,460 ",Real%20Estate
+1981,BDN,Brandywine Realty Trust,"$90,291 ",67:01:00,Gerard Sweeney,"$6,089,044 ",Real%20Estate
+1982,BFS,Saul Centers,"$64,717 ",4:01,B. Saul,"$248,465 ",Real%20Estate
+1983,BNL,Broadstone Net Lease,"$97,953 ",20:01,Christopher Czarnecki,"$4,428,205 ",Real%20Estate
+1984,BRT,BRT Apartments,"$649,344 ",3:01,Jeffrey Gould,"$1,991,288 ",Real%20Estate
+1985,BRX,Brixmor Property Group,"$112,576 ",74:01:00,James Taylor,"$8,359,959 ",Real%20Estate
+1986,BXP,Boston Properties,"$123,647 ",104:01:00,Owen Thomas,"$12,894,537 ",Real%20Estate
+1987,CBL,CBL & Associates Properties,"$86,404 ",120:01:00,Stephen Lebovitz,"$10,359,985 ",Real%20Estate
+1988,CBRE,CBRE Group,"$57,349 ",243:01:00,Robert Sulentic,"$13,908,085 ",Real%20Estate
+1989,CCI,Crown Castle,"$128,795 ",113:01:00,Jay Brown,"$14,553,510 ",Real%20Estate
+1990,CHCT,Community Healthcare Trust Incorporated,"$191,172 ",25:01:00,Timothy Wallace,"$4,788,861 ",Real%20Estate
+1991,CIO,City Office REIT,"$161,378 ",22:01,James Farrar,"$3,494,683 ",Real%20Estate
+1992,CLDT,Chatham Lodging Trust,"$112,958 ",41:01:00,Jeffrey Fisher,"$4,737,901 ",Real%20Estate
+1993,COLD,Americold Realty Trust,"$41,521 ",102:01:00,George Chappelle Jr.,"$1,489,978 ",Real%20Estate
+1994,CPT,Camden Property Trust,"$58,767 ",73:01:00,Richard Campo,"$4,285,423 ",Real%20Estate
+1995,CSR,Centerspace,"$52,346 ",44:01:00,Mark Decker Jr.,"$2,307,770 ",Real%20Estate
+1996,CTO,CTO Realty Growth,"$125,048 ",19:01,John Albright,"$2,357,788 ",Real%20Estate
+1997,CTRE,CareTrust REIT,"$444,120 ",15:01,Gregory Stapley,"$6,727,006 ",Real%20Estate
+1998,CUBE,CubeSmart,"$32,895 ",231:01:00,Christopher Marr,"$7,556,805 ",Real%20Estate
+1999,CUZ,Cousins Properties Incorporated,"$116,570 ",41:01:00,M. Connolly,"$4,804,609 ",Real%20Estate
+2000,CWK,Cushman & Wakefield Plc,"$91,472 ",219:01:00,W. White,"$19,990,492 ",Real%20Estate
+2001,DBRG,DigitalBridge Group,"$248,105 ",91:01:00,Marc Ganzi,"$22,459,034 ",Real%20Estate
+2002,DEA,Easterly Government Properties,"$164,691 ",30:01:00,William Trimble III,"$4,988,474 ",Real%20Estate
+2003,DEI,Douglas Emmett,"$61,284 ",148:01:00,Jordan Kaplan,"$9,071,244 ",Real%20Estate
+2004,DLR,Digital Realty Trust,"$122,276 ",140:01:00,A. Stein,"$17,139,601 ",Real%20Estate
+2005,DOC,Physicians Realty Trust,"$100,679 ",49:01:00,John Thomas,"$4,888,462 ",Real%20Estate
+2006,DRH,DiamondRock Hospitality Company,"$270,418 ",32:01:00,Mark Brugger,"$8,689,374 ",Real%20Estate
+2007,EGP,EastGroup Properties,"$113,497 ",48:01:00,Marshall Loeb,"$5,397,019 ",Real%20Estate
+2008,ELS,Equity LifeStyle Properties,"$30,514 ",135:01:00,Marguerite Nader,"$4,138,489 ",Real%20Estate
+2009,EPR,EPR Properties,"$207,476 ",40:01:00,Gregory Silvers,"$8,276,882 ",Real%20Estate
+2010,EPRT,Essential Properties Realty Trust,"$104,414 ",56:01:00,Peter Mavoides,"$5,893,000 ",Real%20Estate
+2011,EQC,Equity Commonwealth,"$334,701 ",19:01,David Helfand,"$6,274,233 ",Real%20Estate
+2012,EQIX,Equinix,"$122,075 ",190:01:00,Charles Meyers,"$23,248,193 ",Real%20Estate
+2013,EQR,Equity Residential,"$62,996 ",135:01:00,Mark Parrell,"$8,490,527 ",Real%20Estate
+2014,ESRT,Empire State Realty Trust,"$65,001 ",122:01:00,Anthony Malkin,"$7,920,132 ",Real%20Estate
+2015,ESS,Essex Property Trust,"$85,350 ",84:01:00,Michael Schall,"$7,183,068 ",Real%20Estate
+2016,EXPI,eXp World,"$43,110 ",44:01:00,Glenn Sanford,"$1,898,860 ",Real%20Estate
+2017,EXR,Extra Space Storage,"$43,361 ",169:01:00,Joseph Margolis,"$7,315,982 ",Real%20Estate
+2018,FCPT,Four Corners Property Trust,"$20,857 ",114:01:00,William Lenehan IV,"$2,381,945 ",Real%20Estate
+2019,FOR,Forestar Group,"$124,983 ",22:01,Daniel Bartok,"$2,710,839 ",Real%20Estate
+2020,FR,First Industrial Realty Trust,"$120,575 ",43:01:00,Peter Baccile,"$5,242,451 ",Real%20Estate
+2021,FRT,Federal Realty Investment Trust,"$125,770 ",60:01:00,Donald Wood,"$7,520,917 ",Real%20Estate
+2022,FSP,Franklin Street Properties,"$156,130 ",5:01,George Carter,"$806,000 ",Real%20Estate
+2023,GLPI,Gaming & Leisure Properties,"$231,714 ",58:01:00,Peter Carlino,"$13,407,438 ",Real%20Estate
+2024,GMRE,Global Medical REIT,"$252,500 ",6:01,Jeffrey Busch,"$1,506,795 ",Real%20Estate
+2025,GTY,Getty Realty,"$229,236 ",8:01,Christopher Constant,"$1,917,849 ",Real%20Estate
+2026,HHC,The Howard Hughes,"$84,900 ",45:01:00,David O'Reilly,"$3,851,162 ",Real%20Estate
+2027,HIW,Highwoods Properties,"$74,958 ",54:01:00,Theodore Klinck,"$4,082,600 ",Real%20Estate
+2028,HPP,Hudson Pacific Properties,"$119,895 ",88:01:00,Victor Coleman,"$10,548,816 ",Real%20Estate
+2029,HR,Healthcare Realty Trust,"$70,823 ",76:01:00,Peter Foss,"$4,151,644 ",Real%20Estate
+2030,HST,Host Hotels & Resorts,"$206,292 ",56:01:00,James Risoleo,"$11,520,730 ",Real%20Estate
+2031,HT,Hersha Hospitality Trust,"$109,401 ",51:01:00,Jay Shah,"$5,598,935 ",Real%20Estate
+2032,IIPR,Innovative Industrial Properties,"$179,765 ",39:01:00,Paul Smithers,"$6,969,088 ",Real%20Estate
+2033,INN,Summit Hotel Properties,"$119,761 ",36:01:00,Jonathan Stanner,"$4,932,109 ",Real%20Estate
+2034,INVH,Invitation Homes,"$63,730 ",152:01:00,Dallas Tanner,"$9,710,445 ",Real%20Estate
+2035,IRM,Iron Mountain Incorporated,"$41,600 ",410:01:00,William Meaney,"$17,046,118 ",Real%20Estate
+2036,IRT,Independence Realty Trust,"$55,669 ",81:01:00,Scott Schaeffer,"$4,517,543 ",Real%20Estate
+2037,JBGS,JBG SMITH Properties,"$85,139 ",189:01:00,W. Kelly,"$16,099,515 ",Real%20Estate
+2038,JLL,Jones Lang LaSalle Incorporated,"$60,300 ",213:01:00,Christian Ulbrich,"$12,856,819 ",Real%20Estate
+2039,JOE,The St. Joe Company,"$106,361 ",13:01,Jorge Gonzalez,"$1,383,478 ",Real%20Estate
+2040,KIM,Kimco Realty,"$108,000 ",97:01:00,Conor Flynn,"$10,488,138 ",Real%20Estate
+2041,KRC,Kilroy Realty,"$197,820 ",67:01:00,John Kilroy Jr.,"$13,132,136 ",Real%20Estate
+2042,KRG,Kite Realty Group Trust,"$93,118 ",62:01:00,John Kite,"$5,815,004 ",Real%20Estate
+2043,KW,Kennedy-Wilson,"$240,000 ",74:01:00,William McMorrow,"$16,197,278 ",Real%20Estate
+2044,LAMR,Lamar Advertising Company,"$65,264 ",91:01:00,Sean Reilly,"$5,934,758 ",Real%20Estate
+2045,LSI,Life Storage,"$35,260 ",147:01:00,Joseph Saffire,"$5,168,691 ",Real%20Estate
+2046,LTC,LTC Properties,"$215,663 ",20:01,Wendy Simpson,"$4,204,139 ",Real%20Estate
+2047,LXP,LXP Industrial Trust,"$153,100 ",52:01:00,T. Eglin,"$7,994,185 ",Real%20Estate
+2048,MAA,Mid-America Apartment Communities,"$52,777 ",145:01:00,H. Bolton,"$7,667,655 ",Real%20Estate
+2049,MAC,The Macerich Company,"$92,618 ",89:01:00,Thomas O'Hern,"$8,246,379 ",Real%20Estate
+2050,MMI,Marcus & Millichap,"$74,425 ",111:01:00,Hessam Nadji,"$8,224,777 ",Real%20Estate
+2051,MPW,Medical Properties Trust,"$173,092 ",98:01:00,Edward Aldag Jr.,"$17,036,629 ",Real%20Estate
+2052,NHI,National Health Investors,"$341,618 ",8:01,Eric Mendelsohn,"$2,567,353 ",Real%20Estate
+2053,NMRK,Newmark Group,"$86,497 ",146:01:00,Barry Gosin,"$12,613,061 ",Real%20Estate
+2054,NNN,National Retail Properties,"$99,690 ",78:01:00,Julian Whitehurst,"$7,785,586 ",Real%20Estate
+2055,NSA,National Storage Affiliates Trust,"$29,115 ",109:01:00,Tamara Fischer,"$3,175,600 ",Real%20Estate
+2056,NXRT,NexPoint Residential Trust,"$125,293 ",20:01,James Dondero,"$2,473,496 ",Real%20Estate
+2057,O,Realty Income,"$136,304 ",94:01:00,Sumit Roy,"$12,861,011 ",Real%20Estate
+2058,OFC,Corporate Office Properties Trust,"$109,360 ",50:01:00,Stephen Budorick,"$5,502,562 ",Real%20Estate
+2059,OHI,Omega Healthcare Investors,"$203,435 ",51:01:00,C. Pickett,"$10,374,954 ",Real%20Estate
+2060,OLP,One Liberty Properties,"$291,000 ",6:01,Patrick Callan Jr.,"$1,808,489 ",Real%20Estate
+2061,OUT,OUTFRONT Media,"$74,458 ",125:01:00,Jeremy Male,"$9,324,032 ",Real%20Estate
+2062,PCH,PotlatchDeltic,"$62,936 ",90:01:00,Eric Cremers,"$5,690,852 ",Real%20Estate
+2063,PDM,Piedmont Office Realty Trust,"$122,622 ",29:01:00,Christopher Smith,"$3,560,678 ",Real%20Estate
+2064,PEAK,Healthpeak Properties,"$177,521 ",66:01:00,Thomas Herzog,"$11,713,883 ",Real%20Estate
+2065,PEB,Pebblebrook Hotel Trust,"$161,089 ",70:01:00,Jon Bortz,"$11,273,094 ",Real%20Estate
+2066,PECO,Phillips Edison & Company,"$106,942 ",82:01:00,Jeffrey Edison,"$8,807,044 ",Real%20Estate
+2067,PGRE,Paramount Group,"$87,636 ",111:01:00,Albert Behler,"$9,746,050 ",Real%20Estate
+2068,PK,Park Hotels & Resorts,"$249,093 ",38:01:00,Thomas Baltimore Jr.,"$9,412,399 ",Real%20Estate
+2069,PLD,Prologis,"$114,183 ",218:01:00,Hamid Moghadam,"$24,901,490 ",Real%20Estate
+2070,PSA,Public Storage,"$28,787 ",360:01:00,Joseph Russell,"$10,358,153 ",Real%20Estate
+2071,RDFN,Redfin,"$69,425 ",4:01,Glenn Kelman,"$299,341 ",Real%20Estate
+2072,REG,Regency Centers,"$111,237 ",63:01:00,Lisa Palmer,"$7,026,315 ",Real%20Estate
+2073,RHP,Ryman Hospitality Properties,"$28,191 ",396:01:00,Colin Reed,"$11,176,606 ",Real%20Estate
+2074,RLGY,Anywhere Real Estate,"$71,694 ",176:01:00,Ryan Schneider,"$12,619,247 ",Real%20Estate
+2075,RLJ,RLJ Lodging Trust,"$153,744 ",106:01:00,Leslie Hale,"$16,300,593 ",Real%20Estate
+2076,RMAX,RE/MAX,"$101,792 ",44:01:00,Adam Contos,"$4,439,971 ",Real%20Estate
+2077,ROIC,Retail Opportunity Investments,"$172,475 ",37:01:00,Stuart Tanz,"$6,306,609 ",Real%20Estate
+2078,RPT,RPT Realty,"$87,321 ",72:01:00,Brian Harper,"$6,261,712 ",Real%20Estate
+2079,RYN,Rayonier,"$107,896 ",49:01:00,David Nunes,"$5,316,481 ",Real%20Estate
+2080,SAFE,Safehold,$0 ,10:01,Jay Sugarman,$0 ,Real%20Estate
+2081,SBAC,SBA Communications,"$96,104 ",104:01:00,Jeffrey Stoops,"$9,995,179 ",Real%20Estate
+2082,SBRA,Sabra Health Care REIT,"$215,071 ",28:01:00,Richard Matros,"$6,091,584 ",Real%20Estate
+2083,SHO,Sunstone Hotel Investors,"$202,697 ",16:01,Douglas Pasquale,"$2,913,754 ",Real%20Estate
+2084,SITC,SITE Centers,"$97,969 ",71:01:00,David Lukes,"$6,910,219 ",Real%20Estate
+2085,SKT,Tanger Factory Outlet Centers,"$16,817 ",302:01:00,Stephen Yalof,"$5,082,937 ",Real%20Estate
+2086,SLG,SL Green Realty,"$125,475 ",168:01:00,Marc Holliday,"$21,088,057 ",Real%20Estate
+2087,SPG,Simon Property Group,"$64,069 ",163:01:00,David Simon,"$10,475,192 ",Real%20Estate
+2088,SRC,Spirit Realty Capital,"$122,763 ",102:01:00,Jackson Hsieh,"$12,549,978 ",Real%20Estate
+2089,SRG,Seritage Growth Properties,"$149,500 ",38:01:00,Andrea Olshan,"$5,535,608 ",Real%20Estate
+2090,STAG,STAG Industrial,"$251,646 ",18:01,Benjamin Butcher,"$4,449,298 ",Real%20Estate
+2091,STAR,iStar,"$229,832 ",10:01,Jay Sugarman,"$2,327,438 ",Real%20Estate
+2092,STOR,STORE Capital,"$114,830 ",74:01:00,Mary Fedewa,"$7,028,435 ",Real%20Estate
+2093,SUI,Sun Communities,"$32,037 ",776:01:00,Gary Shiffman,"$13,828,288 ",Real%20Estate
+2094,TRC,Tejon Ranch,"$53,728 ",35:01:00,Gregory Bielli,"$1,872,299 ",Real%20Estate
+2095,TRNO,Terreno Realty,"$183,791 ",21:01,W. Baird,"$3,840,303 ",Real%20Estate
+2096,UBA,Urstadt Biddle Properties,"$80,100 ",22:01,Willing Biddle,"$1,737,061 ",Real%20Estate
+2097,UDR,UDR,"$76,519 ",186:01:00,Thomas Toomey,"$14,228,333 ",Real%20Estate
+2098,UE,Urban Edge Properties,"$102,482 ",67:01:00,Jeffrey Olson,"$6,830,104 ",Real%20Estate
+2099,UMH,UMH Properties,"$41,943 ",101:01:00,Samuel Landy,"$4,231,738 ",Real%20Estate
+2100,UNIT,Uniti Group,"$88,158 ",57:01:00,Kenneth Gunderman,"$5,018,444 ",Real%20Estate
+2101,VICI,VICI Properties,"$28,107 ",273:01:00,Edward Pitoniak,"$7,662,894 ",Real%20Estate
+2102,VNO,Vornado Realty Trust,"$62,287 ",157:01:00,Steven Roth,"$9,763,351 ",Real%20Estate
+2103,VRE,Veris Residential,"$112,172 ",99:01:00,Mahbod Nia,"$10,969,103 ",Real%20Estate
+2104,VTR,Ventas,"$111,261 ",128:01:00,Debra Cafaro,"$14,263,728 ",Real%20Estate
+2105,WE,WeWork,"$72,029 ",296:01:00,Sandeep Mathrani,"$21,308,250 ",Real%20Estate
+2106,WELL,Welltower,"$100,206 ",127:01:00,Shankh Mitra,"$12,753,710 ",Real%20Estate
+2107,WPC,W. P. Carey,"$162,508 ",62:01:00,Jason Fox,"$10,103,384 ",Real%20Estate
+2108,WRE,Elme Communities,"$167,980 ",26:01:00,Paul McDermott,"$4,416,256 ",Real%20Estate
+2109,WSR,Whitestone REIT,"$75,650 ",28:01:00,James Mastandrea,"$2,089,570 ",Real%20Estate
+2110,WY,Weyerhaeuser Company,"$76,688 ",166:01:00,Devin Stockfish,"$12,715,531 ",Real%20Estate
+2111,XHR,Xenia Hotels & Resorts,"$269,348 ",26:01:00,Marcel Verbaas,"$6,953,315 ",Real%20Estate
+2112,Z,Zillow Group,"$143,626 ",146:01:00,Richard Barton,"$20,955,934 ",Real%20Estate
+2113,AEE,Ameren,"$132,415 ",74:01:00,Warner Baxter,"$9,807,836 ",Utilities
+2114,AEP,American Electric Power Company,"$111,771 ",135:01:00,Nicholas Akins,"$15,051,215 ",Utilities
+2115,AES,The AES,"$47,543 ",302:01:00,Andres Gluski,"$14,379,190 ",Utilities
+2116,AGR,Avangrid,"$134,891 ",103:01:00,Dennis Arriola,"$13,899,563 ",Utilities
+2117,ALE,ALLETE,"$114,667 ",22:01,Bethany Owen,"$2,578,539 ",Utilities
+2118,ARTNA,Artesian Resources,"$87,764 ",11:01,Dian Taylor,"$940,287 ",Utilities
+2119,ATO,Atmos Energy,"$81,388 ",59:01:00,John Akers,"$4,839,562 ",Utilities
+2120,AVA,Avista,"$162,376 ",28:01:00,Dennis Vermillion,"$4,577,539 ",Utilities
+2121,AWK,American Water Works Company,"$91,238 ",81:01:00,Walter Lynch,"$7,398,128 ",Utilities
+2122,AWR,American States Water Company,"$80,676 ",56:01:00,Robert Sprowls,"$4,542,428 ",Utilities
+2123,BKH,Black Hills,"$109,940 ",42:01:00,Linden Evans,"$4,440,908 ",Utilities
+2124,CMS,CMS Energy,"$135,987 ",51:01:00,Garrick Rochow,"$6,871,068 ",Utilities
+2125,CNP,CenterPoint Energy,"$103,170 ",366:01:00,David Lesar,"$37,809,810 ",Utilities
+2126,CPK,Chesapeake Utilities,"$79,940 ",35:01:00,Jeffry Householder,"$2,826,471 ",Utilities
+2127,CWEN,Clearway Energy,"$106,778 ",29:01:00,Christopher Sotos,"$3,092,509 ",Utilities
+2128,CWT,California Water Service Group,"$140,847 ",26:01:00,Martin Kropelnicki,"$3,718,087 ",Utilities
+2129,D,Dominion Energy,"$110,406 ",74:01:00,Robert Blue,"$8,161,083 ",Utilities
+2130,DTE,DTE Energy Company,"$136,472 ",82:01:00,Gerardo Norcia,"$11,128,277 ",Utilities
+2131,DUK,Duke Energy,"$115,895 ",142:01:00,Lynn Good,"$16,451,236 ",Utilities
+2132,ED,Consolidated Edison,"$132,803 ",78:01:00,Timothy Cawley,"$10,342,198 ",Utilities
+2133,EIX,Edison International,"$175,717 ",82:01:00,Pedro Pizarro,"$14,364,340 ",Utilities
+2134,ES,Eversource Energy,"$133,297 ",50:01:00,Joseph Nolan Jr.,"$6,467,078 ",Utilities
+2135,ETR,Entergy,"$135,272 ",126:01:00,Leo Denault,"$17,045,744 ",Utilities
+2136,EVRG,Evergy,"$133,369 ",84:01:00,David Campbell,"$11,138,082 ",Utilities
+2137,EXC,Exelon,"$160,633 ",98:01:00,Christopher Crane,"$15,757,378 ",Utilities
+2138,FE,FirstEnergy,"$124,120 ",86:01:00,Steven Strah,"$10,714,062 ",Utilities
+2139,HE,Hawaiian Electric Industries,"$138,267 ",43:01:00,Constance Lau,"$5,933,523 ",Utilities
+2140,IDA,IDACORP,"$145,169 ",39:01:00,Lisa Grow,"$5,645,525 ",Utilities
+2141,LNT,Alliant Energy,"$110,610 ",94:01:00,John Larsen,"$10,449,260 ",Utilities
+2142,MGEE,MGE Energy,"$116,162 ",23:01,Jeffrey Keebler,"$2,628,028 ",Utilities
+2143,MSEX,Middlesex Water Company,"$79,360 ",16:01,Dennis Doll,"$1,290,444 ",Utilities
+2144,NEE,NextEra Energy,"$132,798 ",191:01:00,James Robo,"$25,335,936 ",Utilities
+2145,NFG,National Fuel Gas Company,"$84,782 ",82:01:00,David Bauer,"$6,951,639 ",Utilities
+2146,NI,NiSource,"$124,663 ",76:01:00,Joseph Hamrock,"$9,535,782 ",Utilities
+2147,NJR,New Jersey Resources,"$124,004 ",37:01:00,Stephen Westhoven,"$4,612,774 ",Utilities
+2148,NOVA,Sunnova Energy International,"$56,908 ",26:01:00,William Berger,"$1,465,350 ",Utilities
+2149,NRG,NRG Energy,"$126,289 ",86:01:00,Mauricio Gutierrez,"$10,854,224 ",Utilities
+2150,NWE,NorthWestern,"$125,063 ",28:01:00,Robert Rowe,"$3,445,367 ",Utilities
+2151,NWN,Northwest Natural Holding,"$113,241 ",33:01:00,David Anderson,"$3,759,354 ",Utilities
+2152,OGE,OGE Energy,"$125,889 ",64:01:00,Sean Trauschke,"$8,031,634 ",Utilities
+2153,OGS,ONE Gas,"$97,165 ",27:01:00,Robert McAnnally,"$2,584,173 ",Utilities
+2154,ORA,Ormat Technologies,"$79,000 ",14:01,Doron Blachar,"$1,074,687 ",Utilities
+2155,OTTR,Otter Tail,"$70,598 ",67:01:00,Charles MacFarlane,"$4,732,251 ",Utilities
+2156,PCG,PG&E,"$201,157 ",255:01:00,Patricia Poppe,"$51,198,471 ",Utilities
+2157,PEG,Public Service Enterprise Group Incorporated,"$146,034 ",97:01:00,Ralph Izzo,"$14,208,674 ",Utilities
+2158,PNM,PNM Resources,"$128,500 ",44:01:00,Patricia Collawn,"$5,594,739 ",Utilities
+2159,PNW,Pinnacle West Capital,"$136,805 ",59:01:00,Jeffrey Guldner,"$8,100,157 ",Utilities
+2160,POR,Portland General Electric Company,"$118,857 ",46:01:00,Maria Pope,"$5,408,355 ",Utilities
+2161,PPL,PPL,"$147,670 ",77:01:00,Vincent Sorgi,"$11,356,481 ",Utilities
+2162,SJI,South Jersey Industries,"$109,812 ",49:01:00,Michael Renna,"$5,359,523 ",Utilities
+2163,SJW,SJW Group,"$100,044 ",33:01:00,Eric Thornburg,"$3,288,886 ",Utilities
+2164,SO,The Southern Company,"$132,450 ",161:01:00,Thomas Fanning,"$21,243,559 ",Utilities
+2165,SR,Spire,"$95,900 ",52:01:00,Suzanne Sitherwood,"$4,974,714 ",Utilities
+2166,SRE,Sempra Energy,"$137,800 ",179:01:00,Jeffrey Martin,"$24,675,982 ",Utilities
+2167,SWX,Southwest Gas,"$115,501 ",49:01:00,John Hester,"$5,674,579 ",Utilities
+2168,UGI,UGI,"$71,717 ",85:01:00,Roger Perreault,"$6,060,694 ",Utilities
+2169,UTL,Unitil,"$103,872 ",23:01,Thomas Meissner Jr.,"$2,426,750 ",Utilities
+2170,VIA,Via Renewables,"$75,782 ",30:01:00,W. Maxwell III,"$2,247,615 ",Utilities
+2171,VST,Vistra,"$110,183 ",91:01:00,Curtis Morgan,"$10,075,627 ",Utilities
+2172,WEC,WEC Energy Group,"$122,530 ",151:01:00,J. Fletcher,"$18,481,871 ",Utilities
+2173,WTRG,Essential Utilities,"$105,003 ",51:01:00,Christopher Franklin,"$5,339,716 ",Utilities
+2174,XEL,Xcel Energy,"$122,532 ",95:01:00,Robert Frenzel,"$8,350,364 ",Utilities
