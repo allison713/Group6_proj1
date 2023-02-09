@@ -1,0 +1,409 @@
+,2022 Ranking,company_name,CEO,salary,median_worker_pay,Total Employees,Year Founded,Revenue (Billions),Profits (Billions),Assets (Billions),Market Value (Billions),Industry,industry
+0,1,Berkshire Hathaway,Warren Edward Buffett,"$373,204 ","$58,881 ",372000,1939,276.09,89.8,958.78,741.48,Diversified Financials,Financials
+1,7,Apple,Tim Cook,"$98,734,394 ","$68,254 ",154000,1976,378.7,100.56,381.19,2640.32,Technology Hardware & Equipment,Information%20Technology
+2,9,Bank of America,Brian Moynihan,"$23,729,169 ","$102,497 ",208000,1998,96.83,31.0,3238.22,303.1,Banking,Financials
+3,11,Alphabet,Sundar Pichai,"$6,322,599 ","$295,884 ",156500,1998,257.49,76.03,359.27,1581.72,IT Software & Services,Communication%20Services
+4,12,Microsoft,Satya Nadella,"$54,946,310 ","$190,302 ",181000,1975,184.9,71.18,340.39,2054.37,IT Software & Services,Information%20Technology
+5,19,Verizon Communications,Hans Vestberg,"$20,342,871 ","$122,492 ",118400,1983,134.35,21.52,366.6,218.02,Telecommunications Services,Communication%20Services
+6,20,AT&T,John Stankey,"$24,820,879 ","$107,570 ",203000,1876,163.02,17.33,551.62,141.79,Telecommunications Services,Communication%20Services
+7,23,Walmart,C. Douglas McMillon,"$25,670,673 ","$25,335 ",2300000,1962,572.75,13.67,244.86,431.64,Retailing,Consumer%20Staples
+8,26,Chevron,Michael K. Wirth,"$22,610,285 ","$183,531 ",42595,1879,156.29,15.62,239.54,316.23,Oil & Gas Operations,Energy
+9,27,Citigroup,Jane Fraser,"$20,541,324 ","$55,285 ",223400,1998,79.94,18.23,2394.1,101.48,Diversified Financials,Financials
+10,32,Comcast,Brian L. Roberts,"$33,978,581 ","$83,840 ",189000,1963,116.38,14.16,275.9,205.72,Media,Communication%20Services
+11,34,Meta Platforms,Mark Elliot Zuckerberg,"$26,823,061 ","$292,785 ",71970,2004,117.93,39.37,165.99,499.86,IT Software & Services,Communication%20Services
+12,36,Morgan Stanley,James P. Gorman,"$34,941,635 ","$137,069 ",74814,1924,60.22,14.58,1222.23,150.95,Diversified Financials,Financials
+13,40,Johnson & Johnson,Joaquin Duato,"$26,741,959 ","$90,000 ",141700,1886,94.88,19.83,182.02,477.38,Drugs & Biotechnology,Health%20Care
+14,42,CVS Health,Karen S. Lynch,"$20,388,412 ","$45,010 ",300000,1963,291.98,7.91,240.5,133.52,Retailing,Health%20Care
+15,43,Pfizer,Albert Bourla,"$24,353,219 ","$92,986 ",79000,1849,81.49,21.98,181.48,271.83,Drugs & Biotechnology,Health%20Care
+16,51,Intel,Patrick Gelsinger,"$178,590,400 ","$104,400 ",121100,1968,79.02,19.87,168.41,190.29,Semiconductors,Information%20Technology
+17,67,AbbVie,Richard A. Gonzalez,"$23,912,154 ","$149,662 ",50000,2013,56.2,11.46,146.53,273.76,Drugs & Biotechnology,Health%20Care
+18,74,MetLife,Michel A. Khalaf,"$16,621,373 ","$76,392 ",43000,1868,71.08,6.55,759.71,57.39,Insurance,Financials
+19,76,The Home Depot,Edward P. Decker,"$13,059,751 ","$28,697 ",490600,1978,151.16,16.43,71.88,310.12,Retailing,Consumer%20Discretionary
+20,84,Cigna,David Cordani,"$19,872,266 ","$66,917 ",73700,1792,174.27,5.36,151.02,81.2,Insurance,Health%20Care
+21,85,Prudential Financial,Charles F. Lowrey,"$19,799,737 ","$114,931 ",40916,1875,70.93,7.61,937.58,43.6,Diversified Financials,Financials
+22,86,PepsiCo,Ramon L. Laguarta,"$25,506,607 ","$52,297 ",309000,1965,79.47,7.62,92.38,238.13,"Food, Drink & Tobacco",Consumer%20Staples
+23,88,Elevance Health,Gail K. Boudreaux,"$19,348,241 ","$51,005 ",98200,2004,144.35,6.24,100.49,121.25,Drugs & Biotechnology,Health%20Care
+24,90,American International Group,Peter S. Zaffino,"$21,905,220 ","$71,936 ",36600,1919,52.06,9.39,521.83,48.73,Insurance,Financials
+25,92,Cisco Systems,Chuck Robbins,"$29,283,936 ","$117,400 ",79500,1984,51.55,11.82,94.26,213.36,Technology Hardware & Equipment,Information%20Technology
+26,100,United Parcel Service,Carol B. Tomé,"$27,620,893 ","$50,379 ",534000,1907,97.2,12.89,69.4,163.03,Transportation,Industrials
+27,109,Raytheon Technologies,Gregory J. Hayes,"$23,316,063 ","$112,078 ",174000,2020,64.36,3.86,161.4,149.76,Aerospace & Defense,Industrials
+28,115,Oracle,Safara Catz,"$138,192,032 ","$75,043 ",132000,1977,41.83,7.56,108.64,203.34,IT Software & Services,Information%20Technology
+29,120,Thermo Fisher Scientific,Marc N. Casper ,"$21,234,358 ","$83,666 ",130000,1956,39.21,7.72,95.12,219.71,Health Care Equipment & Services,Health%20Care
+30,123,Costco Wholesale,W. Craig Jelinek,"$9,905,070 ","$45,450 ",288000,1983,210.22,5.51,63.08,253.39,Retailing,Consumer%20Staples
+31,126,Charter Communications,Thomas M. Rutledge,"$41,860,263 ","$60,007 ",93700,1993,51.68,4.65,143.39,97.92,Media,Communication%20Services
+32,128,ConocoPhillips,Ryan Lance,"$23,886,640 ","$179,428 ",9900,1875,46.06,8.08,90.66,124.43,Oil & Gas Operations,Energy
+33,135,Abbott Laboratories,Robert B. Ford,"$24,914,886 ","$97,952 ",113000,1888,44.51,7.7,75.2,210.98,Health Care Equipment & Services,Health%20Care
+34,139,Caterpillar,James Umpleby,"$24,298,032 ","$51,102 ",107700,1925,50.98,6.49,82.79,115.91,Capital Goods,Industrials
+35,143,Truist Financial,William H. Rogers Jr.,"$10,395,426 ","$95,659 ",52641,1872,23.19,6.44,544.34,67.64,Banking,Financials
+36,148,Visa,Alfred F. Kelly Jr.,"$28,103,602 ","$152,395 ",21500,1958,25.48,12.84,81.93,436.49,Business Services & Supplies,Information%20Technology
+37,150,Target,Brian Cornell,"$19,758,766 ","$25,501 ",450000,1902,106.0,6.95,53.81,111.76,Retailing,Consumer%20Discretionary
+38,153,Deere & Company,John C. May,"$19,912,826 ","$82,240 ",75600,1837,44.46,5.64,79.61,123.81,Capital Goods,Industrials
+39,159,Danaher,Rainer M. Blair,"$17,152,267 ","$66,203 ",80000,1984,30.28,6.46,83.39,189.4,Conglomerates,Health%20Care
+40,163,FedEx,Frederick W. Smith,"$10,596,150 ","$39,177 ",600000,1971,91.55,5.13,84.11,53.19,Transportation,Industrials
+41,166,Broadcom,Hock E. Tan,"$60,703,627 ","$247,541 ",20000,1961,28.5,7.83,73.22,239.64,Semiconductors,Information%20Technology
+42,172,Lockheed Martin,James D. Taiclet,"$18,111,211 ","$110,113 ",114000,1912,65.75,6.21,51.51,118.82,Aerospace & Defense,Industrials
+43,173,BlackRock,Laurence Douglas Fink,"$32,587,335 ","$164,492 ",18400,1988,20.3,6.14,152.65,100.8,Diversified Financials,Financials
+44,175,Duke Energy,Lynn J. Good,"$16,451,236 ","$115,895 ",27605,1904,25.1,3.91,174.18,87.98,Utilities,Utilities
+45,176,Dell Technologies,Michael Dell,"$3,467,347 ","$70,562 ",133000,1984,106.84,5.56,92.74,35.64,Technology Hardware & Equipment,Information%20Technology
+46,185,Honeywell International,Darius Adamczyk,"$26,100,120 ","$75,529 ",99000,1906,34.39,5.54,64.47,130.67,Conglomerates,Industrials
+47,191,Micron Technology,Sanjay Mehrotra,"$28,840,809 ","$48,310 ",43000,1978,31.17,9.02,63.7,77.51,Semiconductors,Information%20Technology
+48,195,HCA Healthcare,Samuel N. Hazen,"$20,635,260 ","$56,044 ",284000,1968,59.72,6.81,52.21,63.62,Health Care Equipment & Services,Health%20Care
+49,196,Dow,Jim Fitterling,"$24,858,892 ","$95,607 ",35700,1897,58.35,6.85,63.34,50.35,Chemicals,Materials
+50,207,Gilead Sciences,Daniel O'Day,"$19,229,466 ","$211,687 ",14400,1987,27.37,6.22,67.95,78.17,Drugs & Biotechnology,Health%20Care
+51,209,NVIDIA,Jensen Huang,"$23,737,661 ","$217,542 ",22473,1993,26.91,9.75,44.19,489.83,Semiconductors,Information%20Technology
+52,210,Amgen,Robert A. Bradway,"$21,721,154 ","$130,589 ",24200,1980,25.99,5.89,61.16,133.63,Drugs & Biotechnology,Health%20Care
+53,211,Union Pacific,Lance M. Fritz,"$14,523,819 ","$89,878 ",29905,1862,22.66,6.81,64.05,147.23,Transportation,Industrials
+54,215,Philip Morris International,Jacek Olczak,"$10,557,568 ","$18,196 ",69600,1847,31.51,9.0,41.73,159.18,"Food, Drink & Tobacco",Consumer%20Staples
+55,216,PayPal,Dan Schulman,"$32,070,353 ","$83,905 ",30900,1998,25.56,4.17,75.8,100.22,Business Services & Supplies,Information%20Technology
+56,222,Mondelez International,Dirk van de Put,"$16,128,320 ","$31,024 ",79000,2012,28.72,4.3,67.09,89.98,"Food, Drink & Tobacco",Consumer%20Staples
+57,223,McDonald's,Christopher J. Kempczinski,"$20,028,132 ","$8,897 ",200000,1955,23.22,7.55,53.85,185.03,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+58,236,Northrop Grumman,Kathy Warden,"$19,876,767 ","$119,721 ",88000,1994,35.67,7.0,42.58,69.84,Aerospace & Defense,Industrials
+59,238,Marathon Petroleum,Michael J. Hennigan,"$21,185,206 ","$148,850 ",17700,2009,119.78,1.72,85.37,48.64,Oil & Gas Operations,Energy
+60,241,Netflix,Reed Hastings Ted Sarandos,"$40,823,725 ","$201,743 ",11300,1997,30.4,5.01,45.33,95.68,Media,Communication%20Services
+61,248,Exelon,Chris M. Crane,"$15,757,378 ","$160,633 ",31518,2000,39.27,1.71,133.01,47.68,Utilities,Utilities
+62,248,Humana,Bruce D. Broussard,"$16,528,036 ","$64,797 ",96900,1961,84.09,2.93,44.75,56.34,Drugs & Biotechnology,Health%20Care
+63,250,General Dynamics,Phebe N. Novakovic,"$23,553,862 ","$92,585 ",103100,1952,38.47,3.26,50.07,66.42,Aerospace & Defense,Industrials
+64,256,NextEra Energy,James L. Robo,"$25,335,936 ","$132,798 ",15000,1984,23.74,1.46,144.94,145.27,Utilities,Utilities
+65,259,HP,Enrique Lores,"$20,733,806 ","$67,667 ",51000,1939,64.98,6.52,38.91,38.75,Technology Hardware & Equipment,Information%20Technology
+66,269,Centene,Sarah London,"$20,637,990 ","$71,217 ",72500,1984,125.98,1.35,79.76,49.2,Drugs & Biotechnology,Health%20Care
+67,271,Freeport-McMoRan,Richard Adkerson,"$19,111,894 ","$77,036 ",24700,1897,24.31,5.11,48.83,60.97,Materials,Materials
+68,276,Occidental Petroleum,Vicki A. Hollub,"$11,068,539 ","$157,013 ",11678,1920,25.96,2.31,78.47,53.05,Oil & Gas Operations,Energy
+69,278,McKesson,Brian S. Tyler,"$18,152,082 ","$62,610 ",76000,1833,257.01,1.41,63.71,47.66,Drugs & Biotechnology,Health%20Care
+70,290,Dominion Energy,Robert M. Blue,"$8,161,083 ","$110,406 ",17100,1983,13.96,3.29,99.59,68.82,Utilities,Utilities
+71,300,AmerisourceBergen,Steven H. Collis,"$14,873,815 ","$65,076 ",42000,1969,221.1,1.61,57.58,33.25,Drugs & Biotechnology,Health%20Care
+72,303,Starbucks,Howard Schultz,"$20,425,162 ","$12,935 ",383000,1971,30.36,4.39,28.83,89.63,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+73,304,Nucor,Leon J. Topalian,"$11,618,019 ","$142,635 ",28800,1905,39.96,7.95,28.63,43.29,Materials,Materials
+74,310,Blackstone,Stephen Allen Schwarzman,"$86,380,331 ","$220,000 ",3795,1985,15.47,5.33,43.34,132.17,Diversified Financials,Financials
+75,315,EOG Resources,Ezra Y. Yacob,"$9,752,887 ","$185,838 ",2800,1985,19.78,4.66,38.24,67.97,Oil & Gas Operations,Energy
+76,317,Automatic Data Processing,Carlos Rodriguez,"$20,827,092 ","$62,238 ",56000,1949,15.7,2.74,59.1,93.89,Business Services & Supplies,Information%20Technology
+77,318,Phillips 66,Greg C. Garland,"$20,953,206 ","$161,584 ",14000,2012,111.7,1.31,55.59,40.23,Oil & Gas Operations,Energy
+78,319,Tyson Foods,Donnie King,"$12,014,497 ","$41,967 ",137000,1935,49.52,3.7,36.82,33.74,"Food, Drink & Tobacco",Consumer%20Staples
+79,323,Altria Group,Billy Gifford,"$12,626,972 ","$142,614 ",6000,1919,21.11,2.46,39.52,100.66,"Food, Drink & Tobacco",Consumer%20Staples
+80,324,Applied Materials,Gary E. Dickerson,"$35,265,559 ","$109,304 ",27000,1967,24.15,6.55,25.43,99.65,Semiconductors,Information%20Technology
+81,334,Discover Financial Services,Roger C. Hochschild,"$12,087,218 ","$63,770 ",16700,1985,12.8,5.42,110.61,31.69,Business Services & Supplies,Financials
+82,341,Ameriprise Financial,James Michael Cracchiolo,"$21,229,464 ","$129,010 ",12000,1894,13.89,2.76,175.98,30.97,Diversified Financials,Financials
+83,357,DuPont de Nemours,Edward D. Breen,"$15,106,986 ","$108,955 ",28000,2017,16.65,6.47,45.71,34.51,Chemicals,Materials
+84,360,Dollar General,Todd Vasos,"$16,618,873 ","$17,773 ",163000,1939,34.22,2.4,29.06,56.92,Retailing,Consumer%20Discretionary
+85,369,Valero Energy,Joseph W. Gorder,"$22,684,706 ","$198,219 ",9813,1980,114.0,0.92,58.54,42.19,Oil & Gas Operations,Energy
+86,370,CSX,James M. Foote,"$20,006,806 ","$107,772 ",20900,1827,13.12,3.93,40.45,75.34,Transportation,Industrials
+87,374,Moderna,Stéphane Bancel,"$18,155,739 ","$133,074 ",2700,2010,18.4,12.2,24.87,56.56,Drugs & Biotechnology,Health%20Care
+88,377,Adobe,Shantanu Narayen,"$36,128,725 ","$165,733 ",25988,1982,16.13,4.83,25.98,193.1,IT Software & Services,Information%20Technology
+89,379,State Street,Ronald Philip O'Hanley III,"$14,113,660 ","$61,463 ",38784,1792,11.54,2.78,322.35,26.04,Diversified Financials,Financials
+90,383,Fiserv,Frank J. Bisignano,"$20,385,208 ","$70,276 ",44000,1984,16.23,1.33,76.25,63.16,Business Services & Supplies,Information%20Technology
+91,383,Regeneron Pharmaceuticals,Leonard S. Schleifer,"$6,470,514 ","$149,250 ",10368,1988,16.07,8.08,25.44,74.68,Drugs & Biotechnology,Health%20Care
+92,391,American Tower,Thomas A. Bartlett,"$16,114,574 ","$37,616 ",6378,1995,9.36,2.57,69.89,119.49,Diversified Financials,Real%20Estate
+93,405,Stryker,Kevin A. Lobo,"$16,359,898 ","$76,715 ",46000,1941,17.11,1.99,34.63,93.79,Health Care Equipment & Services,Health%20Care
+94,423,Lennar,Rick Beckwitt Jon Jaffe,"$34,045,217 ","$101,561 ",10753,1954,28.42,3.89,32.64,22.75,Construction,Consumer%20Discretionary
+95,426,Keurig Dr Pepper,Robert James Gamgort,"$7,772,521 ","$55,207 ",27500,2018,12.68,2.15,50.6,52.47,"Food, Drink & Tobacco",Consumer%20Staples
+96,429,Emerson Electric,Lal Karsanbhai,"$15,178,106 ","$58,101 ",86700,1890,18.55,2.75,26.96,55.6,Capital Goods,Industrials
+97,432,General Mills,Jeffrey L. Harmening,"$12,266,195 ","$62,454 ",35000,1928,18.62,2.3,31.14,43.66,"Food, Drink & Tobacco",Consumer%20Staples
+98,440,Norfolk Southern,Alan H. Shaw,"$14,016,942 ","$99,945 ",18100,1883,11.14,3.0,38.89,67.06,Transportation,Industrials
+99,441,Principal Financial Group,Daniel J. Houston,"$17,566,163 ","$75,348 ",18600,1879,14.26,1.71,304.66,18.25,Diversified Financials,Financials
+100,445,D.R. Horton,David V. Auld,"$29,996,862 ","$116,088 ",11788,1978,28.89,4.53,25.0,25.28,Construction,Consumer%20Discretionary
+101,445,L3Harris Technologies,Christopher Eugene Kubasik,"$15,697,749 ","$110,846 ",47000,2019,17.81,1.85,34.71,47.86,Aerospace & Defense,Industrials
+102,452,Waste Management,Jim Fish,"$13,057,363 ","$80,744 ",48500,1971,17.93,1.82,29.61,65.39,Business Services & Supplies,Industrials
+103,457,Xcel Energy,Robert Frenzel,"$8,350,364 ","$122,532 ",11321,1909,13.37,1.6,60.67,40.44,Utilities,Utilities
+104,458,Corteva,Chuck Magro,"$792,786 ","$85,572 ",21000,2019,15.66,1.76,42.34,41.92,Chemicals,Materials
+105,459,Synchrony Financial,Brian Doubles,"$8,880,347 ","$50,316 ",18000,2003,11.37,4.13,95.27,19.23,Business Services & Supplies,Financials
+106,468,Kinder Morgan,Steven J. Kean,"$18,000,259 ","$115,388 ",10529,1997,16.6,1.03,69.14,43.42,Oil & Gas Operations,Energy
+107,487,CME Group,Terrence A. Duffy,"$22,924,737 ","$153,565 ",3480,1898,4.69,2.62,196.96,80.12,Diversified Financials,Financials
+108,493,Consolidated Edison,Timothy P. Cawley,"$10,342,198 ","$132,803 ",13871,1823,13.67,1.35,63.12,34.18,Utilities,Utilities
+109,505,Intuit,Sasan Goodarzi,"$27,174,857 ","$203,814 ",13500,1983,11.41,2.17,26.3,125.37,IT Software & Services,Information%20Technology
+110,506,Lam Research,Tim Archer,"$16,941,156 ","$119,322 ",14100,1980,16.72,4.54,16.59,64.61,Semiconductors,Information%20Technology
+111,508,Lincoln National,Dennis R. Glass,"$16,760,924 ","$84,240 ",10848,1968,19.18,1.4,371.28,11.2,Insurance,Financials
+112,509,Carrier Global,David L. Gitlin,"$14,892,815 ","$66,377 ",58000,1915,20.61,1.66,26.17,35.54,Capital Goods,Industrials
+113,510,DISH Network,W. Erik Carlson,"$2,895,882 ","$58,161 ",14500,1980,17.88,2.41,48.46,16.2,Media,Communication%20Services
+114,516,Ally Financial,Jeffrey J. Brown,"$15,545,746 ","$106,166 ",10500,1919,10.84,2.92,184.3,13.78,Banking,Financials
+115,522,Cummins,Tom Linebarger,"$15,645,919 ","$53,864 ",59900,1919,24.02,2.13,23.71,28.3,Capital Goods,Industrials
+116,525,Prologis,Hamid R. Moghadam,"$24,901,490 ","$114,183 ",2053,1991,4.83,3.72,59.78,126.34,Diversified Financials,Real%20Estate
+117,533,VMware,Rangarajan Govind Raghuram,"$32,344,107 ","$136,971 ",37500,1998,12.85,1.82,28.68,45.55,IT Software & Services,Information%20Technology
+118,537,CBRE Group,Bob Sulentic ,"$13,908,085 ","$57,349 ",105000,1906,27.75,1.84,22.07,27.96,Construction,Real%20Estate
+119,544,Loews,James S. Tisch,"$6,119,523 ","$53,781 ",10340,1954,14.67,1.58,76.16,15.94,Insurance,Financials
+120,549,Analog Devices,Vincent T. Roche,"$30,824,323 ","$46,141 ",24700,1965,8.44,1.28,51.22,81.24,Semiconductors,Information%20Technology
+121,551,TE Connectivity,Terrence R. Curtin,"$14,715,856 ","$24,975 ",89000,2007,15.22,2.45,21.41,40.01,Technology Hardware & Equipment,Information%20Technology
+122,556,Dollar Tree,Michael A. Witynski,"$10,249,698 ","$13,490 ",210565,1986,26.32,1.33,21.72,37.7,Retailing,Consumer%20Discretionary
+123,557,KeyCorp,Christopher M. Gorman,"$8,653,484 ","$73,571 ",17045,1958,7.45,2.45,181.22,19.06,Banking,Financials
+124,562,Best Buy,Corie Barry,"$15,631,157 ","$29,999 ",105000,1966,51.76,2.45,17.5,20.56,Retailing,Consumer%20Discretionary
+125,562,SVB Financial Group,Gregory W. Becker,"$9,922,132 ","$125,638 ",6567,1983,6.08,1.81,220.36,31.82,Banking,Financials
+126,564,Advanced Micro Devices,Lisa T. Su,"$29,498,107 ","$128,263 ",15500,1969,16.43,3.16,12.42,142.8,Semiconductors,Information%20Technology
+127,565,Markel,"Thomas S. Gayner Richard R. Whitt, III","$4,624,603 ","$42,786 ",20300,1930,12.84,2.47,39.36,19.89,Insurance,Financials
+128,567,Kimberly-Clark,Michael D. Hsu,"$12,009,162 ","$42,749 ",45000,1872,19.79,1.75,18.67,46.67,Household & Personal Products,Consumer%20Staples
+129,572,Citizens Financial Group,Bruce Winfield van,"$12,430,076 ","$82,418 ",17463,1828,6.88,2.13,192.1,20.76,Banking,Financials
+130,573,Devon Energy,Rick Muncrief,"$11,914,547 ","$179,900 ",1600,1971,13.69,2.78,21.02,38.57,Oil & Gas Operations,Energy
+131,575,Lumen Technologies,Jeffrey K. Storey,"$22,654,781 ","$75,984 ",36000,1968,19.69,2.03,57.99,11.16,IT Software & Services,Communication%20Services
+132,577,Regions Financial,"John M. Turner, Jr.","$13,444,577 ","$79,540 ",19626,1971,6.64,2.52,162.94,20.03,Banking,Financials
+133,579,Raymond James Financial,Paul C. Reilly,"$13,901,046 ","$106,782 ",20021,1962,10.43,1.54,68.46,21.49,Diversified Financials,Financials
+134,581,Illinois Tool Works,Ernest Scott Santi,"$20,787,622 ","$61,011 ",45000,1912,14.46,2.69,16.08,63.42,Capital Goods,Industrials
+135,583,Activision Blizzard,Robert A. Kotick,"$826,549 ","$117,207 ",9800,2008,8.8,2.7,25.06,61.39,Consumer Durables,Communication%20Services
+136,589,Baxter International,José E. Almeida,"$15,634,734 ","$46,351 ",60000,1931,12.78,1.28,33.52,36.77,Health Care Equipment & Services,Health%20Care
+137,592,Fidelity National Financial,Michael J. Nolan,"$10,457,921 ","$83,831 ",28290,1847,15.64,2.42,58.13,11.58,Insurance,Financials
+138,592,Parker-Hannifin,Thomas L. Williams,"$18,448,169 ","$56,416 ",54640,1918,15.29,1.82,22.4,35.6,Capital Goods,Industrials
+139,596,Sysco,Kevin P. Hourican,"$13,656,506 ","$83,737 ",58000,1969,60.74,0.79,21.43,45.06,Food Markets,Consumer%20Staples
+140,600,M&T Bank,René F. Jones,"$6,868,174 ","$68,270 ",17569,1856,5.89,1.77,149.86,31.03,Banking,Financials
+141,601,Boston Scientific,Michael F. Mahoney,"$16,064,039 ","$68,891 ",41000,1979,11.89,1.04,32.23,62.63,Health Care Equipment & Services,Health%20Care
+142,602,Edison International,Pedro J. Pizarro,"$14,364,340 ","$175,717 ",13003,1886,14.9,0.78,74.74,27.27,Utilities,Utilities
+143,605,Entergy,Leo Denault,"$17,045,744 ","$135,272 ",12369,1913,11.7,1.12,59.45,25.1,Utilities,Utilities
+144,610,Stanley Black & Decker,James M. Loree,"$13,167,893 ","$56,016 ",71300,1843,16.83,1.69,28.18,21.35,Consumer Durables,Industrials
+145,612,Marriott International,Anthony Capuano,"$18,391,882 ","$36,505 ",120000,1927,13.86,1.1,25.55,58.74,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+146,613,Warner Bros. Discovery,David M. Zaslav,"$246,573,481 ","$82,964 ",11000,2022,12.18,1.02,34.43,49.92,Media,Communication%20Services
+147,615,Delta Air Lines,Ed Bastian,"$12,360,420 ","$70,240 ",83000,1925,35.1,0.52,73.75,28.01,Transportation,Industrials
+148,619,Northern Trust,Michael G. O'Grady,"$10,449,233 ","$72,300 ",21100,1889,6.57,1.53,183.89,22.08,Banking,Financials
+149,621,Eversource Energy,James J. Judge,"$6,467,078 ","$133,297 ",9227,1996,9.86,1.22,48.49,31.72,Utilities,Utilities
+150,631,Southwest Airlines,Robert E. Jordan,"$5,819,756 ","$84,872 ",55100,1967,15.79,0.98,38.17,27.78,Transportation,Industrials
+151,642,FirstEnergy,Steven E. Strah,"$10,714,062 ","$124,120 ",12395,1997,11.41,1.19,44.62,26.27,Utilities,Utilities
+152,648,Cincinnati Financial,Steven J. Johnston,"$6,490,767 ","$105,458 ",5166,1950,9.63,2.95,31.02,21.93,Insurance,Financials
+153,650,Cleveland-Cliffs,Lourenco Goncalves,"$24,494,731 ","$125,396 ",26000,1847,22.35,3.75,19.77,15.18,Materials,Materials
+154,658,Western Digital,David V. Goeckeler,"$32,137,338 ","$9,644 ",65600,1970,18.94,1.99,26.02,15.48,Technology Hardware & Equipment,Information%20Technology
+155,661,First Republic Bank,Michael J. Roffler,"$23,458,948 ","$162,300 ",6295,1985,5.52,1.54,187.12,28.21,Banking,Financials
+156,669,AutoZone,"William C. Rhodes, III","$14,330,010 ","$31,751 ",100000,1979,15.6,2.41,14.08,42.88,Retailing,Consumer%20Discretionary
+157,676,PG&E,Patricia K. Poppe,"$51,198,471 ","$201,157 ",26000,1995,20.64,-0.09,111.75,24.11,Utilities,Utilities
+158,677,Republic Services,Jon Vander Ark,"$7,925,408 ","$68,217 ",35000,1998,11.3,1.29,24.96,41.81,Business Services & Supplies,Industrials
+159,678,Ross Stores,Barbara Rentler,"$15,989,635 ","$10,806 ",100000,1982,18.92,1.72,14.62,36.35,Retailing,Consumer%20Discretionary
+160,679,WEC Energy Group,Scott Lauber,"$18,481,871 ","$122,530 ",6938,1981,8.32,1.3,39.86,32.8,Utilities,Utilities
+161,680,Cardinal Health,Mike Kaufmann,"$13,463,557 ","$63,906 ",47300,1971,171.29,0.56,43.68,17.06,Drugs & Biotechnology,Health%20Care
+162,681,CarMax,Bill Nash,"$13,689,123 ","$51,674 ",32647,1993,31.9,1.15,26.67,14.61,Retailing,Consumer%20Discretionary
+163,686,IQVIA,Ari Bousbib,"$28,615,851 ","$139,803 ",79000,1982,13.87,0.97,24.69,43.56,Drugs & Biotechnology,Health%20Care
+164,691,Ecolab,Christophe Beck,"$8,365,889 ","$52,339 ",47000,1923,12.73,1.13,21.21,50.16,Chemicals,Materials
+165,695,Global Payments,Jeffrey Steven Sloan,"$23,318,393 ","$56,202 ",25000,2000,8.52,0.97,45.28,37.87,Business Services & Supplies,Information%20Technology
+166,698,S&P Global,Douglas L. Peterson,"$16,143,770 ","$27,835 ",22850,1888,8.3,3.02,15.03,131.75,Business Services & Supplies,Financials
+167,700,Arch Capital Group,Marc Grandisson,"$9,336,013 ","$129,028 ",5200,1995,8.88,2.14,37.49,17.86,Insurance,Financials
+168,705,O'Reilly Automotive,Gregory D. Johnson,"$12,764,270 ","$28,113 ",83636,1957,13.33,2.16,12.39,46.92,Retailing,Consumer%20Discretionary
+169,706,Biogen,Michel Vounatsos,"$17,689,665 ","$163,551 ",9610,1978,10.35,1.56,23.88,30.86,Drugs & Biotechnology,Health%20Care
+170,709,The Mosaic Company,James Calvin O'Rourke,"$12,297,011 ","$24,013 ",12525,2004,12.36,1.63,22.04,24.17,Chemicals,Materials
+171,720,Fox,Lachlan Keith Murdoch,"$21,748,681 ","$91,803 ",9000,2015,13.59,1.44,22.88,21.51,Media,Communication%20Services
+172,722,Steel Dynamics,Mark D. Millet,"$10,999,918 ","$126,721 ",10640,1993,20.43,3.89,13.06,16.98,Materials,Materials
+173,727,Digital Realty Trust,Arthur William Stein,"$17,139,601 ","$122,276 ",3030,2004,4.77,2.05,36.37,42.6,Diversified Financials,Real%20Estate
+174,730,Simon Property Group,David E. Simon,"$10,475,192 ","$64,069 ",3300,1993,5.12,2.25,33.78,41.33,Diversified Financials,Real%20Estate
+175,737,CenterPoint Energy,David J. Lesar,"$37,809,810 ","$103,170 ",12901,1882,8.35,1.49,38.48,20.04,Utilities,Utilities
+176,750,NRG Energy,Mauricio Gutierrez,"$10,854,224 ","$126,289 ",6635,1989,26.9,2.19,23.18,9.18,Utilities,Utilities
+177,757,Omnicom Group,John D. Wren,"$19,981,715 ","$50,612 ",71700,1986,14.27,1.29,26.15,16.35,Media,Communication%20Services
+178,759,Cheniere Energy,Jack A. Fusco,"$18,091,084 ","$221,659 ",1550,1983,17.64,-2.34,43.11,34.52,Oil & Gas Operations,Energy
+179,775,Baker Hughes Company,Lorenzo Simonelli,"$15,646,452 ","$69,701 ",54000,1987,20.59,0.31,34.99,31.15,Oil & Gas Operations,Energy
+180,777,Everest Re Group,Juan C. Andrade,"$8,866,126 ","$151,276 ",1947,1999,11.87,1.36,35.62,12.67,Insurance,Financials
+181,778,Amphenol,Richard Adam Norwitt,"$13,092,697 ","$16,042 ",90000,1932,10.88,1.59,14.68,41.49,Technology Hardware & Equipment,Information%20Technology
+182,779,American Airlines Group,Robert Isom,"$7,238,011 ","$62,765 ",123400,1926,34.77,-2.38,67.4,13.1,Transportation,Industrials
+183,780,KLA,Richard P. Wallace,"$20,568,625 ","$105,278 ",11300,1997,8.16,2.99,11.68,48.87,Semiconductors,Information%20Technology
+184,790,Zoetis,Kristin C. Peck,"$13,098,491 ","$81,497 ",12100,1952,7.78,2.04,13.9,85.74,Drugs & Biotechnology,Health%20Care
+185,798,Whirlpool,Marc R. Bitzer,"$18,751,901 ","$27,128 ",69000,1911,21.98,1.78,20.28,10.16,Consumer Durables,Consumer%20Discretionary
+186,812,Apollo Global Management,Marc Jeffrey Rowan,"$302,310 ","$215,817 ",1729],1990,4.83,1.83,30.5,30.79,Diversified Financials,Financials
+187,813,United Rentals,Matthew John Flannery,"$12,716,100 ","$83,417 ",20400,1997,9.72,1.39,20.85,22.72,Business Services & Supplies,Industrials
+188,814,Diamondback Energy,Travis D. Stice,"$13,839,995 ","$108,354 ",870,2007,6.8,2.18,22.9,23.08,Oil & Gas Operations,Energy
+189,815,Otis Worldwide,Judith F. Marks,"$13,770,306 ","$49,941 ",70000,1853,14.3,1.25,12.28,31.04,Construction,Industrials
+190,817,Ball,Daniel W. Fisher,"$13,924,380 ","$131,452 ",24300,1880,13.93,0.88,19.71,27.77,Materials,Materials
+191,832,CMS Energy,Garrick J. Rochow,"$6,871,068 ","$135,987 ",9778,1987,7.4,1.35,28.75,20.82,Utilities,Utilities
+192,843,CDW,Christine A. Leahy,"$8,943,903 ","$103,536 ",15000,1984,20.82,0.99,13.2,22.9,IT Software & Services,Information%20Technology
+193,844,The Hershey Company,Michele Buck,"$16,144,570 ","$36,149 ",18990,1894,8.97,1.48,10.41,46.07,"Food, Drink & Tobacco",Consumer%20Staples
+194,855,Public Storage,Joseph D. Russell Jr.,"$10,358,153 ","$28,787 ",5800,1972,3.42,1.88,17.38,70.56,Diversified Financials,Real%20Estate
+195,858,Signature Bank,Joseph J. DePaolo,"$8,975,851 ","$115,807 ",1854,2000,2.48,1.07,121.85,14.95,Banking,Financials
+196,860,International Flavors & Fragrances,Franklin K. Clyburn,"$9,767,380 ","$66,105 ",24000,1833,11.66,0.27,39.66,31.74,Household & Personal Products,Materials
+197,862,Roper Technologies,Laurence Neil Hunn,"$21,532,055 ","$98,550 ",19300,1981,6.09,1.1,23.71,47.95,Conglomerates,Information%20Technology
+198,866,Franklin Resources,Jennifer M. Johnson,"$15,734,999 ","$126,915 ",10300,1947,8.72,1.86,25.0,13.25,Diversified Financials,Financials
+199,870,Ameren,Martin J. Lyons JR.,"$9,807,836 ","$132,415 ",9116,1902,6.39,0.99,35.74,25.0,Utilities,Utilities
+200,875,Conagra Brands,Sean M. Connolly,"$11,947,054 ","$57,855 ",18600,1919,11.36,1.04,22.5,17.33,"Food, Drink & Tobacco",Consumer%20Staples
+201,900,Annaly Capital Management,David L. Finkelstein,"$9,138,764 ","$365,000 ",171,1996,0.73,2.39,76.76,9.53,Diversified Financials,Financials
+202,910,Avis Budget Group,Joseph A. Ferraro,"$8,594,555 ","$29,628 ",21000,1946,9.31,1.28,22.6,16.03,Business Services & Supplies,Industrials
+203,927,Viatris,Michael Goettler,"$14,669,592 ","$36,865 ",37000,1961,17.86,-1.27,54.84,12.43,Drugs & Biotechnology,Health%20Care
+204,930,VF,Steven E. Rendle,"$15,423,154 ","$26,784 ",40000,1899,11.62,1.4,13.54,21.23,Household & Personal Products,Consumer%20Discretionary
+205,931,Intuitive Surgical,Gary S. Guthart,"$8,059,409 ","$140,163 ",9793,1995,5.91,1.64,13.68,90.64,Health Care Equipment & Services,Health%20Care
+206,937,Builders FirstSource,David E. Flitman,"$10,129,559 ","$61,301 ",28000,1998,19.89,1.73,10.71,10.86,Construction,Industrials
+207,946,Alexandria Real Estate Equities,"Peter M. Moglia, Stephen A. Richardson","$8,320,228 ","$176,113 ",559,1994,2.11,0.98,30.22,31.96,Diversified Financials,Real%20Estate
+208,951,Motorola Solutions,Gregory Q. Brown,"$19,980,639 ","$82,965 ",18700,2011,8.17,1.25,12.19,37.7,Aerospace & Defense,Information%20Technology
+209,960,Voya Financial,Rodney Owen Martin Jr.,"$16,030,105 ","$121,489 ",6000,1999,4.23,2.11,158.53,7.04,Insurance,Financials
+210,963,Equity Residential,Mark J. Parrell,"$8,490,527 ","$62,996 ",2400,1993,2.43,1.33,21.17,34.26,Diversified Financials,Real%20Estate
+211,965,Hormel Foods,Jim Snee,"$9,478,102 ","$50,369 ",20000,1891,11.97,0.93,12.83,29.2,"Food, Drink & Tobacco",Consumer%20Staples
+212,975,Macy's,Jeffrey Gennette,"$12,290,931 ","$28,037 ",88857,1929,25.29,1.43,18.85,6.91,Retailing,Consumer%20Discretionary
+213,976,Cintas,Scott D. Farmer,"$7,777,100 ","$53,321 ",40000,1968,7.62,1.2,8.17,41.75,Business Services & Supplies,Industrials
+214,984,Arrow Electronics,Michael J. Long,"$12,755,479 ","$66,172 ",20700,1946,34.48,1.11,19.54,7.57,Trading Companies,Information%20Technology
+215,985,Tenet Healthcare,Saumya Sutaria,"$21,153,672 ","$55,245 ",101100,1967,19.45,0.96,26.65,7.98,Health Care Equipment & Services,Health%20Care
+216,994,Yum! Brands,David W. Gibbs,"$27,578,659 ","$13,082 ",36000,1997,6.58,1.58,5.97,35.28,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+217,997,First Horizon,Bryan Jordan,"$8,414,496 ","$61,465 ",7867,1864,3.14,0.96,88.66,12.21,Banking,Financials
+218,998,Molina Healthcare,Joseph M. Zubretsky,"$19,961,698 ","$71,916 ",14000,1980,27.77,0.66,12.22,19.08,Drugs & Biotechnology,Health%20Care
+219,1009,eBay,Jamie Iannone,"$21,685,102 ","$135,528 ",10800,1995,10.9,-2.18,26.63,31.24,Business Services & Supplies,Consumer%20Discretionary
+220,1010,Edwards Lifesciences,Michael A. Mussallem,"$13,613,305 ","$73,036 ",15700,1958,5.23,1.5,8.5,73.55,Health Care Equipment & Services,Health%20Care
+221,1012,Constellation Brands,William A. Newlands Jr.,"$12,040,281 ","$35,606 ",10000,1945,8.82,-0.04,25.86,46.99,"Food, Drink & Tobacco",Consumer%20Staples
+222,1029,American Financial Group,"Carl Henry Lindner, III, S. Craig Lindner, Jr.","$12,449,582 ","$71,738 ",6600,1959,6.21,2.0,24.88,12.28,Insurance,Financials
+223,1031,Invesco,Martin Flanagan,"$12,897,752 ","$187,854 ",8513,1935,7.01,1.63,32.69,9.38,Diversified Financials,Financials
+224,1037,Bio-Rad Laboratories,Norman D. Schwartz,"$8,695,925 ","$78,820 ",7900,1952,2.92,4.25,17.78,15.99,Health Care Equipment & Services,Health%20Care
+225,1043,TD SYNNEX,Richard T. Hume,"$9,529,362 ","$56,410 ",27000,1980,42.14,0.44,28.72,9.61,Trading Companies,Information%20Technology
+226,1045,PulteGroup,Ryan R. Marshall,"$16,149,555 ","$136,630 ",6182,1950,13.93,1.93,13.35,10.12,Construction,Consumer%20Discretionary
+227,1048,Equinix,Charles J. Meyers,"$23,248,193 ","$122,075 ",10944,1998,6.64,0.5,27.92,67.84,Diversified Financials,Real%20Estate
+228,1067,Celanese,Lori J. Ryerkerk,"$12,570,992 ","$90,427 ",8529,1918,8.54,1.89,11.98,15.42,Chemicals,Materials
+229,1069,AvalonBay Communities,Benjamin W. Schall,"$14,371,460 ","$79,313 ",2927,1978,2.33,1.0,19.9,35.58,Diversified Financials,Real%20Estate
+230,1076,Agilent Technologies,Michael R. McMullen,"$15,967,631 ","$82,890 ",17000,1999,6.44,1.2,10.33,36.41,Drugs & Biotechnology,Health%20Care
+231,1087,LKQ,Dominick Paul Zarcone,"$9,445,636 ","$38,982 ",46000,1998,13.09,1.09,12.61,14.07,Consumer Durables,Consumer%20Discretionary
+232,1090,Lithia Motors,Bryan B. DeBoer,"$10,532,359 ","$56,825 ",21150,1946,25.19,1.25,12.08,8.53,Retailing,Consumer%20Discretionary
+233,1100,Paychex,Martin Mucci,"$11,025,026 ","$56,960 ",15000,1971,4.5,1.36,10.28,47.42,Business Services & Supplies,Information%20Technology
+234,1101,Genworth Financial,Thomas J. McInerney,"$8,499,379 ","$104,888 ",2500,1871,7.83,0.9,83.2,1.95,Insurance,Financials
+235,1101,Monster Beverage,Rodney Cyril Sacks,"$16,707,577 ","$69,417 ",4092,1985,5.54,1.38,7.86,45.34,"Food, Drink & Tobacco",Consumer%20Staples
+236,1104,Ovintiv,Brendan M. McCracken,"$8,630,387 ","$171,140 ",1713,1881,10.54,1.42,14.06,13.01,Oil & Gas Operations,Energy
+237,1106,AutoNation,Michael Mark Manley,"$8,513,663 ","$64,057 ",22200,1991,26.69,1.5,9.36,6.53,Retailing,Consumer%20Discretionary
+238,1108,Chesapeake Energy,Domenic J. Dell’Osso Jr.,"$7,688,937 ","$133,645 ",1300,1989,7.32,6.33,11.01,11.08,Oil & Gas Operations,Energy
+239,1109,J.B. Hunt Transport Services,John N. Roberts,"$8,801,881 ","$78,560 ",33045,1961,13.04,0.86,7.03,17.76,Transportation,Industrials
+240,1112,Realty Income,Sumit Roy,"$12,861,011 ","$136,304 ",371,1969,2.08,0.35,43.14,43.97,Diversified Financials,Real%20Estate
+241,1121,Rockwell Automation,Blake Moret,"$10,987,704 ","$61,470 ",24500,1903,7.29,1.0,10.74,30.27,Capital Goods,Industrials
+242,1128,Bath & Body Works,Andrew Meslow,"$17,668,627 ","$10,632 ",56900,1990,11.05,1.33,6.03,12.74,Retailing,Consumer%20Discretionary
+243,1134,Dover,Richard Joseph Tobin,"$14,085,860 ","$48,794 ",25000,1955,8.09,1.12,10.5,20.61,Conglomerates,Industrials
+244,1135,East West Bancorp,Dominic Ng,"$8,649,172 ","$107,255 ",3100,1998,1.91,0.91,62.24,11.02,Banking,Financials
+245,1139,Ulta Beauty,Dave Kimbell,"$8,539,767 ","$13,403 ",40500,1990,8.63,0.99,5.34,21.23,Retailing,Consumer%20Discretionary
+246,1153,Altice USA,Dexter G. Goei,"$38,333,508 ","$79,575 ",9000,2001,10.09,0.99,34.04,5.13,Media,Communication%20Services
+247,1155,DaVita,Javier J. Rodriguez,"$3,298,439 ","$67,535 ",69000,2000,11.62,0.98,17.87,10.73,Health Care Equipment & Services,Health%20Care
+248,1162,Darden Restaurants,Gene Lee,"$11,891,842 ","$21,931 ",156883,1968,9.31,1.04,10.2,16.72,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+249,1163,Hess,John B. Hess,"$12,408,198 ","$197,547 ",1545,1920,7.72,0.56,20.52,32.97,Oil & Gas Operations,Energy
+250,1169,Welltower,Shankh Mitra,"$12,753,710 ","$100,206 ",464,1970,4.73,0.34,34.91,43.1,Diversified Financials,Real%20Estate
+251,1172,Caesars Entertainment,Tom Reeg,"$22,576,517 ","$35,618 ",49000,1937,9.48,-1.02,38.03,14.26,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+252,1174,Textron,Scott C. Donnelly,"$18,576,014 ","$102,647 ",33000,1923,12.38,0.75,15.83,14.69,Conglomerates,Industrials
+253,1184,Zoom Video Communications,Eric S. Yuan,"$1,115,089 ","$188,261 ",6787,2011,4.1,1.38,7.55,29.96,IT Software & Services,Information%20Technology
+254,1186,NVR,Eugene James Bredow,"$4,162,400 ","$71,417 ",6600,0,8.74,1.24,5.83,14.39,Construction,Consumer%20Discretionary
+255,1187,Evergy,David A. Campbell,"$11,138,082 ","$133,369 ",4930,1909,5.59,0.88,28.52,16.36,Utilities,Utilities
+256,1197,Targa Resources,Matthew J. Meloy,"$14,691,940 ","$124,880 ",2430,2005,17.44,0.07,16.41,17.39,Oil & Gas Operations,Energy
+257,1200,Expedia Group,Peter M. Kern,"$296,247,749 ","$102,270 ",14800,1996,8.6,0.01,21.55,28.29,Business Services & Supplies,Consumer%20Discretionary
+258,1205,Leidos,Roger Krone,"$12,876,007 ","$95,935 ",43000,1969,13.74,0.75,13.26,14.76,Aerospace & Defense,Industrials
+259,1221,VICI Properties,Edward Baltazar Pitoniak,"$7,662,894 ","$28,107 ",152,2016,1.51,1.01,17.6,22.21,Diversified Financials,Real%20Estate
+260,1222,Chipotle Mexican Grill,Brian R. Niccol,"$17,880,580 ","$15,811 ",97660,1993,7.55,0.65,7.64,41.49,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+261,1227,Old Republic International,Craig R. Smiddy,"$2,392,292 ","$84,077 ",9600,1887,9.34,1.53,20.38,7.34,Insurance,Financials
+262,1229,Zimmer Biomet,Bryan C. Hanson,"$14,981,058 ","$63,981 ",19500,1927,7.84,0.4,23.46,26.31,Health Care Equipment & Services,Health%20Care
+263,1230,Alcoa,Roy Harvey,"$15,960,369 ","$102,645 ",12200,1888,12.82,0.72,15.99,12.42,Materials,Materials
+264,1238,Illumina,Francis A. deSouza,"$14,333,634 ","$115,398 ",9800,1998,4.53,0.76,15.22,50.69,Drugs & Biotechnology,Health%20Care
+265,1238,Synopsys,Dr. Aart de Geus,"$9,976,485 ","$98,215 ",16361,1986,4.5,0.91,8.9,43.63,IT Software & Services,Information%20Technology
+266,1254,Hologic,Stephen P. MacMillan,"$14,748,400 ","$89,791 ",6705,1985,5.49,1.72,9.28,18.58,Health Care Equipment & Services,Health%20Care
+267,1259,Old Dominion Freight Line,Greg C. Gantt,"$10,577,833 ","$72,726 ",23663,1934,5.26,1.03,4.82,30.9,Transportation,Industrials
+268,1273,Copart,Aaron Jayson Adair,"$31,033,606 ","$41,662 ",8600,1982,3.16,1.09,5.14,27.58,Business Services & Supplies,Industrials
+269,1273,Dick's Sporting Goods,Lauren R. Hobart,"$9,566,005 ","$10,495 ",50800,1948,12.29,1.52,9.04,7.96,Retailing,Consumer%20Discretionary
+270,1276,Universal Health Services,Marc D. Miller,"$14,020,942 ","$45,454 ",89400,1979,12.64,0.99,13.09,9.9,Health Care Equipment & Services,Health%20Care
+271,1284,Popular,Ignacio Alvarez,"$5,091,629 ","$40,826 ",8351,1893,2.76,0.93,75.1,6.08,Banking,Financials
+272,1289,Frontier Communications Parent,Nicholas Simon Jeffery,"$17,209,584 ","$80,800 ",15600,0,6.41,4.96,17.14,6.71,Telecommunications Services,Communication%20Services
+273,1305,PPL,Vincent Sorgi,"$11,356,481 ","$147,670 ",5607,1994,5.78,0.13,33.22,21.99,Utilities,Utilities
+274,1311,Marvell Technology,Matthew J. Murphy,"$15,510,223 ","$167,829 ",6729,1995,4.46,-0.42,22.11,49.54,Semiconductors,Information%20Technology
+275,1312,Skyworks Solutions,Liam K. Griffin,"$16,150,421 ","$17,409 ",11000,2002,5.11,1.39,8.62,18.61,Semiconductors,Information%20Technology
+276,1313,Arista Networks,Jayshree V. Ullal,"$15,993,632 ","$190,816 ",2993,2004,2.95,0.84,5.73,36.22,Technology Hardware & Equipment,Information%20Technology
+277,1315,Electronic Arts,Andrew P. Wilson,"$19,858,539 ","$115,569 ",11000,1982,6.56,0.64,13.93,36.02,Consumer Durables,Communication%20Services
+278,1317,Brighthouse Financial,Eric Thomas Steigerwalt,"$7,914,025 ","$132,963 ",1500,1863,7.14,-0.11,261.3,4.1,Insurance,Financials
+279,1325,APA,John J. Christmann IV,"$15,040,707 ","$174,903 ",2253,1954,7.98,0.97,13.3,14.12,Oil & Gas Operations,Energy
+280,1335,Marathon Oil,Lee M. Tillman,"$12,997,292 ","$128,010 ",1531,1887,5.6,0.95,16.99,17.96,Oil & Gas Operations,Energy
+281,1340,Keysight Technologies,Ron Nersesian,"$18,566,410 ","$77,082 ",14300,2014,5.01,0.95,7.73,26.44,Technology Hardware & Equipment,Information%20Technology
+282,1341,StoneX Group,Sean Michael O'Connor,"$4,748,563 ","$84,188 ",3242,0,47.62,0.13,19.23,1.39,Diversified Financials,Financials
+283,1344,Garmin,Clifton Albert Pemble,"$4,238,341 ","$38,118 ",18700,1989,4.98,1.08,7.85,21.3,Technology Hardware & Equipment,Consumer%20Discretionary
+284,1350,IDEXX Laboratories,Jay Mazelsky,"$9,065,021 ","$67,638 ",10350,1983,3.22,0.74,2.44,39.89,Health Care Equipment & Services,Health%20Care
+285,1363,Brown-Forman,Lawson Whiting,"$8,364,936 ","$61,040 ",4700,1870,3.74,0.81,6.23,32.09,"Food, Drink & Tobacco",Consumer%20Staples
+286,1364,Assurant,Alan B. Colberg,"$11,504,780 ","$44,558 ",15600,1892,10.19,0.45,27.73,10.77,Insurance,Financials
+287,1373,NetApp,George Kurian,"$18,883,551 ","$206,477 ",11000,1992,6.19,1.01,9.5,16.92,Technology Hardware & Equipment,Information%20Technology
+288,1376,Royal Caribbean Group,Jason Liberty,"$15,812,027 ","$14,706 ",50000,1997,1.53,-5.26,32.26,20.82,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+289,1378,Extra Space Storage,Joseph D. Margolis,"$7,315,982 ","$43,361 ",4309,2004,1.61,0.86,10.47,28.54,Diversified Financials,Real%20Estate
+290,1383,AGCO,Eric P. Hansotia,"$11,181,748 ","$53,354 ",23300,1990,11.14,0.9,9.18,10.05,Capital Goods,Industrials
+291,1389,MSCI,Henry A. Fernandez,"$10,338,312 ","$58,415 ",3633,1998,2.04,0.73,5.51,37.06,Business Services & Supplies,Financials
+292,1398,First American Financial,Kenneth David DeGiorgio,"$10,791,103 ","$57,046 ",22233,0,9.22,1.24,16.45,6.54,Insurance,Financials
+293,1405,Berry Global Group,Thomas E. Salmon,"$11,498,501 ","$46,842 ",47000,1967,14.29,0.72,17.34,7.78,Materials,Materials
+294,1407,PerkinElmer,Prahlad Ramadhar Singh,"$9,661,006 ","$52,960 ",16700,1947,5.07,0.93,15.0,19.25,Health Care Equipment & Services,Health%20Care
+295,1408,Navient,John F. Remondi,"$7,883,966 ","$42,587 ",6195,2013,3.49,0.72,80.6,2.5,Diversified Financials,Financials
+296,1412,Quanta Services,Earl C. Austin Jr.,"$10,967,217 ","$106,665 ",43700,1997,12.98,0.49,12.86,17.2,Construction,Industrials
+297,1417,Liberty Broadband,Gregory Ben Maffei,"$18,018,126 ","$84,277 ",1900,1991,0.99,0.73,17.19,20.82,Telecommunications Services,Communication%20Services
+298,1422,AGNC Investment,Peter J. Federico,"$6,949,900 ","$281,305 ",50,2008,1.97,0.75,68.15,6.06,Diversified Financials,Financials
+299,1424,Westinghouse Air Brake Technologies,Rafael O. Santana,"$11,027,238 ","$45,266 ",25000,1869,7.82,0.56,18.45,16.52,Capital Goods,Industrials
+300,1431,Henry Schein,Stanley M. Bergman,"$10,786,180 ","$72,625 ",21600,1932,12.4,0.62,8.48,12.05,Health Care Equipment & Services,Health%20Care
+301,1434,Mettler-Toledo International,Patrick K. Kaltenbach,"$11,811,322 ","$51,436 ",17800,1991,3.72,0.77,3.33,29.21,Conglomerates,Health%20Care
+302,1437,Thor Industries,Robert W. Martin,"$15,866,718 ","$54,701 ",31000,1980,14.88,0.92,7.66,4.25,Consumer Durables,Consumer%20Discretionary
+303,1438,Williams-Sonoma,Laura Alber,"$21,324,327 ","$24,866 ",21000,1956,8.25,1.13,4.63,9.68,Retailing,Consumer%20Discretionary
+304,1443,Olin,Scott McDougald Sutton,"$10,105,293 ","$93,832 ",7750,1892,8.91,1.3,8.52,8.46,Chemicals,Materials
+305,1444,Kimco Realty,Conor C. Flynn,"$10,488,138 ","$108,000 ",606,1973,1.36,0.84,18.46,15.72,Diversified Financials,Real%20Estate
+306,1445,Fortinet,Ken Xie,"$14,203,211 ","$202,875 ",10195,2000,3.34,0.61,5.92,48.93,Technology Hardware & Equipment,Information%20Technology
+307,1447,Church & Dwight,Matthew T. Farrell,"$8,889,526 ","$73,466 ",5100,1846,5.19,0.83,8.0,24.95,Household & Personal Products,Consumer%20Staples
+308,1449,ServiceNow,William R. McDermott,"$165,802,037 ","$233,859 ",16881,2004,5.9,0.23,10.8,94.28,IT Software & Services,Information%20Technology
+309,1450,Align Technology,Joseph M. Hogan,"$21,591,400 ","$13,011 ",22540,1997,3.95,0.77,5.94,28.42,Health Care Equipment & Services,Health%20Care
+310,1451,Mohawk Industries,Jeffrey Lorberbaum,"$5,190,696 ","$36,391 ",43000,1878,11.2,1.03,14.22,7.88,Consumer Durables,Consumer%20Discretionary
+311,1452,SS&C Technologies,William Charles Stone,"$22,981,889 ","$67,434 ",24900,1986,5.05,0.8,17.33,17.52,IT Software & Services,Information%20Technology
+312,1454,Advance Auto Parts,Thomas R. Greco,"$10,052,271 ","$24,960 ",41000,1932,11.0,0.62,12.19,13.34,Retailing,Consumer%20Discretionary
+313,1462,UGI,Roger Perreault,"$6,060,694 ","$71,717 ",5800,1882,8.7,1.07,16.8,7.68,Oil & Gas Operations,Utilities
+314,1464,Teradyne,Mark E. Jagiela,"$10,954,713 ","$128,299 ",5900,1960,3.7,1.02,3.81,17.65,Semiconductors,Information%20Technology
+315,1465,Avery Dennison,Mitchell R. Butier,"$12,433,721 ","$15,256 ",36000,1990,8.41,0.74,7.97,13.79,Materials,Materials
+316,1474,Verisk Analytics,Scott G. Stephenson,"$12,796,321 ","$72,679 ",9367,1971,3.0,0.67,7.81,33.43,Insurance,Industrials
+317,1476,Ventas,Debra A. Cafaro,"$14,263,728 ","$111,261 ",434,1983,3.83,0.05,24.72,23.37,Diversified Financials,Real%20Estate
+318,1479,Gartner,Eugene A. Hall,"$14,096,168 ","$118,762 ",16600,1979,4.73,0.79,7.42,24.14,Business Services & Supplies,Information%20Technology
+319,1480,SLM,Jonathan W. Witter,"$7,047,062 ","$88,566 ",1450,1972,2.34,1.16,29.22,4.67,Business Services & Supplies,Financials
+320,1481,Atmos Energy,Kevin Akers,"$4,839,562 ","$81,388 ",4684,1906,3.51,0.7,20.55,16.08,Oil & Gas Operations,Utilities
+321,1488,Equifax,Mark Begor,"$16,065,575 ","$90,330 ",12700,1899,5.07,0.76,11.39,25.02,Business Services & Supplies,Industrials
+322,1492,Globe Life,Gary L. Coleman Larry M. Hutchison,"$8,353,754 ","$56,843 ",3222,1951,5.16,0.73,29.77,10.26,Insurance,Financials
+323,1500,BorgWarner,Frédéric B. Lissdale,"$17,592,090 ","$31,740 ",49300,1928,14.84,0.54,16.58,9.09,Consumer Durables,Consumer%20Discretionary
+324,1504,Zebra Technologies,Anders Gustafsson,"$13,589,616 ","$60,450 ",9800,1969,5.62,0.84,6.22,20.06,Technology Hardware & Equipment,Information%20Technology
+325,1505,VeriSign,D. James Bidzos,"$10,118,313 ","$201,444 ",904,1995,1.33,0.78,1.98,22.59,IT Software & Services,Information%20Technology
+326,1510,Incyte,Herve Hoppenot,"$14,444,265 ","$248,810 ",2094,1991,2.99,0.95,4.97,16.95,Drugs & Biotechnology,Health%20Care
+327,1513,Performance Food Group,George L. Holm,"$8,660,511 ","$80,079 ",23000,1885,39.73,0.04,12.22,8.13,Food Markets,Consumer%20Staples
+328,1515,Martin Marietta Materials,C. Howard Nye,"$14,939,587 ","$90,423 ",10000,1993,5.41,0.71,14.74,22.14,Construction,Materials
+329,1516,Boston Properties,Owen D. Thomas,"$12,894,537 ","$123,647 ",743,1970,2.89,0.51,22.36,21.77,Diversified Financials,Real%20Estate
+330,1529,Las Vegas Sands,Robert Glen Goldstein,"$31,204,900 ","$35,879 ",44700,1988,4.23,-0.96,20.06,27.81,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+331,1537,Alliant Energy,John O. Larsen,"$10,449,260 ","$110,610 ",3313,1981,3.67,0.67,19.25,15.83,Utilities,Utilities
+332,1542,Ingersoll Rand,Vicente Reynal,"$10,613,486 ","$51,757 ",16000,1872,5.39,0.76,15.15,18.74,Capital Goods,Industrials
+333,1561,EQT,Toby Z. Rice,"$16,919,763 ","$122,460 ",693,1888,6.84,-1.16,21.61,14.96,Oil & Gas Operations,Energy
+334,1562,West Pharmaceutical Services,Eric Mark Green,"$9,472,757 ","$57,357 ",10065,0,2.83,0.66,3.31,25.98,Drugs & Biotechnology,Health%20Care
+335,1571,Fortive,James A. Lico,"$16,598,719 ","$61,746 ",18000,2015,5.25,0.61,16.47,20.75,Technology Hardware & Equipment,Industrials
+336,1571,Rocket Companies,Jay Farner,"$1,603,475 ","$77,800 ",0,1985,10.0,0.31,32.78,1.05,Business Services & Supplies,Financials
+337,1581,Avantor,Michael Stubblefield,"$13,260,913 ","$40,456 ",13500,1904,7.39,0.57,13.9,18.32,Chemicals,Health%20Care
+338,1586,Palo Alto Networks,Nikesh Arora,"$10,410,477 ","$268,463 ",10473,2005,4.86,-0.46,10.4,56.29,Technology Hardware & Equipment,Information%20Technology
+339,1588,DXC Technology,Michael J. Salvino,"$28,716,680 ","$44,156 ",134000,2017,16.64,-0.61,19.95,7.2,Business Services & Supplies,Information%20Technology
+340,1592,Owens Corning,Brian D. Chambers,"$9,782,143 ","$64,753 ",20000,1938,8.5,1.0,10.02,8.46,Construction,Industrials
+341,1597,HF Sinclair,Michael C. Jennings,"$11,473,664 ","$135,851 ",4208,1947,18.41,0.55,13.17,8.47,Oil & Gas Operations,Energy
+342,1600,Invitation Homes,Dallas B. Tanner,"$9,710,445 ","$63,730 ",1240,2012,1.85,0.27,18.54,26.2,Diversified Financials,Real%20Estate
+343,1603,Workday,Aneel Bhuri,"$22,015,513 ","$212,269 ",15200,2005,5.15,0.03,10.5,51.74,IT Software & Services,Information%20Technology
+344,1606,Qorvo,Robert A. Bruggeworth,"$10,072,684 ","$57,510 ",8400,1991,4.55,1.12,7.63,12.11,Semiconductors,Information%20Technology
+345,1608,Stifel Financial,Ronald James Kruszewski,"$13,555,232 ","$102,972 ",8600,1890,4.79,0.82,34.31,6.88,Diversified Financials,Financials
+346,1614,NiSource,Lloyd M. Yates,"$9,535,782 ","$124,663 ",7272,1847,4.9,0.58,25.26,12.51,Oil & Gas Operations,Utilities
+347,1629,CrowdStrike,George P. Kurtz,"$147,695,746 ","$183,564 ",4965,2011,1.45,-0.23,3.62,47.45,IT Software & Services,Information%20Technology
+348,1633,Interactive Brokers Group,Milan Galik,"$12,289,397 ","$86,317 ",2571,1977,2.74,0.27,114.42,6.0,Diversified Financials,Financials
+349,1640,World Fuel Services,Michael J. Kasbar,"$5,141,566 ","$68,408 ",4414,1984,31.3,0.07,5.94,1.72,Trading Companies,Energy
+350,1647,BOK Financial,Stacy C. Kymes,"$4,770,328 ","$85,320 ",4711,1908,2.01,0.62,50.25,6.02,Banking,Financials
+351,1652,New York Community Bancorp,Thomas Robert Cangemi,"$8,652,305 ","$79,980 ",2815,1993,1.75,0.59,59.64,4.7,Banking,Financials
+352,1660,DexCom,Kevin Ronald Sayer,"$11,985,324 ","$63,500 ",6300,1999,2.45,0.15,4.86,42.92,Health Care Equipment & Services,Health%20Care
+353,1664,Autodesk,Andrew Anagnost,"$22,095,521 ","$137,042 ",12600,1982,4.4,0.5,8.61,40.7,IT Software & Services,Information%20Technology
+354,1679,United Natural Foods,J. Alexander M.,"$8,722,292 ","$59,523 ",28300,1976,27.77,0.23,7.8,2.62,Food Markets,Consumer%20Staples
+355,1686,Huntsman,Peter R. Huntsman,"$14,066,141 ","$94,993 ",9000,1970,8.45,1.04,9.39,7.33,Chemicals,Materials
+356,1689,SBA Communications,Jeffrey A. Stoops,"$9,995,179 ","$96,104 ",1596,1989,2.31,0.24,9.8,39.57,Diversified Financials,Real%20Estate
+357,1691,Datadog,Olivier Pomel,"$8,632,636 ","$190,126 ",3200,2010,1.03,-0.02,2.38,39.38,IT Software & Services,Information%20Technology
+358,1691,PBF Energy,Thomas J. Nimbley,"$7,294,215 ","$161,438 ",3418,2008,27.25,0.23,12.69,3.21,Oil & Gas Operations,Energy
+359,1699,ResMed,Michael J. Farrell,"$11,659,210 ","$64,956 ",7970,1989,3.44,0.52,4.74,33.26,Health Care Equipment & Services,Health%20Care
+360,1701,BJ's Wholesale Club,Robert W. Eddy,"$16,340,546 ","$19,021 ",34000,1984,16.67,0.43,5.67,9.09,Retailing,Consumer%20Staples
+361,1701,PVH,Stefan Larsson,"$14,714,208 ","$17,839 ",31000,1881,9.15,0.95,12.4,5.12,Household & Personal Products,Consumer%20Discretionary
+362,1707,Pool,Peter D. Arvan,"$5,575,384 ","$61,709 ",5500,1993,5.65,0.73,3.88,16.68,Trading Companies,Consumer%20Discretionary
+363,1712,Aramark,John J. Zillmer,"$13,324,828 ","$15,154 ",248300,1936,13.3,0.03,14.47,9.82,"Hotels, Restaurants & Leisure",Consumer%20Discretionary
+364,1716,Cullen/Frost Bankers,Phillip D. Green,"$5,186,313 ","$59,106 ",4553,1868,1.39,0.44,50.88,8.86,Banking,Financials
+365,1717,Live Nation Entertainment,Michael Rapino,"$13,842,464 ","$15,740 ",10200,2010,6.27,-0.67,14.4,23.79,Media,Communication%20Services
+366,1727,FMC,Mark A. Douglas,"$8,489,671 ","$54,297 ",6400,1883,5.04,0.73,10.58,16.7,Chemicals,Materials
+367,1735,Rite Aid,Heyward R. Donigan,"$9,911,507 ","$49,984 ",50000,1968,24.57,-0.54,8.53,0.41,Retailing,Consumer%20Staples
+368,1736,Waters,Udit Batra,"$8,653,559 ","$74,470 ",7800,1958,2.79,0.69,3.1,17.94,Health Care Equipment & Services,Health%20Care
+369,1750,Burlington Stores,Michael B. O'Sullivan,"$13,867,435 ","$12,690 ",62395,1972,9.32,0.41,7.09,13.82,Retailing,Consumer%20Discretionary
+370,1764,Akamai Technologies,Frank Thomson Leighton,"$11,951,574 ","$112,018 ",8700,1998,3.46,0.65,8.14,18.85,IT Software & Services,Information%20Technology
+371,1766,Medical Properties Trust,Edward K. Aldag,"$17,036,629 ","$173,092 ",112,2003,1.54,0.65,20.52,11.25,Diversified Financials,Real%20Estate
+372,1769,Newell Brands,Ravi Saligram,"$11,438,798 ","$33,913 ",32000,1903,10.59,0.57,14.18,9.45,Consumer Durables,Consumer%20Discretionary
+373,1775,Toll Brothers,Douglas C. Yearley,"$12,195,409 ","$87,815 ",5100,1986,9.02,0.89,11.28,5.35,Construction,Consumer%20Discretionary
+374,1777,Foot Locker,Richard Johnson,"$14,458,325 ","$12,135 ",49933,1974,8.96,0.89,8.14,2.79,Retailing,Consumer%20Discretionary
+375,1782,Avnet,Philip R. Gallagher,"$8,129,900 ","$40,474 ",14500,1921,21.59,0.46,9.58,3.87,Trading Companies,Information%20Technology
+376,1795,Lear,Ray Scott,"$13,306,375 ","$8,106 ",160100,1917,19.26,0.37,13.35,7.75,Consumer Durables,Consumer%20Discretionary
+377,1801,DoorDash,Tony Xu MBA,"$300,297 ","$87,662 ",8600,2013,4.89,-0.47,6.81,31.01,IT Software & Services,Consumer%20Discretionary
+378,1802,Cloudflare,Matthew Browning Prince,"$400,000 ","$231,472 ",2440,2009,0.66,-0.26,2.37,30.99,Business Services & Supplies,Information%20Technology
+379,1820,Horizon Therapeutics Public Limited Company,Timothy P. Walbert,"$21,353,458 ","$298,200 ",1890,2008,3.23,0.53,8.68,24.26,Drugs & Biotechnology,Health%20Care
+380,1828,Booz Allen Hamilton Holding,Horacio D. Rozanski,"$11,866,337 ","$121,742 ",27200,1914,8.1,0.57,5.94,11.73,Business Services & Supplies,Industrials
+381,1839,Wayfair,Niraj S. Shah,"$227,271 ","$42,886 ",16681,2002,13.71,-0.13,4.57,8.94,Retailing,Consumer%20Discretionary
+382,1839,Zscaler,Jagtar Singh Chaudhry,"$41,530,160 ","$188,657 ",3153,2007,0.86,-0.33,2.42,29.13,Business Services & Supplies,Information%20Technology
+383,1856,Veeva Systems,Peter P. Gassner,"$350,000 ","$151,858 ",5482,2007,1.85,0.43,3.82,28.4,IT Software & Services,Health%20Care
+384,1878,WESCO International,John J. Engel,"$9,859,087 ","$62,893 ",18000,1993,18.22,0.47,12.62,6.37,Trading Companies,Industrials
+385,1884,PacWest Bancorp,Matthew P. Wagner,"$25,435,791 ","$94,187 ",2200,1999,1.35,0.57,39.25,4.05,Banking,Financials
+386,1891,PennyMac Financial Services,David A. Spector,"$13,575,224 ","$70,939 ",7208,2008,4.29,1.0,18.78,2.68,Business Services & Supplies,Financials
+387,1893,Essex Property Trust,Michael J. Schall,"$7,183,068 ","$85,350 ",1757,1971,1.44,0.52,13.0,22.95,Diversified Financials,Real%20Estate
+388,1899,Brown & Brown,J. Powell Brown,"$9,201,035 ","$91,957 ",12023,1939,3.05,0.57,9.93,19.18,Insurance,Financials
+389,1903,Commerce Bancshares,John W. Kemper,"$4,842,307 ","$68,003 ",4567,1865,1.42,0.51,34.99,8.66,Banking,Financials
+390,1907,Webster Financial,John R. Ciulla,"$4,721,527 ","$79,129 ",3245,1986,1.26,0.41,34.99,9.0,Banking,Financials
+391,1910,Seagen,Clay B. Siegall,"$18,906,444 ","$250,158 ",2675,1997,1.57,-0.67,3.72,25.23,Drugs & Biotechnology,Health%20Care
+392,1912,MongoDB,Dev C. Ittycheria,"$10,566,757 ","$249,910 ",3544,2007,0.87,-0.31,2.45,25.07,Business Services & Supplies,Information%20Technology
+393,1915,Murphy USA,Andrew Clyde,"$8,638,157 ","$19,058 ",14615,1996,17.36,0.4,4.17,5.92,Retailing,Consumer%20Discretionary
+394,1917,Ares Management,Michael J. Arougheti,"$70,842,896 ","$212,902 ",2100,1997,4.31,0.39,21.68,12.94,Diversified Financials,Financials
+395,1925,Palantir Technologies,Alexander Caedmon Karp,"$4,483,614 ","$217,522 ",2920,2003,1.54,-0.52,3.25,24.28,IT Software & Services,Information%20Technology
+396,1926,Wintrust Financial,Edward Joseph Wehmer,"$7,140,312 ","$69,558 ",5239,1992,1.88,0.44,50.25,5.31,Banking,Financials
+397,1928,CoStar Group,Andrew C. Florance,"$22,164,341 ","$94,511 ",4742,1987,1.94,0.29,7.26,24.17,IT Software & Services,Industrials
+398,1929,Mr. Cooper Group,Jesse K. Bray,"$8,761,455 ","$58,882 ",8200,1994,2.9,1.42,14.2,3.35,Insurance,Financials
+399,1942,Albemarle,Jerry Kent Masters,"$9,040,753 ","$70,574 ",6000,1993,3.33,0.12,10.97,23.5,Chemicals,Materials
+400,1947,Robert Half International,Michael Keith Waddell,"$8,971,474 ","$28,191 ",191600,1948,6.46,0.6,2.95,12.45,Business Services & Supplies,Industrials
+401,1949,Healthpeak Properties,Thomas M. Herzog,"$11,713,883 ","$177,521 ",196,1985,1.9,0.5,15.26,18.59,Diversified Financials,Real%20Estate
+402,1967,Masco,Keith J. Allman,"$13,410,774 ","$50,305 ",20000,1929,8.38,0.41,5.58,12.05,Construction,Industrials
+403,1970,Cadence Bank,James D. Rollins,"$10,577,641 ","$50,305 ",4600,1982,1.25,0.2,47.67,4.89,Banking,Financials
+404,1976,Tapestry,Joanne C. Crevoiserat,"$13,739,426 ","$29,147 ",16400,2017,6.51,0.84,7.93,8.7,Retailing,Consumer%20Discretionary
+405,1982,Group 1 Automotive,Earl Julius Hesterberg,"$8,577,257 ","$54,880 ",13711,1995,13.71,0.53,5.75,2.86,Retailing,Consumer%20Discretionary
+406,1986,Twilio,Jeffery G. Lawson,"$14,625,745 ","$166,789 ",7867,2008,2.84,-0.95,13.0,22.29,IT Software & Services,Information%20Technology
+407,1992,Match Group,Sharmistha Dubey,"$25,397,675 ","$106,881 ",2540,2009,2.98,0.28,5.06,22.04,IT Software & Services,Communication%20Services
