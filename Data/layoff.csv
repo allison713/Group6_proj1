@@ -1,4 +1,4 @@
-status,ticker,company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
+status,ticker,company_name,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
 private,,FarEye,New Delhi,Logistics,90,,2/3/2023,Series E,India,150
 private,,Protocol Labs,SF Bay Area,Crypto,89,0.2,2/3/2023,Unknown,United States,10
 ,,Byju's,Bengaluru,Education,1500,,2/2/2023,Private Equity,India,5500
