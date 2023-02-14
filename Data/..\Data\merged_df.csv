@@ -1,0 +1,409 @@
+,2022 Ranking,Company Name,CEO Name,CEO Salary,Median Worker Pay,Total Employees,Year Founded,Revenue (Billions),Profits (Billions),Assets (Billions),Market Value (Billions),Industry,Industry 2,CEO Salary to Worker Pay Multiplier
+0,1,Berkshire Hathaway,Warren Edward Buffett,373204,58881,372000,1939,276.09,89.8,958.78,741.48,Diversified Financials,Financials,633.83
+1,7,Apple,Tim Cook,98734394,68254,154000,1976,378.7,100.56,381.19,2640.32,Technology Hardware & Equipment,Information Technology,144657.3
+2,9,Bank of America,Brian Moynihan,23729169,102497,208000,1998,96.83,31.0,3238.22,303.1,Banking,Financials,23151.09
+3,11,Alphabet,Sundar Pichai,6322599,295884,156500,1998,257.49,76.03,359.27,1581.72,IT Software & Services,Communication Services,2136.85
+4,12,Microsoft,Satya Nadella,54946310,190302,181000,1975,184.9,71.18,340.39,2054.37,IT Software & Services,Information Technology,28873.22
+5,19,Verizon Communications,Hans Vestberg,20342871,122492,118400,1983,134.35,21.52,366.6,218.02,Telecommunications Services,Communication Services,16607.51
+6,20,AT&T,John Stankey,24820879,107570,203000,1876,163.02,17.33,551.62,141.79,Telecommunications Services,Communication Services,23074.16
+7,23,Walmart,C. Douglas McMillon,25670673,25335,2300000,1962,572.75,13.67,244.86,431.64,Retailing,Consumer Staples,101324.94
+8,26,Chevron,Michael K. Wirth,22610285,183531,42595,1879,156.29,15.62,239.54,316.23,Oil & Gas Operations,Energy,12319.6
+9,27,Citigroup,Jane Fraser,20541324,55285,223400,1998,79.94,18.23,2394.1,101.48,Diversified Financials,Financials,37155.33
+10,32,Comcast,Brian L. Roberts,33978581,83840,189000,1963,116.38,14.16,275.9,205.72,Media,Communication Services,40527.89
+11,34,Meta Platforms,Mark Elliot Zuckerberg,26823061,292785,71970,2004,117.93,39.37,165.99,499.86,IT Software & Services,Communication Services,9161.35
+12,36,Morgan Stanley,James P. Gorman,34941635,137069,74814,1924,60.22,14.58,1222.23,150.95,Diversified Financials,Financials,25492.0
+13,40,Johnson & Johnson,Joaquin Duato,26741959,90000,141700,1886,94.88,19.83,182.02,477.38,Drugs & Biotechnology,Health Care,29713.29
+14,42,CVS Health,Karen S. Lynch,20388412,45010,300000,1963,291.98,7.91,240.5,133.52,Retailing,Health Care,45297.52
+15,43,Pfizer,Albert Bourla,24353219,92986,79000,1849,81.49,21.98,181.48,271.83,Drugs & Biotechnology,Health Care,26190.2
+16,51,Intel,Patrick Gelsinger,178590400,104400,121100,1968,79.02,19.87,168.41,190.29,Semiconductors,Information Technology,171063.6
+17,67,AbbVie,Richard A. Gonzalez,23912154,149662,50000,2013,56.2,11.46,146.53,273.76,Drugs & Biotechnology,Health Care,15977.44
+18,74,MetLife,Michel A. Khalaf,16621373,76392,43000,1868,71.08,6.55,759.71,57.39,Insurance,Financials,21758.0
+19,76,The Home Depot,Edward P. Decker,13059751,28697,490600,1978,151.16,16.43,71.88,310.12,Retailing,Consumer Discretionary,45509.12
+20,84,Cigna,David Cordani,19872266,66917,73700,1792,174.27,5.36,151.02,81.2,Insurance,Health Care,29696.89
+21,85,Prudential Financial,Charles F. Lowrey,19799737,114931,40916,1875,70.93,7.61,937.58,43.6,Diversified Financials,Financials,17227.5
+22,86,PepsiCo,Ramon L. Laguarta,25506607,52297,309000,1965,79.47,7.62,92.38,238.13,"Food, Drink & Tobacco",Consumer Staples,48772.6
+23,88,Elevance Health,Gail K. Boudreaux,19348241,51005,98200,2004,144.35,6.24,100.49,121.25,Drugs & Biotechnology,Health Care,37934.01
+24,90,American International Group,Peter S. Zaffino,21905220,71936,36600,1919,52.06,9.39,521.83,48.73,Insurance,Financials,30450.98
+25,92,Cisco Systems,Chuck Robbins,29283936,117400,79500,1984,51.55,11.82,94.26,213.36,Technology Hardware & Equipment,Information Technology,24943.73
+26,100,United Parcel Service,Carol B. Tomé,27620893,50379,534000,1907,97.2,12.89,69.4,163.03,Transportation,Industrials,54826.2
+27,109,Raytheon Technologies,Gregory J. Hayes,23316063,112078,174000,2020,64.36,3.86,161.4,149.76,Aerospace & Defense,Industrials,20803.43
+28,115,Oracle,Safara Catz,138192032,75043,132000,1977,41.83,7.56,108.64,203.34,IT Software & Services,Information Technology,184150.46
+29,120,Thermo Fisher Scientific,Marc N. Casper ,21234358,83666,130000,1956,39.21,7.72,95.12,219.71,Health Care Equipment & Services,Health Care,25379.91
+30,123,Costco Wholesale,W. Craig Jelinek,9905070,45450,288000,1983,210.22,5.51,63.08,253.39,Retailing,Consumer Staples,21793.33
+31,126,Charter Communications,Thomas M. Rutledge,41860263,60007,93700,1993,51.68,4.65,143.39,97.92,Media,Communication Services,69758.97
+32,128,ConocoPhillips,Ryan Lance,23886640,179428,9900,1875,46.06,8.08,90.66,124.43,Oil & Gas Operations,Energy,13312.66
+33,135,Abbott Laboratories,Robert B. Ford,24914886,97952,113000,1888,44.51,7.7,75.2,210.98,Health Care Equipment & Services,Health Care,25435.81
+34,139,Caterpillar,James Umpleby,24298032,51102,107700,1925,50.98,6.49,82.79,115.91,Capital Goods,Industrials,47548.1
+35,143,Truist Financial,William H. Rogers Jr.,10395426,95659,52641,1872,23.19,6.44,544.34,67.64,Banking,Financials,10867.17
+36,148,Visa,Alfred F. Kelly Jr.,28103602,152395,21500,1958,25.48,12.84,81.93,436.49,Business Services & Supplies,Information Technology,18441.29
+37,150,Target,Brian Cornell,19758766,25501,450000,1902,106.0,6.95,53.81,111.76,Retailing,Consumer Discretionary,77482.32
+38,153,Deere & Company,John C. May,19912826,82240,75600,1837,44.46,5.64,79.61,123.81,Capital Goods,Industrials,24213.07
+39,159,Danaher,Rainer M. Blair,17152267,66203,80000,1984,30.28,6.46,83.39,189.4,Conglomerates,Health Care,25908.59
+40,163,FedEx,Frederick W. Smith,10596150,39177,600000,1971,91.55,5.13,84.11,53.19,Transportation,Industrials,27046.86
+41,166,Broadcom,Hock E. Tan,60703627,247541,20000,1961,28.5,7.83,73.22,239.64,Semiconductors,Information Technology,24522.66
+42,172,Lockheed Martin,James D. Taiclet,18111211,110113,114000,1912,65.75,6.21,51.51,118.82,Aerospace & Defense,Industrials,16447.84
+43,173,BlackRock,Laurence Douglas Fink,32587335,164492,18400,1988,20.3,6.14,152.65,100.8,Diversified Financials,Financials,19810.89
+44,175,Duke Energy,Lynn J. Good,16451236,115895,27605,1904,25.1,3.91,174.18,87.98,Utilities,Utilities,14194.95
+45,176,Dell Technologies,Michael Dell,3467347,70562,133000,1984,106.84,5.56,92.74,35.64,Technology Hardware & Equipment,Information Technology,4913.9
+46,185,Honeywell International,Darius Adamczyk,26100120,75529,99000,1906,34.39,5.54,64.47,130.67,Conglomerates,Industrials,34556.42
+47,191,Micron Technology,Sanjay Mehrotra,28840809,48310,43000,1978,31.17,9.02,63.7,77.51,Semiconductors,Information Technology,59699.46
+48,195,HCA Healthcare,Samuel N. Hazen,20635260,56044,284000,1968,59.72,6.81,52.21,63.62,Health Care Equipment & Services,Health Care,36819.75
+49,196,Dow,Jim Fitterling,24858892,95607,35700,1897,58.35,6.85,63.34,50.35,Chemicals,Materials,26001.12
+50,207,Gilead Sciences,Daniel O'Day,19229466,211687,14400,1987,27.37,6.22,67.95,78.17,Drugs & Biotechnology,Health Care,9083.91
+51,209,NVIDIA,Jensen Huang,23737661,217542,22473,1993,26.91,9.75,44.19,489.83,Semiconductors,Information Technology,10911.76
+52,210,Amgen,Robert A. Bradway,21721154,130589,24200,1980,25.99,5.89,61.16,133.63,Drugs & Biotechnology,Health Care,16633.22
+53,211,Union Pacific,Lance M. Fritz,14523819,89878,29905,1862,22.66,6.81,64.05,147.23,Transportation,Industrials,16159.48
+54,215,Philip Morris International,Jacek Olczak,10557568,18196,69600,1847,31.51,9.0,41.73,159.18,"Food, Drink & Tobacco",Consumer Staples,58021.37
+55,216,PayPal,Dan Schulman,32070353,83905,30900,1998,25.56,4.17,75.8,100.22,Business Services & Supplies,Information Technology,38222.22
+56,222,Mondelez International,Dirk van de Put,16128320,31024,79000,2012,28.72,4.3,67.09,89.98,"Food, Drink & Tobacco",Consumer Staples,51986.59
+57,223,McDonald's,Christopher J. Kempczinski,20028132,8897,200000,1955,23.22,7.55,53.85,185.03,"Hotels, Restaurants & Leisure",Consumer Discretionary,225111.07
+58,236,Northrop Grumman,Kathy Warden,19876767,119721,88000,1994,35.67,7.0,42.58,69.84,Aerospace & Defense,Industrials,16602.57
+59,238,Marathon Petroleum,Michael J. Hennigan,21185206,148850,17700,2009,119.78,1.72,85.37,48.64,Oil & Gas Operations,Energy,14232.59
+60,241,Netflix,Reed Hastings Ted Sarandos,40823725,201743,11300,1997,30.4,5.01,45.33,95.68,Media,Communication Services,20235.51
+61,248,Exelon,Chris M. Crane,15757378,160633,31518,2000,39.27,1.71,133.01,47.68,Utilities,Utilities,9809.55
+62,248,Humana,Bruce D. Broussard,16528036,64797,96900,1961,84.09,2.93,44.75,56.34,Drugs & Biotechnology,Health Care,25507.41
+63,250,General Dynamics,Phebe N. Novakovic,23553862,92585,103100,1952,38.47,3.26,50.07,66.42,Aerospace & Defense,Industrials,25440.26
+64,256,NextEra Energy,James L. Robo,25335936,132798,15000,1984,23.74,1.46,144.94,145.27,Utilities,Utilities,19078.55
+65,259,HP,Enrique Lores,20733806,67667,51000,1939,64.98,6.52,38.91,38.75,Technology Hardware & Equipment,Information Technology,30640.94
+66,269,Centene,Sarah London,20637990,71217,72500,1984,125.98,1.35,79.76,49.2,Drugs & Biotechnology,Health Care,28979.02
+67,271,Freeport-McMoRan,Richard Adkerson,19111894,77036,24700,1897,24.31,5.11,48.83,60.97,Materials,Materials,24809.04
+68,276,Occidental Petroleum,Vicki A. Hollub,11068539,157013,11678,1920,25.96,2.31,78.47,53.05,Oil & Gas Operations,Energy,7049.44
+69,278,McKesson,Brian S. Tyler,18152082,62610,76000,1833,257.01,1.41,63.71,47.66,Drugs & Biotechnology,Health Care,28992.3
+70,290,Dominion Energy,Robert M. Blue,8161083,110406,17100,1983,13.96,3.29,99.59,68.82,Utilities,Utilities,7391.88
+71,300,AmerisourceBergen,Steven H. Collis,14873815,65076,42000,1969,221.1,1.61,57.58,33.25,Drugs & Biotechnology,Health Care,22856.07
+72,303,Starbucks,Howard Schultz,20425162,12935,383000,1971,30.36,4.39,28.83,89.63,"Hotels, Restaurants & Leisure",Consumer Discretionary,157906.16
+73,304,Nucor,Leon J. Topalian,11618019,142635,28800,1905,39.96,7.95,28.63,43.29,Materials,Materials,8145.28
+74,310,Blackstone,Stephen Allen Schwarzman,86380331,220000,3795,1985,15.47,5.33,43.34,132.17,Diversified Financials,Financials,39263.79
+75,315,EOG Resources,Ezra Y. Yacob,9752887,185838,2800,1985,19.78,4.66,38.24,67.97,Oil & Gas Operations,Energy,5248.06
+76,317,Automatic Data Processing,Carlos Rodriguez,20827092,62238,56000,1949,15.7,2.74,59.1,93.89,Business Services & Supplies,Information Technology,33463.63
+77,318,Phillips 66,Greg C. Garland,20953206,161584,14000,2012,111.7,1.31,55.59,40.23,Oil & Gas Operations,Energy,12967.38
+78,319,Tyson Foods,Donnie King,12014497,41967,137000,1935,49.52,3.7,36.82,33.74,"Food, Drink & Tobacco",Consumer Staples,28628.44
+79,323,Altria Group,Billy Gifford,12626972,142614,6000,1919,21.11,2.46,39.52,100.66,"Food, Drink & Tobacco",Consumer Staples,8853.95
+80,324,Applied Materials,Gary E. Dickerson,35265559,109304,27000,1967,24.15,6.55,25.43,99.65,Semiconductors,Information Technology,32263.74
+81,334,Discover Financial Services,Roger C. Hochschild,12087218,63770,16700,1985,12.8,5.42,110.61,31.69,Business Services & Supplies,Financials,18954.4
+82,341,Ameriprise Financial,James Michael Cracchiolo,21229464,129010,12000,1894,13.89,2.76,175.98,30.97,Diversified Financials,Financials,16455.67
+83,357,DuPont de Nemours,Edward D. Breen,15106986,108955,28000,2017,16.65,6.47,45.71,34.51,Chemicals,Materials,13865.34
+84,360,Dollar General,Todd Vasos,16618873,17773,163000,1939,34.22,2.4,29.06,56.92,Retailing,Consumer Discretionary,93506.29
+85,369,Valero Energy,Joseph W. Gorder,22684706,198219,9813,1980,114.0,0.92,58.54,42.19,Oil & Gas Operations,Energy,11444.26
+86,370,CSX,James M. Foote,20006806,107772,20900,1827,13.12,3.93,40.45,75.34,Transportation,Industrials,18564.01
+87,374,Moderna,Stéphane Bancel,18155739,133074,2700,2010,18.4,12.2,24.87,56.56,Drugs & Biotechnology,Health Care,13643.34
+88,377,Adobe,Shantanu Narayen,36128725,165733,25988,1982,16.13,4.83,25.98,193.1,IT Software & Services,Information Technology,21799.35
+89,379,State Street,Ronald Philip O'Hanley III,14113660,61463,38784,1792,11.54,2.78,322.35,26.04,Diversified Financials,Financials,22962.86
+90,383,Fiserv,Frank J. Bisignano,20385208,70276,44000,1984,16.23,1.33,76.25,63.16,Business Services & Supplies,Information Technology,29007.35
+91,383,Regeneron Pharmaceuticals,Leonard S. Schleifer,6470514,149250,10368,1988,16.07,8.08,25.44,74.68,Drugs & Biotechnology,Health Care,4335.35
+92,391,American Tower,Thomas A. Bartlett,16114574,37616,6378,1995,9.36,2.57,69.89,119.49,Diversified Financials,Real Estate,42839.68
+93,405,Stryker,Kevin A. Lobo,16359898,76715,46000,1941,17.11,1.99,34.63,93.79,Health Care Equipment & Services,Health Care,21325.55
+94,423,Lennar,Rick Beckwitt Jon Jaffe,34045217,101561,10753,1954,28.42,3.89,32.64,22.75,Construction,Consumer Discretionary,33521.94
+95,426,Keurig Dr Pepper,Robert James Gamgort,7772521,55207,27500,2018,12.68,2.15,50.6,52.47,"Food, Drink & Tobacco",Consumer Staples,14078.87
+96,429,Emerson Electric,Lal Karsanbhai,15178106,58101,86700,1890,18.55,2.75,26.96,55.6,Capital Goods,Industrials,26123.66
+97,432,General Mills,Jeffrey L. Harmening,12266195,62454,35000,1928,18.62,2.3,31.14,43.66,"Food, Drink & Tobacco",Consumer Staples,19640.37
+98,440,Norfolk Southern,Alan H. Shaw,14016942,99945,18100,1883,11.14,3.0,38.89,67.06,Transportation,Industrials,14024.66
+99,441,Principal Financial Group,Daniel J. Houston,17566163,75348,18600,1879,14.26,1.71,304.66,18.25,Diversified Financials,Financials,23313.38
+100,445,D.R. Horton,David V. Auld,29996862,116088,11788,1978,28.89,4.53,25.0,25.28,Construction,Consumer Discretionary,25839.76
+101,445,L3Harris Technologies,Christopher Eugene Kubasik,15697749,110846,47000,2019,17.81,1.85,34.71,47.86,Aerospace & Defense,Industrials,14161.76
+102,452,Waste Management,Jim Fish,13057363,80744,48500,1971,17.93,1.82,29.61,65.39,Business Services & Supplies,Industrials,16171.31
+103,457,Xcel Energy,Robert Frenzel,8350364,122532,11321,1909,13.37,1.6,60.67,40.44,Utilities,Utilities,6814.84
+104,458,Corteva,Chuck Magro,792786,85572,21000,2019,15.66,1.76,42.34,41.92,Chemicals,Materials,926.45
+105,459,Synchrony Financial,Brian Doubles,8880347,50316,18000,2003,11.37,4.13,95.27,19.23,Business Services & Supplies,Financials,17649.15
+106,468,Kinder Morgan,Steven J. Kean,18000259,115388,10529,1997,16.6,1.03,69.14,43.42,Oil & Gas Operations,Energy,15599.77
+107,487,CME Group,Terrence A. Duffy,22924737,153565,3480,1898,4.69,2.62,196.96,80.12,Diversified Financials,Financials,14928.36
+108,493,Consolidated Edison,Timothy P. Cawley,10342198,132803,13871,1823,13.67,1.35,63.12,34.18,Utilities,Utilities,7787.62
+109,505,Intuit,Sasan Goodarzi,27174857,203814,13500,1983,11.41,2.17,26.3,125.37,IT Software & Services,Information Technology,13333.17
+110,506,Lam Research,Tim Archer,16941156,119322,14100,1980,16.72,4.54,16.59,64.61,Semiconductors,Information Technology,14197.85
+111,508,Lincoln National,Dennis R. Glass,16760924,84240,10848,1968,19.18,1.4,371.28,11.2,Insurance,Financials,19896.63
+112,509,Carrier Global,David L. Gitlin,14892815,66377,58000,1915,20.61,1.66,26.17,35.54,Capital Goods,Industrials,22436.71
+113,510,DISH Network,W. Erik Carlson,2895882,58161,14500,1980,17.88,2.41,48.46,16.2,Media,Communication Services,4979.08
+114,516,Ally Financial,Jeffrey J. Brown,15545746,106166,10500,1919,10.84,2.92,184.3,13.78,Banking,Financials,14642.87
+115,522,Cummins,Tom Linebarger,15645919,53864,59900,1919,24.02,2.13,23.71,28.3,Capital Goods,Industrials,29047.08
+116,525,Prologis,Hamid R. Moghadam,24901490,114183,2053,1991,4.83,3.72,59.78,126.34,Diversified Financials,Real Estate,21808.4
+117,533,VMware,Rangarajan Govind Raghuram,32344107,136971,37500,1998,12.85,1.82,28.68,45.55,IT Software & Services,Information Technology,23613.84
+118,537,CBRE Group,Bob Sulentic ,13908085,57349,105000,1906,27.75,1.84,22.07,27.96,Construction,Real Estate,24251.66
+119,544,Loews,James S. Tisch,6119523,53781,10340,1954,14.67,1.58,76.16,15.94,Insurance,Financials,11378.6
+120,549,Analog Devices,Vincent T. Roche,30824323,46141,24700,1965,8.44,1.28,51.22,81.24,Semiconductors,Information Technology,66804.63
+121,551,TE Connectivity,Terrence R. Curtin,14715856,24975,89000,2007,15.22,2.45,21.41,40.01,Technology Hardware & Equipment,Information Technology,58922.35
+122,556,Dollar Tree,Michael A. Witynski,10249698,13490,210565,1986,26.32,1.33,21.72,37.7,Retailing,Consumer Discretionary,75979.97
+123,557,KeyCorp,Christopher M. Gorman,8653484,73571,17045,1958,7.45,2.45,181.22,19.06,Banking,Financials,11762.09
+124,562,Best Buy,Corie Barry,15631157,29999,105000,1966,51.76,2.45,17.5,20.56,Retailing,Consumer Discretionary,52105.59
+125,562,SVB Financial Group,Gregory W. Becker,9922132,125638,6567,1983,6.08,1.81,220.36,31.82,Banking,Financials,7897.4
+126,564,Advanced Micro Devices,Lisa T. Su,29498107,128263,15500,1969,16.43,3.16,12.42,142.8,Semiconductors,Information Technology,22998.14
+127,565,Markel,"Thomas S. Gayner Richard R. Whitt, III",4624603,42786,20300,1930,12.84,2.47,39.36,19.89,Insurance,Financials,10808.68
+128,567,Kimberly-Clark,Michael D. Hsu,12009162,42749,45000,1872,19.79,1.75,18.67,46.67,Household & Personal Products,Consumer Staples,28092.26
+129,572,Citizens Financial Group,Bruce Winfield van,12430076,82418,17463,1828,6.88,2.13,192.1,20.76,Banking,Financials,15081.75
+130,573,Devon Energy,Rick Muncrief,11914547,179900,1600,1971,13.69,2.78,21.02,38.57,Oil & Gas Operations,Energy,6622.87
+131,575,Lumen Technologies,Jeffrey K. Storey,22654781,75984,36000,1968,19.69,2.03,57.99,11.16,IT Software & Services,Communication Services,29815.2
+132,577,Regions Financial,"John M. Turner, Jr.",13444577,79540,19626,1971,6.64,2.52,162.94,20.03,Banking,Financials,16902.91
+133,579,Raymond James Financial,Paul C. Reilly,13901046,106782,20021,1962,10.43,1.54,68.46,21.49,Diversified Financials,Financials,13018.15
+134,581,Illinois Tool Works,Ernest Scott Santi,20787622,61011,45000,1912,14.46,2.69,16.08,63.42,Capital Goods,Industrials,34071.92
+135,583,Activision Blizzard,Robert A. Kotick,826549,117207,9800,2008,8.8,2.7,25.06,61.39,Consumer Durables,Communication Services,705.2
+136,589,Baxter International,José E. Almeida,15634734,46351,60000,1931,12.78,1.28,33.52,36.77,Health Care Equipment & Services,Health Care,33731.17
+137,592,Fidelity National Financial,Michael J. Nolan,10457921,83831,28290,1847,15.64,2.42,58.13,11.58,Insurance,Financials,12475.0
+138,592,Parker-Hannifin,Thomas L. Williams,18448169,56416,54640,1918,15.29,1.82,22.4,35.6,Capital Goods,Industrials,32700.24
+139,596,Sysco,Kevin P. Hourican,13656506,83737,58000,1969,60.74,0.79,21.43,45.06,Food Markets,Consumer Staples,16308.81
+140,600,M&T Bank,René F. Jones,6868174,68270,17569,1856,5.89,1.77,149.86,31.03,Banking,Financials,10060.31
+141,601,Boston Scientific,Michael F. Mahoney,16064039,68891,41000,1979,11.89,1.04,32.23,62.63,Health Care Equipment & Services,Health Care,23318.05
+142,602,Edison International,Pedro J. Pizarro,14364340,175717,13003,1886,14.9,0.78,74.74,27.27,Utilities,Utilities,8174.7
+143,605,Entergy,Leo Denault,17045744,135272,12369,1913,11.7,1.12,59.45,25.1,Utilities,Utilities,12601.09
+144,610,Stanley Black & Decker,James M. Loree,13167893,56016,71300,1843,16.83,1.69,28.18,21.35,Consumer Durables,Industrials,23507.38
+145,612,Marriott International,Anthony Capuano,18391882,36505,120000,1927,13.86,1.1,25.55,58.74,"Hotels, Restaurants & Leisure",Consumer Discretionary,50381.82
+146,613,Warner Bros. Discovery,David M. Zaslav,246573481,82964,11000,2022,12.18,1.02,34.43,49.92,Media,Communication Services,297205.39
+147,615,Delta Air Lines,Ed Bastian,12360420,70240,83000,1925,35.1,0.52,73.75,28.01,Transportation,Industrials,17597.41
+148,619,Northern Trust,Michael G. O'Grady,10449233,72300,21100,1889,6.57,1.53,183.89,22.08,Banking,Financials,14452.6
+149,621,Eversource Energy,James J. Judge,6467078,133297,9227,1996,9.86,1.22,48.49,31.72,Utilities,Utilities,4851.63
+150,631,Southwest Airlines,Robert E. Jordan,5819756,84872,55100,1967,15.79,0.98,38.17,27.78,Transportation,Industrials,6857.1
+151,642,FirstEnergy,Steven E. Strah,10714062,124120,12395,1997,11.41,1.19,44.62,26.27,Utilities,Utilities,8632.02
+152,648,Cincinnati Financial,Steven J. Johnston,6490767,105458,5166,1950,9.63,2.95,31.02,21.93,Insurance,Financials,6154.84
+153,650,Cleveland-Cliffs,Lourenco Goncalves,24494731,125396,26000,1847,22.35,3.75,19.77,15.18,Materials,Materials,19533.9
+154,658,Western Digital,David V. Goeckeler,32137338,9644,65600,1970,18.94,1.99,26.02,15.48,Technology Hardware & Equipment,Information Technology,333236.6
+155,661,First Republic Bank,Michael J. Roffler,23458948,162300,6295,1985,5.52,1.54,187.12,28.21,Banking,Financials,14454.07
+156,669,AutoZone,"William C. Rhodes, III",14330010,31751,100000,1979,15.6,2.41,14.08,42.88,Retailing,Consumer Discretionary,45132.47
+157,676,PG&E,Patricia K. Poppe,51198471,201157,26000,1995,20.64,-0.09,111.75,24.11,Utilities,Utilities,25452.0
+158,677,Republic Services,Jon Vander Ark,7925408,68217,35000,1998,11.3,1.29,24.96,41.81,Business Services & Supplies,Industrials,11617.94
+159,678,Ross Stores,Barbara Rentler,15989635,10806,100000,1982,18.92,1.72,14.62,36.35,Retailing,Consumer Discretionary,147969.97
+160,679,WEC Energy Group,Scott Lauber,18481871,122530,6938,1981,8.32,1.3,39.86,32.8,Utilities,Utilities,15083.55
+161,680,Cardinal Health,Mike Kaufmann,13463557,63906,47300,1971,171.29,0.56,43.68,17.06,Drugs & Biotechnology,Health Care,21067.75
+162,681,CarMax,Bill Nash,13689123,51674,32647,1993,31.9,1.15,26.67,14.61,Retailing,Consumer Discretionary,26491.32
+163,686,IQVIA,Ari Bousbib,28615851,139803,79000,1982,13.87,0.97,24.69,43.56,Drugs & Biotechnology,Health Care,20468.7
+164,691,Ecolab,Christophe Beck,8365889,52339,47000,1923,12.73,1.13,21.21,50.16,Chemicals,Materials,15984.04
+165,695,Global Payments,Jeffrey Steven Sloan,23318393,56202,25000,2000,8.52,0.97,45.28,37.87,Business Services & Supplies,Information Technology,41490.33
+166,698,S&P Global,Douglas L. Peterson,16143770,27835,22850,1888,8.3,3.02,15.03,131.75,Business Services & Supplies,Financials,57998.1
+167,700,Arch Capital Group,Marc Grandisson,9336013,129028,5200,1995,8.88,2.14,37.49,17.86,Insurance,Financials,7235.65
+168,705,O'Reilly Automotive,Gregory D. Johnson,12764270,28113,83636,1957,13.33,2.16,12.39,46.92,Retailing,Consumer Discretionary,45403.44
+169,706,Biogen,Michel Vounatsos,17689665,163551,9610,1978,10.35,1.56,23.88,30.86,Drugs & Biotechnology,Health Care,10815.99
+170,709,The Mosaic Company,James Calvin O'Rourke,12297011,24013,12525,2004,12.36,1.63,22.04,24.17,Chemicals,Materials,51209.81
+171,720,Fox,Lachlan Keith Murdoch,21748681,91803,9000,2015,13.59,1.44,22.88,21.51,Media,Communication Services,23690.6
+172,722,Steel Dynamics,Mark D. Millet,10999918,126721,10640,1993,20.43,3.89,13.06,16.98,Materials,Materials,8680.42
+173,727,Digital Realty Trust,Arthur William Stein,17139601,122276,3030,2004,4.77,2.05,36.37,42.6,Diversified Financials,Real Estate,14017.14
+174,730,Simon Property Group,David E. Simon,10475192,64069,3300,1993,5.12,2.25,33.78,41.33,Diversified Financials,Real Estate,16349.86
+175,737,CenterPoint Energy,David J. Lesar,37809810,103170,12901,1882,8.35,1.49,38.48,20.04,Utilities,Utilities,36648.07
+176,750,NRG Energy,Mauricio Gutierrez,10854224,126289,6635,1989,26.9,2.19,23.18,9.18,Utilities,Utilities,8594.75
+177,757,Omnicom Group,John D. Wren,19981715,50612,71700,1986,14.27,1.29,26.15,16.35,Media,Communication Services,39480.19
+178,759,Cheniere Energy,Jack A. Fusco,18091084,221659,1550,1983,17.64,-2.34,43.11,34.52,Oil & Gas Operations,Energy,8161.67
+179,775,Baker Hughes Company,Lorenzo Simonelli,15646452,69701,54000,1987,20.59,0.31,34.99,31.15,Oil & Gas Operations,Energy,22447.96
+180,777,Everest Re Group,Juan C. Andrade,8866126,151276,1947,1999,11.87,1.36,35.62,12.67,Insurance,Financials,5860.89
+181,778,Amphenol,Richard Adam Norwitt,13092697,16042,90000,1932,10.88,1.59,14.68,41.49,Technology Hardware & Equipment,Information Technology,81615.12
+182,779,American Airlines Group,Robert Isom,7238011,62765,123400,1926,34.77,-2.38,67.4,13.1,Transportation,Industrials,11531.92
+183,780,KLA,Richard P. Wallace,20568625,105278,11300,1997,8.16,2.99,11.68,48.87,Semiconductors,Information Technology,19537.44
+184,790,Zoetis,Kristin C. Peck,13098491,81497,12100,1952,7.78,2.04,13.9,85.74,Drugs & Biotechnology,Health Care,16072.36
+185,798,Whirlpool,Marc R. Bitzer,18751901,27128,69000,1911,21.98,1.78,20.28,10.16,Consumer Durables,Consumer Discretionary,69123.79
+186,812,Apollo Global Management,Marc Jeffrey Rowan,302310,215817,1729],1990,4.83,1.83,30.5,30.79,Diversified Financials,Financials,140.08
+187,813,United Rentals,Matthew John Flannery,12716100,83417,20400,1997,9.72,1.39,20.85,22.72,Business Services & Supplies,Industrials,15244.02
+188,814,Diamondback Energy,Travis D. Stice,13839995,108354,870,2007,6.8,2.18,22.9,23.08,Oil & Gas Operations,Energy,12772.94
+189,815,Otis Worldwide,Judith F. Marks,13770306,49941,70000,1853,14.3,1.25,12.28,31.04,Construction,Industrials,27573.15
+190,817,Ball,Daniel W. Fisher,13924380,131452,24300,1880,13.93,0.88,19.71,27.77,Materials,Materials,10592.75
+191,832,CMS Energy,Garrick J. Rochow,6871068,135987,9778,1987,7.4,1.35,28.75,20.82,Utilities,Utilities,5052.74
+192,843,CDW,Christine A. Leahy,8943903,103536,15000,1984,20.82,0.99,13.2,22.9,IT Software & Services,Information Technology,8638.45
+193,844,The Hershey Company,Michele Buck,16144570,36149,18990,1894,8.97,1.48,10.41,46.07,"Food, Drink & Tobacco",Consumer Staples,44661.18
+194,855,Public Storage,Joseph D. Russell Jr.,10358153,28787,5800,1972,3.42,1.88,17.38,70.56,Diversified Financials,Real Estate,35982.05
+195,858,Signature Bank,Joseph J. DePaolo,8975851,115807,1854,2000,2.48,1.07,121.85,14.95,Banking,Financials,7750.7
+196,860,International Flavors & Fragrances,Franklin K. Clyburn,9767380,66105,24000,1833,11.66,0.27,39.66,31.74,Household & Personal Products,Materials,14775.55
+197,862,Roper Technologies,Laurence Neil Hunn,21532055,98550,19300,1981,6.09,1.1,23.71,47.95,Conglomerates,Information Technology,21848.86
+198,866,Franklin Resources,Jennifer M. Johnson,15734999,126915,10300,1947,8.72,1.86,25.0,13.25,Diversified Financials,Financials,12398.06
+199,870,Ameren,Martin J. Lyons JR.,9807836,132415,9116,1902,6.39,0.99,35.74,25.0,Utilities,Utilities,7406.89
+200,875,Conagra Brands,Sean M. Connolly,11947054,57855,18600,1919,11.36,1.04,22.5,17.33,"Food, Drink & Tobacco",Consumer Staples,20649.99
+201,900,Annaly Capital Management,David L. Finkelstein,9138764,365000,171,1996,0.73,2.39,76.76,9.53,Diversified Financials,Financials,2503.77
+202,910,Avis Budget Group,Joseph A. Ferraro,8594555,29628,21000,1946,9.31,1.28,22.6,16.03,Business Services & Supplies,Industrials,29008.22
+203,927,Viatris,Michael Goettler,14669592,36865,37000,1961,17.86,-1.27,54.84,12.43,Drugs & Biotechnology,Health Care,39792.74
+204,930,VF,Steven E. Rendle,15423154,26784,40000,1899,11.62,1.4,13.54,21.23,Household & Personal Products,Consumer Discretionary,57583.46
+205,931,Intuitive Surgical,Gary S. Guthart,8059409,140163,9793,1995,5.91,1.64,13.68,90.64,Health Care Equipment & Services,Health Care,5750.03
+206,937,Builders FirstSource,David E. Flitman,10129559,61301,28000,1998,19.89,1.73,10.71,10.86,Construction,Industrials,16524.3
+207,946,Alexandria Real Estate Equities,"Peter M. Moglia, Stephen A. Richardson",8320228,176113,559,1994,2.11,0.98,30.22,31.96,Diversified Financials,Real Estate,4724.37
+208,951,Motorola Solutions,Gregory Q. Brown,19980639,82965,18700,2011,8.17,1.25,12.19,37.7,Aerospace & Defense,Information Technology,24083.21
+209,960,Voya Financial,Rodney Owen Martin Jr.,16030105,121489,6000,1999,4.23,2.11,158.53,7.04,Insurance,Financials,13194.7
+210,963,Equity Residential,Mark J. Parrell,8490527,62996,2400,1993,2.43,1.33,21.17,34.26,Diversified Financials,Real Estate,13477.88
+211,965,Hormel Foods,Jim Snee,9478102,50369,20000,1891,11.97,0.93,12.83,29.2,"Food, Drink & Tobacco",Consumer Staples,18817.33
+212,975,Macy's,Jeffrey Gennette,12290931,28037,88857,1929,25.29,1.43,18.85,6.91,Retailing,Consumer Discretionary,43838.25
+213,976,Cintas,Scott D. Farmer,7777100,53321,40000,1968,7.62,1.2,8.17,41.75,Business Services & Supplies,Industrials,14585.44
+214,984,Arrow Electronics,Michael J. Long,12755479,66172,20700,1946,34.48,1.11,19.54,7.57,Trading Companies,Information Technology,19276.25
+215,985,Tenet Healthcare,Saumya Sutaria,21153672,55245,101100,1967,19.45,0.96,26.65,7.98,Health Care Equipment & Services,Health Care,38290.65
+216,994,Yum! Brands,David W. Gibbs,27578659,13082,36000,1997,6.58,1.58,5.97,35.28,"Hotels, Restaurants & Leisure",Consumer Discretionary,210813.78
+217,997,First Horizon,Bryan Jordan,8414496,61465,7867,1864,3.14,0.96,88.66,12.21,Banking,Financials,13689.9
+218,998,Molina Healthcare,Joseph M. Zubretsky,19961698,71916,14000,1980,27.77,0.66,12.22,19.08,Drugs & Biotechnology,Health Care,27756.96
+219,1009,eBay,Jamie Iannone,21685102,135528,10800,1995,10.9,-2.18,26.63,31.24,Business Services & Supplies,Consumer Discretionary,16000.46
+220,1010,Edwards Lifesciences,Michael A. Mussallem,13613305,73036,15700,1958,5.23,1.5,8.5,73.55,Health Care Equipment & Services,Health Care,18639.17
+221,1012,Constellation Brands,William A. Newlands Jr.,12040281,35606,10000,1945,8.82,-0.04,25.86,46.99,"Food, Drink & Tobacco",Consumer Staples,33815.31
+222,1029,American Financial Group,"Carl Henry Lindner, III, S. Craig Lindner, Jr.",12449582,71738,6600,1959,6.21,2.0,24.88,12.28,Insurance,Financials,17354.24
+223,1031,Invesco,Martin Flanagan,12897752,187854,8513,1935,7.01,1.63,32.69,9.38,Diversified Financials,Financials,6865.84
+224,1037,Bio-Rad Laboratories,Norman D. Schwartz,8695925,78820,7900,1952,2.92,4.25,17.78,15.99,Health Care Equipment & Services,Health Care,11032.64
+225,1043,TD SYNNEX,Richard T. Hume,9529362,56410,27000,1980,42.14,0.44,28.72,9.61,Trading Companies,Information Technology,16893.04
+226,1045,PulteGroup,Ryan R. Marshall,16149555,136630,6182,1950,13.93,1.93,13.35,10.12,Construction,Consumer Discretionary,11819.92
+227,1048,Equinix,Charles J. Meyers,23248193,122075,10944,1998,6.64,0.5,27.92,67.84,Diversified Financials,Real Estate,19044.19
+228,1067,Celanese,Lori J. Ryerkerk,12570992,90427,8529,1918,8.54,1.89,11.98,15.42,Chemicals,Materials,13901.81
+229,1069,AvalonBay Communities,Benjamin W. Schall,14371460,79313,2927,1978,2.33,1.0,19.9,35.58,Diversified Financials,Real Estate,18119.93
+230,1076,Agilent Technologies,Michael R. McMullen,15967631,82890,17000,1999,6.44,1.2,10.33,36.41,Drugs & Biotechnology,Health Care,19263.64
+231,1087,LKQ,Dominick Paul Zarcone,9445636,38982,46000,1998,13.09,1.09,12.61,14.07,Consumer Durables,Consumer Discretionary,24230.76
+232,1090,Lithia Motors,Bryan B. DeBoer,10532359,56825,21150,1946,25.19,1.25,12.08,8.53,Retailing,Consumer Discretionary,18534.73
+233,1100,Paychex,Martin Mucci,11025026,56960,15000,1971,4.5,1.36,10.28,47.42,Business Services & Supplies,Information Technology,19355.73
+234,1101,Genworth Financial,Thomas J. McInerney,8499379,104888,2500,1871,7.83,0.9,83.2,1.95,Insurance,Financials,8103.29
+235,1101,Monster Beverage,Rodney Cyril Sacks,16707577,69417,4092,1985,5.54,1.38,7.86,45.34,"Food, Drink & Tobacco",Consumer Staples,24068.42
+236,1104,Ovintiv,Brendan M. McCracken,8630387,171140,1713,1881,10.54,1.42,14.06,13.01,Oil & Gas Operations,Energy,5042.88
+237,1106,AutoNation,Michael Mark Manley,8513663,64057,22200,1991,26.69,1.5,9.36,6.53,Retailing,Consumer Discretionary,13290.76
+238,1108,Chesapeake Energy,Domenic J. Dell’Osso Jr.,7688937,133645,1300,1989,7.32,6.33,11.01,11.08,Oil & Gas Operations,Energy,5753.25
+239,1109,J.B. Hunt Transport Services,John N. Roberts,8801881,78560,33045,1961,13.04,0.86,7.03,17.76,Transportation,Industrials,11204.02
+240,1112,Realty Income,Sumit Roy,12861011,136304,371,1969,2.08,0.35,43.14,43.97,Diversified Financials,Real Estate,9435.53
+241,1121,Rockwell Automation,Blake Moret,10987704,61470,24500,1903,7.29,1.0,10.74,30.27,Capital Goods,Industrials,17874.9
+242,1128,Bath & Body Works,Andrew Meslow,17668627,10632,56900,1990,11.05,1.33,6.03,12.74,Retailing,Consumer Discretionary,166183.47
+243,1134,Dover,Richard Joseph Tobin,14085860,48794,25000,1955,8.09,1.12,10.5,20.61,Conglomerates,Industrials,28868.02
+244,1135,East West Bancorp,Dominic Ng,8649172,107255,3100,1998,1.91,0.91,62.24,11.02,Banking,Financials,8064.12
+245,1139,Ulta Beauty,Dave Kimbell,8539767,13403,40500,1990,8.63,0.99,5.34,21.23,Retailing,Consumer Discretionary,63715.34
+246,1153,Altice USA,Dexter G. Goei,38333508,79575,9000,2001,10.09,0.99,34.04,5.13,Media,Communication Services,48172.8
+247,1155,DaVita,Javier J. Rodriguez,3298439,67535,69000,2000,11.62,0.98,17.87,10.73,Health Care Equipment & Services,Health Care,4884.04
+248,1162,Darden Restaurants,Gene Lee,11891842,21931,156883,1968,9.31,1.04,10.2,16.72,"Hotels, Restaurants & Leisure",Consumer Discretionary,54223.89
+249,1163,Hess,John B. Hess,12408198,197547,1545,1920,7.72,0.56,20.52,32.97,Oil & Gas Operations,Energy,6281.14
+250,1169,Welltower,Shankh Mitra,12753710,100206,464,1970,4.73,0.34,34.91,43.1,Diversified Financials,Real Estate,12727.49
+251,1172,Caesars Entertainment,Tom Reeg,22576517,35618,49000,1937,9.48,-1.02,38.03,14.26,"Hotels, Restaurants & Leisure",Consumer Discretionary,63385.13
+252,1174,Textron,Scott C. Donnelly,18576014,102647,33000,1923,12.38,0.75,15.83,14.69,Conglomerates,Industrials,18096.99
+253,1184,Zoom Video Communications,Eric S. Yuan,1115089,188261,6787,2011,4.1,1.38,7.55,29.96,IT Software & Services,Information Technology,592.31
+254,1186,NVR,Eugene James Bredow,4162400,71417,6600,0,8.74,1.24,5.83,14.39,Construction,Consumer Discretionary,5828.3
+255,1187,Evergy,David A. Campbell,11138082,133369,4930,1909,5.59,0.88,28.52,16.36,Utilities,Utilities,8351.33
+256,1197,Targa Resources,Matthew J. Meloy,14691940,124880,2430,2005,17.44,0.07,16.41,17.39,Oil & Gas Operations,Energy,11764.85
+257,1200,Expedia Group,Peter M. Kern,296247749,102270,14800,1996,8.6,0.01,21.55,28.29,Business Services & Supplies,Consumer Discretionary,289672.19
+258,1205,Leidos,Roger Krone,12876007,95935,43000,1969,13.74,0.75,13.26,14.76,Aerospace & Defense,Industrials,13421.59
+259,1221,VICI Properties,Edward Baltazar Pitoniak,7662894,28107,152,2016,1.51,1.01,17.6,22.21,Diversified Financials,Real Estate,27263.29
+260,1222,Chipotle Mexican Grill,Brian R. Niccol,17880580,15811,97660,1993,7.55,0.65,7.64,41.49,"Hotels, Restaurants & Leisure",Consumer Discretionary,113089.49
+261,1227,Old Republic International,Craig R. Smiddy,2392292,84077,9600,1887,9.34,1.53,20.38,7.34,Insurance,Financials,2845.36
+262,1229,Zimmer Biomet,Bryan C. Hanson,14981058,63981,19500,1927,7.84,0.4,23.46,26.31,Health Care Equipment & Services,Health Care,23414.85
+263,1230,Alcoa,Roy Harvey,15960369,102645,12200,1888,12.82,0.72,15.99,12.42,Materials,Materials,15549.1
+264,1238,Illumina,Francis A. deSouza,14333634,115398,9800,1998,4.53,0.76,15.22,50.69,Drugs & Biotechnology,Health Care,12421.04
+265,1238,Synopsys,Dr. Aart de Geus,9976485,98215,16361,1986,4.5,0.91,8.9,43.63,IT Software & Services,Information Technology,10157.8
+266,1254,Hologic,Stephen P. MacMillan,14748400,89791,6705,1985,5.49,1.72,9.28,18.58,Health Care Equipment & Services,Health Care,16425.25
+267,1259,Old Dominion Freight Line,Greg C. Gantt,10577833,72726,23663,1934,5.26,1.03,4.82,30.9,Transportation,Industrials,14544.77
+268,1273,Copart,Aaron Jayson Adair,31033606,41662,8600,1982,3.16,1.09,5.14,27.58,Business Services & Supplies,Industrials,74489.0
+269,1273,Dick's Sporting Goods,Lauren R. Hobart,9566005,10495,50800,1948,12.29,1.52,9.04,7.96,Retailing,Consumer Discretionary,91148.21
+270,1276,Universal Health Services,Marc D. Miller,14020942,45454,89400,1979,12.64,0.99,13.09,9.9,Health Care Equipment & Services,Health Care,30846.44
+271,1284,Popular,Ignacio Alvarez,5091629,40826,8351,1893,2.76,0.93,75.1,6.08,Banking,Financials,12471.54
+272,1289,Frontier Communications Parent,Nicholas Simon Jeffery,17209584,80800,15600,0,6.41,4.96,17.14,6.71,Telecommunications Services,Communication Services,21298.99
+273,1305,PPL,Vincent Sorgi,11356481,147670,5607,1994,5.78,0.13,33.22,21.99,Utilities,Utilities,7690.45
+274,1311,Marvell Technology,Matthew J. Murphy,15510223,167829,6729,1995,4.46,-0.42,22.11,49.54,Semiconductors,Information Technology,9241.68
+275,1312,Skyworks Solutions,Liam K. Griffin,16150421,17409,11000,2002,5.11,1.39,8.62,18.61,Semiconductors,Information Technology,92770.53
+276,1313,Arista Networks,Jayshree V. Ullal,15993632,190816,2993,2004,2.95,0.84,5.73,36.22,Technology Hardware & Equipment,Information Technology,8381.7
+277,1315,Electronic Arts,Andrew P. Wilson,19858539,115569,11000,1982,6.56,0.64,13.93,36.02,Consumer Durables,Communication Services,17183.27
+278,1317,Brighthouse Financial,Eric Thomas Steigerwalt,7914025,132963,1500,1863,7.14,-0.11,261.3,4.1,Insurance,Financials,5952.05
+279,1325,APA,John J. Christmann IV,15040707,174903,2253,1954,7.98,0.97,13.3,14.12,Oil & Gas Operations,Energy,8599.46
+280,1335,Marathon Oil,Lee M. Tillman,12997292,128010,1531,1887,5.6,0.95,16.99,17.96,Oil & Gas Operations,Energy,10153.34
+281,1340,Keysight Technologies,Ron Nersesian,18566410,77082,14300,2014,5.01,0.95,7.73,26.44,Technology Hardware & Equipment,Information Technology,24086.57
+282,1341,StoneX Group,Sean Michael O'Connor,4748563,84188,3242,0,47.62,0.13,19.23,1.39,Diversified Financials,Financials,5640.43
+283,1344,Garmin,Clifton Albert Pemble,4238341,38118,18700,1989,4.98,1.08,7.85,21.3,Technology Hardware & Equipment,Consumer Discretionary,11119.0
+284,1350,IDEXX Laboratories,Jay Mazelsky,9065021,67638,10350,1983,3.22,0.74,2.44,39.89,Health Care Equipment & Services,Health Care,13402.26
+285,1363,Brown-Forman,Lawson Whiting,8364936,61040,4700,1870,3.74,0.81,6.23,32.09,"Food, Drink & Tobacco",Consumer Staples,13704.02
+286,1364,Assurant,Alan B. Colberg,11504780,44558,15600,1892,10.19,0.45,27.73,10.77,Insurance,Financials,25819.79
+287,1373,NetApp,George Kurian,18883551,206477,11000,1992,6.19,1.01,9.5,16.92,Technology Hardware & Equipment,Information Technology,9145.6
+288,1376,Royal Caribbean Group,Jason Liberty,15812027,14706,50000,1997,1.53,-5.26,32.26,20.82,"Hotels, Restaurants & Leisure",Consumer Discretionary,107520.92
+289,1378,Extra Space Storage,Joseph D. Margolis,7315982,43361,4309,2004,1.61,0.86,10.47,28.54,Diversified Financials,Real Estate,16872.26
+290,1383,AGCO,Eric P. Hansotia,11181748,53354,23300,1990,11.14,0.9,9.18,10.05,Capital Goods,Industrials,20957.66
+291,1389,MSCI,Henry A. Fernandez,10338312,58415,3633,1998,2.04,0.73,5.51,37.06,Business Services & Supplies,Financials,17698.04
+292,1398,First American Financial,Kenneth David DeGiorgio,10791103,57046,22233,0,9.22,1.24,16.45,6.54,Insurance,Financials,18916.49
+293,1405,Berry Global Group,Thomas E. Salmon,11498501,46842,47000,1967,14.29,0.72,17.34,7.78,Materials,Materials,24547.42
+294,1407,PerkinElmer,Prahlad Ramadhar Singh,9661006,52960,16700,1947,5.07,0.93,15.0,19.25,Health Care Equipment & Services,Health Care,18242.08
+295,1408,Navient,John F. Remondi,7883966,42587,6195,2013,3.49,0.72,80.6,2.5,Diversified Financials,Financials,18512.61
+296,1412,Quanta Services,Earl C. Austin Jr.,10967217,106665,43700,1997,12.98,0.49,12.86,17.2,Construction,Industrials,10281.93
+297,1417,Liberty Broadband,Gregory Ben Maffei,18018126,84277,1900,1991,0.99,0.73,17.19,20.82,Telecommunications Services,Communication Services,21379.65
+298,1422,AGNC Investment,Peter J. Federico,6949900,281305,50,2008,1.97,0.75,68.15,6.06,Diversified Financials,Financials,2470.59
+299,1424,Westinghouse Air Brake Technologies,Rafael O. Santana,11027238,45266,25000,1869,7.82,0.56,18.45,16.52,Capital Goods,Industrials,24360.97
+300,1431,Henry Schein,Stanley M. Bergman,10786180,72625,21600,1932,12.4,0.62,8.48,12.05,Health Care Equipment & Services,Health Care,14851.88
+301,1434,Mettler-Toledo International,Patrick K. Kaltenbach,11811322,51436,17800,1991,3.72,0.77,3.33,29.21,Conglomerates,Health Care,22963.14
+302,1437,Thor Industries,Robert W. Martin,15866718,54701,31000,1980,14.88,0.92,7.66,4.25,Consumer Durables,Consumer Discretionary,29006.27
+303,1438,Williams-Sonoma,Laura Alber,21324327,24866,21000,1956,8.25,1.13,4.63,9.68,Retailing,Consumer Discretionary,85756.97
+304,1443,Olin,Scott McDougald Sutton,10105293,93832,7750,1892,8.91,1.3,8.52,8.46,Chemicals,Materials,10769.56
+305,1444,Kimco Realty,Conor C. Flynn,10488138,108000,606,1973,1.36,0.84,18.46,15.72,Diversified Financials,Real Estate,9711.24
+306,1445,Fortinet,Ken Xie,14203211,202875,10195,2000,3.34,0.61,5.92,48.93,Technology Hardware & Equipment,Information Technology,7000.97
+307,1447,Church & Dwight,Matthew T. Farrell,8889526,73466,5100,1846,5.19,0.83,8.0,24.95,Household & Personal Products,Consumer Staples,12100.19
+308,1449,ServiceNow,William R. McDermott,165802037,233859,16881,2004,5.9,0.23,10.8,94.28,IT Software & Services,Information Technology,70898.29
+309,1450,Align Technology,Joseph M. Hogan,21591400,13011,22540,1997,3.95,0.77,5.94,28.42,Health Care Equipment & Services,Health Care,165947.28
+310,1451,Mohawk Industries,Jeffrey Lorberbaum,5190696,36391,43000,1878,11.2,1.03,14.22,7.88,Consumer Durables,Consumer Discretionary,14263.68
+311,1452,SS&C Technologies,William Charles Stone,22981889,67434,24900,1986,5.05,0.8,17.33,17.52,IT Software & Services,Information Technology,34080.57
+312,1454,Advance Auto Parts,Thomas R. Greco,10052271,24960,41000,1932,11.0,0.62,12.19,13.34,Retailing,Consumer Discretionary,40273.52
+313,1462,UGI,Roger Perreault,6060694,71717,5800,1882,8.7,1.07,16.8,7.68,Oil & Gas Operations,Utilities,8450.85
+314,1464,Teradyne,Mark E. Jagiela,10954713,128299,5900,1960,3.7,1.02,3.81,17.65,Semiconductors,Information Technology,8538.42
+315,1465,Avery Dennison,Mitchell R. Butier,12433721,15256,36000,1990,8.41,0.74,7.97,13.79,Materials,Materials,81500.53
+316,1474,Verisk Analytics,Scott G. Stephenson,12796321,72679,9367,1971,3.0,0.67,7.81,33.43,Insurance,Industrials,17606.63
+317,1476,Ventas,Debra A. Cafaro,14263728,111261,434,1983,3.83,0.05,24.72,23.37,Diversified Financials,Real Estate,12820.06
+318,1479,Gartner,Eugene A. Hall,14096168,118762,16600,1979,4.73,0.79,7.42,24.14,Business Services & Supplies,Information Technology,11869.26
+319,1480,SLM,Jonathan W. Witter,7047062,88566,1450,1972,2.34,1.16,29.22,4.67,Business Services & Supplies,Financials,7956.85
+320,1481,Atmos Energy,Kevin Akers,4839562,81388,4684,1906,3.51,0.7,20.55,16.08,Oil & Gas Operations,Utilities,5946.28
+321,1488,Equifax,Mark Begor,16065575,90330,12700,1899,5.07,0.76,11.39,25.02,Business Services & Supplies,Industrials,17785.43
+322,1492,Globe Life,Gary L. Coleman Larry M. Hutchison,8353754,56843,3222,1951,5.16,0.73,29.77,10.26,Insurance,Financials,14696.19
+323,1500,BorgWarner,Frédéric B. Lissdale,17592090,31740,49300,1928,14.84,0.54,16.58,9.09,Consumer Durables,Consumer Discretionary,55425.61
+324,1504,Zebra Technologies,Anders Gustafsson,13589616,60450,9800,1969,5.62,0.84,6.22,20.06,Technology Hardware & Equipment,Information Technology,22480.75
+325,1505,VeriSign,D. James Bidzos,10118313,201444,904,1995,1.33,0.78,1.98,22.59,IT Software & Services,Information Technology,5022.89
+326,1510,Incyte,Herve Hoppenot,14444265,248810,2094,1991,2.99,0.95,4.97,16.95,Drugs & Biotechnology,Health Care,5805.34
+327,1513,Performance Food Group,George L. Holm,8660511,80079,23000,1885,39.73,0.04,12.22,8.13,Food Markets,Consumer Staples,10814.96
+328,1515,Martin Marietta Materials,C. Howard Nye,14939587,90423,10000,1993,5.41,0.71,14.74,22.14,Construction,Materials,16521.89
+329,1516,Boston Properties,Owen D. Thomas,12894537,123647,743,1970,2.89,0.51,22.36,21.77,Diversified Financials,Real Estate,10428.51
+330,1529,Las Vegas Sands,Robert Glen Goldstein,31204900,35879,44700,1988,4.23,-0.96,20.06,27.81,"Hotels, Restaurants & Leisure",Consumer Discretionary,86972.6
+331,1537,Alliant Energy,John O. Larsen,10449260,110610,3313,1981,3.67,0.67,19.25,15.83,Utilities,Utilities,9446.94
+332,1542,Ingersoll Rand,Vicente Reynal,10613486,51757,16000,1872,5.39,0.76,15.15,18.74,Capital Goods,Industrials,20506.38
+333,1561,EQT,Toby Z. Rice,16919763,122460,693,1888,6.84,-1.16,21.61,14.96,Oil & Gas Operations,Energy,13816.56
+334,1562,West Pharmaceutical Services,Eric Mark Green,9472757,57357,10065,0,2.83,0.66,3.31,25.98,Drugs & Biotechnology,Health Care,16515.43
+335,1571,Fortive,James A. Lico,16598719,61746,18000,2015,5.25,0.61,16.47,20.75,Technology Hardware & Equipment,Industrials,26882.26
+336,1571,Rocket Companies,Jay Farner,1603475,77800,0,1985,10.0,0.31,32.78,1.05,Business Services & Supplies,Financials,2061.02
+337,1581,Avantor,Michael Stubblefield,13260913,40456,13500,1904,7.39,0.57,13.9,18.32,Chemicals,Health Care,32778.61
+338,1586,Palo Alto Networks,Nikesh Arora,10410477,268463,10473,2005,4.86,-0.46,10.4,56.29,Technology Hardware & Equipment,Information Technology,3877.81
+339,1588,DXC Technology,Michael J. Salvino,28716680,44156,134000,2017,16.64,-0.61,19.95,7.2,Business Services & Supplies,Information Technology,65034.6
+340,1592,Owens Corning,Brian D. Chambers,9782143,64753,20000,1938,8.5,1.0,10.02,8.46,Construction,Industrials,15106.86
+341,1597,HF Sinclair,Michael C. Jennings,11473664,135851,4208,1947,18.41,0.55,13.17,8.47,Oil & Gas Operations,Energy,8445.77
+342,1600,Invitation Homes,Dallas B. Tanner,9710445,63730,1240,2012,1.85,0.27,18.54,26.2,Diversified Financials,Real Estate,15236.85
+343,1603,Workday,Aneel Bhuri,22015513,212269,15200,2005,5.15,0.03,10.5,51.74,IT Software & Services,Information Technology,10371.52
+344,1606,Qorvo,Robert A. Bruggeworth,10072684,57510,8400,1991,4.55,1.12,7.63,12.11,Semiconductors,Information Technology,17514.67
+345,1608,Stifel Financial,Ronald James Kruszewski,13555232,102972,8600,1890,4.79,0.82,34.31,6.88,Diversified Financials,Financials,13164.0
+346,1614,NiSource,Lloyd M. Yates,9535782,124663,7272,1847,4.9,0.58,25.26,12.51,Oil & Gas Operations,Utilities,7649.25
+347,1629,CrowdStrike,George P. Kurtz,147695746,183564,4965,2011,1.45,-0.23,3.62,47.45,IT Software & Services,Information Technology,80460.08
+348,1633,Interactive Brokers Group,Milan Galik,12289397,86317,2571,1977,2.74,0.27,114.42,6.0,Diversified Financials,Financials,14237.52
+349,1640,World Fuel Services,Michael J. Kasbar,5141566,68408,4414,1984,31.3,0.07,5.94,1.72,Trading Companies,Energy,7516.03
+350,1647,BOK Financial,Stacy C. Kymes,4770328,85320,4711,1908,2.01,0.62,50.25,6.02,Banking,Financials,5591.1
+351,1652,New York Community Bancorp,Thomas Robert Cangemi,8652305,79980,2815,1993,1.75,0.59,59.64,4.7,Banking,Financials,10818.09
+352,1660,DexCom,Kevin Ronald Sayer,11985324,63500,6300,1999,2.45,0.15,4.86,42.92,Health Care Equipment & Services,Health Care,18874.53
+353,1664,Autodesk,Andrew Anagnost,22095521,137042,12600,1982,4.4,0.5,8.61,40.7,IT Software & Services,Information Technology,16123.17
+354,1679,United Natural Foods,J. Alexander M.,8722292,59523,28300,1976,27.77,0.23,7.8,2.62,Food Markets,Consumer Staples,14653.65
+355,1686,Huntsman,Peter R. Huntsman,14066141,94993,9000,1970,8.45,1.04,9.39,7.33,Chemicals,Materials,14807.56
+356,1689,SBA Communications,Jeffrey A. Stoops,9995179,96104,1596,1989,2.31,0.24,9.8,39.57,Diversified Financials,Real Estate,10400.38
+357,1691,Datadog,Olivier Pomel,8632636,190126,3200,2010,1.03,-0.02,2.38,39.38,IT Software & Services,Information Technology,4540.48
+358,1691,PBF Energy,Thomas J. Nimbley,7294215,161438,3418,2008,27.25,0.23,12.69,3.21,Oil & Gas Operations,Energy,4518.28
+359,1699,ResMed,Michael J. Farrell,11659210,64956,7970,1989,3.44,0.52,4.74,33.26,Health Care Equipment & Services,Health Care,17949.4
+360,1701,BJ's Wholesale Club,Robert W. Eddy,16340546,19021,34000,1984,16.67,0.43,5.67,9.09,Retailing,Consumer Staples,85907.92
+361,1701,PVH,Stefan Larsson,14714208,17839,31000,1881,9.15,0.95,12.4,5.12,Household & Personal Products,Consumer Discretionary,82483.37
+362,1707,Pool,Peter D. Arvan,5575384,61709,5500,1993,5.65,0.73,3.88,16.68,Trading Companies,Consumer Discretionary,9034.96
+363,1712,Aramark,John J. Zillmer,13324828,15154,248300,1936,13.3,0.03,14.47,9.82,"Hotels, Restaurants & Leisure",Consumer Discretionary,87929.44
+364,1716,Cullen/Frost Bankers,Phillip D. Green,5186313,59106,4553,1868,1.39,0.44,50.88,8.86,Banking,Financials,8774.6
+365,1717,Live Nation Entertainment,Michael Rapino,13842464,15740,10200,2010,6.27,-0.67,14.4,23.79,Media,Communication Services,87944.5
+366,1727,FMC,Mark A. Douglas,8489671,54297,6400,1883,5.04,0.73,10.58,16.7,Chemicals,Materials,15635.62
+367,1735,Rite Aid,Heyward R. Donigan,9911507,49984,50000,1968,24.57,-0.54,8.53,0.41,Retailing,Consumer Staples,19829.36
+368,1736,Waters,Udit Batra,8653559,74470,7800,1958,2.79,0.69,3.1,17.94,Health Care Equipment & Services,Health Care,11620.19
+369,1750,Burlington Stores,Michael B. O'Sullivan,13867435,12690,62395,1972,9.32,0.41,7.09,13.82,Retailing,Consumer Discretionary,109278.45
+370,1764,Akamai Technologies,Frank Thomson Leighton,11951574,112018,8700,1998,3.46,0.65,8.14,18.85,IT Software & Services,Information Technology,10669.33
+371,1766,Medical Properties Trust,Edward K. Aldag,17036629,173092,112,2003,1.54,0.65,20.52,11.25,Diversified Financials,Real Estate,9842.53
+372,1769,Newell Brands,Ravi Saligram,11438798,33913,32000,1903,10.59,0.57,14.18,9.45,Consumer Durables,Consumer Discretionary,33729.83
+373,1775,Toll Brothers,Douglas C. Yearley,12195409,87815,5100,1986,9.02,0.89,11.28,5.35,Construction,Consumer Discretionary,13887.61
+374,1777,Foot Locker,Richard Johnson,14458325,12135,49933,1974,8.96,0.89,8.14,2.79,Retailing,Consumer Discretionary,119145.65
+375,1782,Avnet,Philip R. Gallagher,8129900,40474,14500,1921,21.59,0.46,9.58,3.87,Trading Companies,Information Technology,20086.72
+376,1795,Lear,Ray Scott,13306375,8106,160100,1917,19.26,0.37,13.35,7.75,Consumer Durables,Consumer Discretionary,164154.64
+377,1801,DoorDash,Tony Xu MBA,300297,87662,8600,2013,4.89,-0.47,6.81,31.01,IT Software & Services,Consumer Discretionary,342.56
+378,1802,Cloudflare,Matthew Browning Prince,400000,231472,2440,2009,0.66,-0.26,2.37,30.99,Business Services & Supplies,Information Technology,172.81
+379,1820,Horizon Therapeutics Public Limited Company,Timothy P. Walbert,21353458,298200,1890,2008,3.23,0.53,8.68,24.26,Drugs & Biotechnology,Health Care,7160.78
+380,1828,Booz Allen Hamilton Holding,Horacio D. Rozanski,11866337,121742,27200,1914,8.1,0.57,5.94,11.73,Business Services & Supplies,Industrials,9747.12
+381,1839,Wayfair,Niraj S. Shah,227271,42886,16681,2002,13.71,-0.13,4.57,8.94,Retailing,Consumer Discretionary,529.94
+382,1839,Zscaler,Jagtar Singh Chaudhry,41530160,188657,3153,2007,0.86,-0.33,2.42,29.13,Business Services & Supplies,Information Technology,22013.58
+383,1856,Veeva Systems,Peter P. Gassner,350000,151858,5482,2007,1.85,0.43,3.82,28.4,IT Software & Services,Health Care,230.48
+384,1878,WESCO International,John J. Engel,9859087,62893,18000,1993,18.22,0.47,12.62,6.37,Trading Companies,Industrials,15675.97
+385,1884,PacWest Bancorp,Matthew P. Wagner,25435791,94187,2200,1999,1.35,0.57,39.25,4.05,Banking,Financials,27005.63
+386,1891,PennyMac Financial Services,David A. Spector,13575224,70939,7208,2008,4.29,1.0,18.78,2.68,Business Services & Supplies,Financials,19136.47
+387,1893,Essex Property Trust,Michael J. Schall,7183068,85350,1757,1971,1.44,0.52,13.0,22.95,Diversified Financials,Real Estate,8416.01
+388,1899,Brown & Brown,J. Powell Brown,9201035,91957,12023,1939,3.05,0.57,9.93,19.18,Insurance,Financials,10005.8
+389,1903,Commerce Bancshares,John W. Kemper,4842307,68003,4567,1865,1.42,0.51,34.99,8.66,Banking,Financials,7120.73
+390,1907,Webster Financial,John R. Ciulla,4721527,79129,3245,1986,1.26,0.41,34.99,9.0,Banking,Financials,5966.87
+391,1910,Seagen,Clay B. Siegall,18906444,250158,2675,1997,1.57,-0.67,3.72,25.23,Drugs & Biotechnology,Health Care,7557.8
+392,1912,MongoDB,Dev C. Ittycheria,10566757,249910,3544,2007,0.87,-0.31,2.45,25.07,Business Services & Supplies,Information Technology,4228.22
+393,1915,Murphy USA,Andrew Clyde,8638157,19058,14615,1996,17.36,0.4,4.17,5.92,Retailing,Consumer Discretionary,45325.62
+394,1917,Ares Management,Michael J. Arougheti,70842896,212902,2100,1997,4.31,0.39,21.68,12.94,Diversified Financials,Financials,33274.89
+395,1925,Palantir Technologies,Alexander Caedmon Karp,4483614,217522,2920,2003,1.54,-0.52,3.25,24.28,IT Software & Services,Information Technology,2061.22
+396,1926,Wintrust Financial,Edward Joseph Wehmer,7140312,69558,5239,1992,1.88,0.44,50.25,5.31,Banking,Financials,10265.26
+397,1928,CoStar Group,Andrew C. Florance,22164341,94511,4742,1987,1.94,0.29,7.26,24.17,IT Software & Services,Industrials,23451.6
+398,1929,Mr. Cooper Group,Jesse K. Bray,8761455,58882,8200,1994,2.9,1.42,14.2,3.35,Insurance,Financials,14879.68
+399,1942,Albemarle,Jerry Kent Masters,9040753,70574,6000,1993,3.33,0.12,10.97,23.5,Chemicals,Materials,12810.32
+400,1947,Robert Half International,Michael Keith Waddell,8971474,28191,191600,1948,6.46,0.6,2.95,12.45,Business Services & Supplies,Industrials,31823.89
+401,1949,Healthpeak Properties,Thomas M. Herzog,11713883,177521,196,1985,1.9,0.5,15.26,18.59,Diversified Financials,Real Estate,6598.59
+402,1967,Masco,Keith J. Allman,13410774,50305,20000,1929,8.38,0.41,5.58,12.05,Construction,Industrials,26658.93
+403,1970,Cadence Bank,James D. Rollins,10577641,50305,4600,1982,1.25,0.2,47.67,4.89,Banking,Financials,21027.02
+404,1976,Tapestry,Joanne C. Crevoiserat,13739426,29147,16400,2017,6.51,0.84,7.93,8.7,Retailing,Consumer Discretionary,47138.39
+405,1982,Group 1 Automotive,Earl Julius Hesterberg,8577257,54880,13711,1995,13.71,0.53,5.75,2.86,Retailing,Consumer Discretionary,15629.11
+406,1986,Twilio,Jeffery G. Lawson,14625745,166789,7867,2008,2.84,-0.95,13.0,22.29,IT Software & Services,Information Technology,8769.01
+407,1992,Match Group,Sharmistha Dubey,25397675,106881,2540,2009,2.98,0.28,5.06,22.04,IT Software & Services,Communication Services,23762.57
